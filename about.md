@@ -4,5 +4,8 @@ title: About
 
 ---
 
-# Some info 
-...about how cool you are ;)
+# Introduction
+My name is Aric.
+
+# Other things
+I am very confused by git currently.
