@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "1996 S10 Double DIN Install"
-date: 2017-04-30 01:50:00
+date: 2010-07-29 00:00:00
 description: Installing a custom double DIN stereo in a 1996 s10 truck
 comments: true
 tags: 
- - blog
- - code
+ - vehicles
+ - electronics
 ---
 
 This is an installation of a double DIN radio in a 1996 Isuzu Hombre which should be the same if not exact same as a S10. I hope this will serve as an how-to for individuals wanting add a double din radio or force their single DIN radio to be flush with the dash rather than sticking out an inch.
