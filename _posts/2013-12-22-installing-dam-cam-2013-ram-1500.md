@@ -6,6 +6,7 @@ description: I bought a dash camera didn't want the wire hanging down plugged in
 comments: true
 tags: 
  - vehicles
+ - electronics
 ---
 
 I bought a dash camera didn't want the wire hanging down plugged into the cigarette lighter so I hardwired it to the power for the rear view mirror. I'll detail how to remove the mirror and how to tap into some auxiliary power
