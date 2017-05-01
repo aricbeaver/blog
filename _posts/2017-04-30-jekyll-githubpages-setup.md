@@ -2,7 +2,8 @@
 layout: post
 title: "Jekyll and Github Pages Blog Setup"
 date: 2017-04-30 01:50:00
-description: Tutorial on how this blog was setup.
+description: Tutorial on how this blog was setup
+comments: true
 tags: 
  - blog
  - code
