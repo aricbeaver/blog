@@ -19,32 +19,32 @@ Sorry if the links are dead after a while, just google the description and you'l
 # Parts
 
 ### Amplifier
-[TPA3116D2 50Wx2 Official Version Finished Stereo Digital Power Amplifier Board](http://www.ebay.com/itm/400894841978?_trksid=p2057872.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT)
+[TPA3116D2 50Wx2 Official Version Finished Stereo Digital Power Amplifier Board](http://www.ebay.com/itm/400894841978?_trksid=p2057872.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT){:target="_blank"}
 
 ![](https://lh3.googleusercontent.com/7-asMgcIGGd16mDDpKn7EdtD5eBuakJIHzHAp2edsym0uqKGoimRfop1M7SL4c3hppU8WWh894gHDdrLu_8P40r2LLCQ-XhD4nMOBWzGF_p5hbplw3wBTsuJGjnHdwKyPQyWnSLaNcyCmJfVY5HnlrHD3m_JKjHOcDym1vlrx9fSHUUmhHFsU4mDqgiUkMeuqtzkjJbTAzpgPa7f3TBifJOvv4uLo4Q9empZarO6PXoi_CZbgYMXlDAcnTtfgKuq9YaS6L9wEiOQjtnPo5o0NgGDxdoGM00p3Z7gR_n9XHAW0SXr8MDFqBD0aP81FjuwA0VXdUaFEYGJxrq-AOHLHu-Kww_mSTWlsxpPVSTqeyHCKjHi41casqpL4BmMCnGJ-qzZxyDqDrJaWePnr-puK9xx7yo56vf6n9Bl2vboPNiDjb_6Zq3C9k_V4KD23vgRiZIr2SD63_s2Nx-MNaTLdYfPGOOTfFqQ4uu5e2XLGO9bfEAsIdhhxU5uPjqS8MTo3QEGgS-QkPfxiWyupl2FOzhQME9Y1Kw4Lf1u4hHGJA_2O8aUB_TaSczqCY6BI_SlqJihkO-n9ygh9mAQKKKyu6JtvCCojBAq4N92hIr2mD9xAYzMK38L=w394-h327-no)
 
 ### Battery and Charger
-[Super Power 12V 6800mAh Rechargeable Li-po Battery for CCTV Cam Safe Package DF](http://www.ebay.com/itm/Super-Power-12V-6800mAh-Rechargeable-Li-po-Battery-for-CCTV-Cam-Safe-Package-DF-/331626640087?hash=item4d367cf2d7:g:MgoAAOSwd0BVyq-y)
+[Super Power 12V 6800mAh Rechargeable Li-po Battery for CCTV Cam Safe Package DF](http://www.ebay.com/itm/Super-Power-12V-6800mAh-Rechargeable-Li-po-Battery-for-CCTV-Cam-Safe-Package-DF-/331626640087?hash=item4d367cf2d7:g:MgoAAOSwd0BVyq-y){:target="_blank"}
 
 ![](https://lh3.googleusercontent.com/nsA2ab464H1Oj99SbXolzh3ZvP6Ftb9cCzysx1kSGMS1OSYhcGyzVoHeo8Z6pf16wg91TDioRmTAdmh8jEavkOy2iGUj7ED79J8Fu9xoIK5A0GTxHDK6PHVHIRexgz75UG4aVH4XrvyaBwaRVKxKJh29reozjESK6w4Xkb5tbDpkzLmomEcCPOUDABkbQ9Gj6YupcQzg2uWnMv5rWLt6E4OlEAFqe_F3i1goTKbNdIV4R8oEIaVX7c5PaKYDasl2yB0sK_EamEKLJs0nQwmR7d4OgQ4SRfMFMLDEij0utyqJrXuq4tU9-PgC-K_oaKxYg-wwsn3g-p6k5OvP8OxDBUEbnsNZB1yVYuHNTvf-lKpdDAKzNet0cr9sGECfz2rp1s7bR-FlZmvRRlWhnaNphXC9cxj8di7rS5bBI-LKFT0LTCRZTQg5nzdt7AuCjTW0a6dnEVV3gXEHLSZqew1y8_Zk3vLL11snoutSuPMR1R8Wk1ec1Xn3mwEgm3CPB86HYc3fdnP4RZCYLFsIUWWhyfymqhE2uMf4BfHuRqoGi8jkNaPPIwZZLS_7-SQnnqTs7CamYL-UOV7PPy0gtoqHe5QGgodPeK3ZhbtgAYb7dOyIZsL63ooz=s723-no)
 
 ### 12V to 5V Adapter for Bluetooth Receiver
-[DC-DC 9V/12V/24V to 5V USB Step Down Power Module 2A Precise Vehicle Charger](http://www.ebay.com/itm/131620939056?_trksid=p2057872.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT3A)
+[DC-DC 9V/12V/24V to 5V USB Step Down Power Module 2A Precise Vehicle Charger](http://www.ebay.com/itm/131620939056?_trksid=p2057872.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT3A){:target="_blank"}
 
 ![](https://lh3.googleusercontent.com/sQx11b7MWU-4yeBcUWktnBzxXQFQxHkVPUS1Ha-G88lubbgTXcbff1vN9hoLk6iGYvZwKRpJQCyIg6LrzJLzqlAZpQb1wnmpkkVQpDYIRdVy_BE_emCDfcwqnKc3vBXH661TBc7NXPL2SOODLmd8J6ypcr3E5Jvd33L1s_wro9sg5f9u9UW8E_q-qbqWMhCRJRGAni5smleIm1YHJ6HR51oo2JGtXmq3OQz1_9HUQ7y4jIxqJWqwm6NybsXR-80C9n08jcaGMwyZd7ADGQamA-564v0aRGxVva9okb1MnLgnQ0vZgmwl8wZTaFaduyB1GKaRV0lNH-o5PVOFMYZbBi0rlvJ8pcER6rTwhJvwUo1kYYb8I7XN1cTSUpmmGxJXmkzZ1QxxbmzJSPdyeKTYMRzbyUFMC12c9sSv21PcdjMkMJkRUMbt-IzYYAbRphg334YJt4tvPg5VmGTYmoBuAp56zTh4sw9A8dSBYJH_92nowq3J4LDngSBcaa91xns2u5YEtkY40GP5MGFLnzzFsBLzqYfqsD3hmXVpiILJ5W51LKT_9jH7NBZ32F0QmXsJJqO-Kut4kc6PVokClUrMeHqSbdwOYI1qW08-jDM_kt0OA_6G6tXk=s723-no)
 
 ### USB Powered Bluetooth Receiver
-[USB Bluetooth Wireless 3.5mm Stereo Audio Music Receiver Adapter Dongle AUX A2DP](http://www.ebay.com/itm/131579597994?_trksid=p2057872.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT)
+[USB Bluetooth Wireless 3.5mm Stereo Audio Music Receiver Adapter Dongle AUX A2DP](http://www.ebay.com/itm/131579597994?_trksid=p2057872.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT){:target="_blank"}
 
 ![](https://lh3.googleusercontent.com/3VG2PWmNjRi1W-4QH-c5Pj6MQ-LyzJpYKdThW4TZUiHVUtgipAT9xpy0QSE3ULPVHNnJNuCXcSMQrLZ_wym0AGuej0ZO_DMzh7ShHO_c-Ve85KmkWCu6WmsNrLb4WRqSOTpS6wMkz-SM_Ysd-UimFYD58aGnNwSD7dih1WtzWihSTe210fvAl0VH-5B_blU1n98JlWAbC6hh-r_Xo65AB5pa3Mq0pDR-nA8k9EG4QuNMD11ZnKPN6hQNVwqwL79dX0Gews_cE8lfdLyZhYa1gwTCyCUtdmaTp0nRpsfeWBzwouQ3APZpMBxYpPhOlJoGYT_pn9QkpIkx53EaGbk6Dqxr2yqNPhcpRHuunNUJ5tUvpan9O9SWVl8a9ER4L31HHDBuY6KwYEaK9FVywSHCu19OxzZNetI7I01EdWrfxT82UlKkC4mKVakkLd8_k8n3bN0AeMzJicLKOgUKvdhUpmSEd7lOybEd6z1zLv8pk4SYfOc12tg3RPzLvja2SsYE3XLFNoj9JhzqY_U4vd5czqKVNbQrn7_ZGFFMeHqGYPXppfdPr8o0DO-v2dn9ylJZsoiCaXqzdxG07uJtt2-LjQ7uXC2AiTbppljj-NpX3KltZVVIh16s=s307-no)
 
 ### Voltage Meter for Charge Indication
-[Mini DC 2.5-30V LED Display 3-Digital Panel Volt Voltage Meter Voltmeter Black](http://www.ebay.com/itm/Mini-DC-2-5-30V-LED-Display-3-Digital-Panel-Volt-Voltage-Meter-Voltmeter-Black-/121661543669)
+[Mini DC 2.5-30V LED Display 3-Digital Panel Volt Voltage Meter Voltmeter Black](http://www.ebay.com/itm/Mini-DC-2-5-30V-LED-Display-3-Digital-Panel-Volt-Voltage-Meter-Voltmeter-Black-/121661543669){:target="_blank"}
 
 ![](https://lh3.googleusercontent.com/uULtkXEyVkUpYQlhTQvgQjR7BLO92v8RkY3MgOAbpDp-yamTNJywVf130nwnV0gFKat0uaHuuPMxcca_HewFfarmy_Qf-qoLmWsybQa5DECtcqL35jwop25A50D-7feuah4vtU3E8y9Rijw8H4luJSsCbOOvBwfaYpdaV_-QmFWV678Dva6RWD8LroDfsN_6loMV9bjA3sTVtdhgyPxqX4Y5Eb69RpjwP04etSSnitK7mfUg2yTyge_efWNgBdieU1fkuK0A2z28H7VC0dMTMs2d3rKgh9y0KtS2FV7_VwkDA0ScIUB-A-2VjFozp0n_W4rFXjsI_Ug9bixdINw_h84C2xXEOGiTd5BpteHAKZxC90yWAG1vvJenfpQLvLmqZl72kkMnyr-a2hrZrlSaV-3knpqNO6N0xH5Q2b_Cp8LgrBoWkVzcEHILuB0scpS0oGH9MC0yvunEh-EsitfquB46a7aU-NC72NSgHAO1zvpYBVTiSLMM_Z1xx7D2pGbFd_on2CFRn_4jR8TxkSIWAVQxkS6Oa87e7WlhgZ0KxU02FNdnZ88zjCWOXVigdBCSFDtFsUKkDHQ9qse4qMtdCoZ3NfAAzslFZ5WF4DDiIhircEVp2mbZ=s500-no)
 
 ### 4" Speakers
-[Rockford Fosgate R14X2 Prime 4-Inch Full Range Coaxial Speaker - Set of 2](http://www.amazon.com/gp/product/B00BF6HWF4?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00)
+[Rockford Fosgate R14X2 Prime 4-Inch Full Range Coaxial Speaker - Set of 2](http://www.amazon.com/gp/product/B00BF6HWF4?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00){:target="_blank"}
 
 ![](https://lh3.googleusercontent.com/XM_SSofhUD9xuk5CWn4hh2wHXJ7GdFdfMp_QszKimgLz-1DUKn5BMWu7HH5aNmJlL-ow2zQtYVN7x2X6x5p8Ir5CKBjPxENb_MdNubLON2cogqV-eJxlcZKCYr8-XJDXkcd8OUiTfzjkQz8rp4AbQ_X1Jd-jEn_rxiHQZ5BF8VAnnHb771wpqV6nmianh2mYZO17FnIDc42XUKrxZJxYLLDcM5Cjm88Tho_uuueBqV7xgH7tGmJz5ffpTTIWQfd4IzmjDkVmTvFxxy1tCwByQgcw2tHzgjVPtG5Jrimdz7si1nDcEnwG3eTtnFBcV1IY2EtUkDOAatjtotzGrmAYVZviW4_VK5jVsfjE3f-MWDHNb2jXC75GYgNuutfkXqTO1y7ksdVr0evLtXI8I0ie1wCOzdvrMxBp6TV-OqLhwFcKHfJAwyxrtGFhP0O_DWV-F2qQybj4MMdYpWiB3ent4V5uA1IcgXNzEsDeb4KuLG23a8FNOollV_oqwwAuZ6C0aRsyCjVrW7-4IpFs8tc79KGXPbqAtZDKBM7QncMg9D85_0H7b8gH5Y3pegJxpvpDYsb6eN6n8KUOsElvdlwp-jZrhtoJresmcmF026ki-_dEm1MgQyNI=w1023-h723-no)
 
@@ -89,19 +89,19 @@ The first few coats of paint are truck bed liner then the final coats will be st
 
 ### WiFi Audio Reciever AirPlay/DNLA
 
-[SABRENT Wi-Fi Audio Receiver for Home Stereo, Portable Speakers (WF-RADU)](http://www.amazon.com/gp/product/B00L26YDA4?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00)
+[SABRENT Wi-Fi Audio Receiver for Home Stereo, Portable Speakers (WF-RADU)](http://www.amazon.com/gp/product/B00L26YDA4?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00){:target="_blank"}
 
 ![](https://lh3.googleusercontent.com/QIDQkJ_uFBVgQPjYYz8SuP00TgugHEhpWjAmvYeRO43zp47ugprn9juIUpK-UEzE5i5iUh5yabzWFvpVCUqQJSaYZhuMY3q5Xn4xDRmByzUql91qwuo48sE8zJsjoA760ikSyl1fsWpWkHgn1MP8E3ZMPcNky2CBnvd0Tkvn6buFtS9VtkY0ci_-8rhRAPAKd293-K47C_2pzAUxz_fHxD2OkV1PRXL_2KiucJfIMLCGVs2kq3fg1tfSLxYkszbplNrZ6VSOfaqNzz8Z1SZM7BgXwd3Nowotr_FZeMtrIJU1iXu_dbhnzrr6TNLgkHMVVj54z6SYMkX6N7b0eMZAn-Idc5ahBkGEbcSibhhGgI1iw73fiQLl8XjF1hZGYhl8KXf51-JgYwiuU3UjtDIg37V-IsBiUE1LARrpYxSZtpQmlU-I3Ras-HP_GrXT8KEpxsuI43eFRT6LjMsOx80ytTrZ1Y6hHMwvKpbJ-IG3zDivBStsulV5RASrKClMf1a-iXZ2QeZRIiuhvpCczDbXw7D1gZi_YWlK7vqhnPi7ZHtZUPki_EgFMJKTw08soLEhcrTvSPCQulVlWuB251hXqtrWUlb55IRD_jf3g2kvq8RJjKpqHVM9=w543-h723-no)
 
 ### Audio Ground Loop Isolator
 
-[PAC SNI-1/3.5 3.5-mm Ground Loop Noise Isolator Works with iPod/Zune/iRiver and Others](http://www.amazon.com/gp/product/B001EAQTRI?psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00)
+[PAC SNI-1/3.5 3.5-mm Ground Loop Noise Isolator Works with iPod/Zune/iRiver and Others](http://www.amazon.com/gp/product/B001EAQTRI?psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00){:target="_blank"}
 
 ![](https://lh3.googleusercontent.com/o7Qf-PH6B__Dy1zg0hIVwVv0BQYQyohLuFm2bKdRQQ2ljFEXMekNzAWL4p82bIoGbAZccQXNejw-BlQFbD2j5rOclHrFHB9RLTov93JJH7ArwoUmtVIjde_XWfuMgo3YcPeEiRXKiN1ruBGaBzciVNGG5QQEiu66vVfjn3ys0G8ayjKXkMQh6ROtt--qvKCcenjY_sLFO84vT3AnKtP7ssmQLHHPAAKTT4bj3XQbNyjx2XTdqQm33L-QXvxcvhOGMy6LN4mRRUKeIs0jwlitV1I8PnRNLFnRug4uEfFzLOBYK5q6-ogmdHdt0o8UKYg4DpkkOKpnxuW3O7TdYII8g37PoRY1m0aO82nMz-zVo8KtsEBTkzWlRv8O1naMeKk4z2puIDDHMwJm2dBqhaUcCFXPDsVabItMTXxq7NTBJY3h7gm7hsoWyra7irMpw6jd2diICo_h99gys0iZ5v0HAvJn45qDUtTaFxWLVxHhQuK1GmGOKvN1jJyYlEnwAwU6lQsmnh5xQdjJcpmBCskC9tQZQKobur9EYzve1RmSNCR6hiAgqoiZdSKQyGaSJ8G2MRHeWbAfDQK1RmVDw4nPgNxueNH2_YYyU1P8QnSQ4-PEWY4x99qu=w500-h349-no)
 
 ### New 12V to 5V Adapter (easier to mount)
 
-[Kimdrox 3A/15W Dual Power Adapter 12V to 5V Double USB Cable Connector Car Charger For IPhone/iPad/Nokia/HTC](http://www.amazon.com/gp/product/B00XDSA82Q?psc=1&redirect=true&ref_=oh_aui_detailpage_o02_s00)
+[Kimdrox 3A/15W Dual Power Adapter 12V to 5V Double USB Cable Connector Car Charger For IPhone/iPad/Nokia/HTC](http://www.amazon.com/gp/product/B00XDSA82Q?psc=1&redirect=true&ref_=oh_aui_detailpage_o02_s00){:target="_blank"}
 
 ![](https://lh3.googleusercontent.com/56gKH3s1r4EFT_PA2RyldIRG_QYtWsolq5B7FDBpnMM-lxWdtVqJL2E5yP-QzIoNSaEK1YtaqvKakzSx3AM1QVeVFfruyllCCVdgK3WbYpA2x6zoUsRmXB-aZmZVzgL1pjGilCdw3nPm5EYaElKTN7LR5Zvq6ckEsJVyLBt7-3t2H5J7welU-R6wfoUrurg0zKO446V3pyCatKLcS2cPKZiZwzP2yFAUrDJgzopJCqTsbx7Cx7P8gsM1LOpBwPgWzDRcEJ79OsJ-dBifUitY_BUN_gFZGyYgfkhjVw7Ub7z-l-fPb2QNOKQJFYAuxJi_MiDdqqnTrZH2dWAmcgmu8IZLaBowh1T9OdWxxNbTOQDOPQw_mHxNIqp-WmWy8lVdGy7lN9YFiJ1d3Eg-IShUyoaoXoHn3aCPoSAwYw5yZQfAOLDU0L69Tu2D4iyO5reeJYcFo3lUliQTTGOarxps7sdlEyXzURPjEbP4vZSS4XsxQZ17p3LIkeh7a--Bk2yLSjosVKkzNjN9yS4JIGRLp7GgK7DRfOAlDj2X34l-GzaECkmJ139QVHyrIMTsG3YTOt9yQTJbvzc1GzaSbAEO2FGIzLgdwfzwuJFk3x5XReDp_LyKTp2G=w422-h301-no)
 
