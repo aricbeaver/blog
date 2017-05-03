@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rufus Cooler Stereo Version 3 With Actual Cooler!"
+title: "Rufus Cooler Stereo Version 4 With Actual Cooler!"
 date: 2014-03-16 00:00:00
 description: Rufus is a small 16 quart cooler with 2 4" pyle marine speakers and Lepai amplifier w/ Aux/FM/SD inputs, plus bluetooth with $5 adapter. There are wet/dry sides and about 1/3 of the volume is dedicated to battery/speakers/amp/etc.
 comments: true
