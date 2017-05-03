@@ -1,52 +1,19 @@
-Jekyll Clean Dark
-============
+# About
 
-[![Gem Version](https://badge.fury.io/rb/jekyll-clean-dark.svg)](https://badge.fury.io/rb/jekyll-clean-dark)
+## ..this blog
+Here I want to discuss my personal projects with cooler stereos, vehicles, electronics, etc. 
 
-This theme was created on top of Jekyll Clean theme by Scotte, you can view the original version in action [on his blog](https://scotte.github.io).
+This blog was made on GitHub Pages using Jekyll with modified jekyll clean theme and Disqus as a comments system.
 
-* Get it from [github](https://github.com/streetturtle/jekyll-clean-dark).
-* See the [live demo](http://pavelmakhov.com/jekyll-clean-dark).
-* See it [in action on my own blog](http://pavelmakhov.com).
+## ..me
+Hey, everyone! My name is Aric Beaver and I'm a Electrical Engineer working for ON Semiconductor in Portland, Oregon. 
 
-This theme uses some parts of Twitter Bootstrap, which allows it to look nice on a mobile devices using a collapsable nav bar and hiding the
-sidebar.
+I grew up in three very different cultural areas of the US: the deep dirty South, Midwest, and now West Coast. I started my life by being born in the South residing in Mississippi, Louisiana, and Texas due to my fathers work travel. After a family breakup my mother, sister, and I moved to the Midwest where she grew up. A good move both my sister and I because it was Lawrence, Kansas; where The University of Kansas is located. My big sister attended Kansas and I followed majoring in Electrical Engineering. After graduating in May 2012 I made an immediate movement to start employment with ON Semiconductor in Portland, OR. 
 
-Optionally you can use:
+Currently, I am working to validate image sensing products for automotive and consumer industries.
 
- - [Disqus](http://disqus.com) as a comments system;
- - [Google Analytics](http://www.google.com/analytics/);
- - [Yandex Metrica](http://metrica.yandex.com);
- - Blog tags;
- - Share buttons.
+# Contact
+Hit me up via <a href="mailto:aric.beaver@gmail.com?Subject=Hello" target="_top">email</a>.
 
-All these features could be set up in `_config.yml`. Also you can have social icons which could lead to your social profiles. It uses [font-awesome](http://fontawesome.io/), so you can have any icon you want to any social profile. Out-of-the box it has: LinkedIn, GitHub, StackOverflow, LastFm, Instagram. And you can easily add more by adding new style in `theme.css` and setting it in `_config.yml`.
-
-Installation
-==
-
-If you dont't have your own blog you can clone this repository and put your articles in a `_posts` folder.
-If you already have your own blog then I think you can clone this repository and copy-paste content keeping your `_posts` folder.
-
-After you will have to set up your `_config.yml`
-
-License
-=======
-
-The content of this theme is distributed and licensed under a
-[Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
-
-    This license lets others distribute, remix, tweak, and build upon your work,
-    even commercially, as long as they credit you for the original creation. This
-    is the most accommodating of licenses offered. Recommended for maximum
-    dissemination and use of licensed materials.
-
-In other words: you can do anything you want with this theme on any site, just please
-provide a link to the original theme on github.
-
-This theme includes the following files which are the properties of their
-respective owners:
-
-* js/bootstrap.min.js - [bootstrap](http://getbootstrap.com)
-* css/bootstrap.min.css - [bootstrap](http://getbootstrap.com)
-* js/jquery.min.js - [jquery](https://jquery.com)
+# Me
+![Photo of me!](images/aric.jpeg)
