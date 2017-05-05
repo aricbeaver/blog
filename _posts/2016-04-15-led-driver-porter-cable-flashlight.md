@@ -33,6 +33,7 @@ Since this PCB is two layer PCB and made by a service that names themselves "dir
 Here is the schematic PDF whose components are referenced above.
 
 <iframe src="../../files/LM3409 LED Driver for PC Flashlight/LM3409 LED Driver for PC Flashlight_schematic.pdf" style="width: 100%;height: 500px;border: none;"></iframe>
+<embed src="../../files/LM3409 LED Driver for PC Flashlight/LM3409 LED Driver for PC Flashlight_schematic.pdf" width="100%" height="500px" type='application/pdf'>
 
 # PCB Layout
 
