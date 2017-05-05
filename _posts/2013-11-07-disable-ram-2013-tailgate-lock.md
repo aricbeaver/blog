@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Disabling Automatic Tailgate Lock 2013 Ram 1500"
-date: 2013-05-08 00:00:00
+date: 2013-11-07 00:00:00
 description: This tutorial describes how to disable the automatic tailgate lock via the key fob and inside door controls on a 2013 Ram 1500 Big Horn.
 comments: true
 tags: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Baby Mr. Meeseeks Stereo Small Boombox Version 6"
-date: 2015-05-19 00:00:00
+date: 2015-11-11 00:00:00
 description: Decided to to downsize quite a bit from my last build. Still staying away from the cooler radios for the time being and building a portable dual 4" bluetooth speaker box. 
 comments: true
 tags: 

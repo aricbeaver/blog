@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Replacing Incandescent Bulb with LED in Porter Cable PCXMVC NI-CD/LI-ION Flashlight"
-date: 2015-12-08 00:00:00
+date: 2016-04-15 00:00:00
 description: The incandescent bulb in my flashlight that came with my drill/impact set kept burning out. I'll cover replacing it with an LED by making a custom schematic and PCB.
 comments: true
 tags: 

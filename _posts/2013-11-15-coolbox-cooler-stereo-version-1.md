@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coolbox Cooler Stereo Version 1 With Actual Cooler!"
-date: 2011-10-15 00:00:00
+date: 2011-11-15 00:00:00
 description: My first attempt at a building a stereo from a cooler. It uses a basic 2 channel amplifier with Polk Audio speakers and lawnmower battery for power.
 comments: true
 tags: 

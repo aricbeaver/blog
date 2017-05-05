@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brewtunes Cooler Stereo Version 2 With Actual Cooler!"
-date: 2013-11-15 00:00:00
+date: 2013-12-15 00:00:00
 description: My second cooler stereo that reuses a lot of the components from version 1 with two additional speakers and voltage battery indicator.
 comments: true
 tags: 

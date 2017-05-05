@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Installing Dash Camera on 2013 Ram 1500 With Auxiliary 12V Power"
-date: 2013-05-08 00:00:00
+date: 2013-12-22 00:00:00
 description: I bought a dash camera didn't want the wire hanging down plugged into the cigarette lighter so I hardwired it to the power for the rear view mirror. I'll detail how to remove the mirror and how to tap into some auxiliary power
 comments: true
 tags: 
