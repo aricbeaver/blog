@@ -1,6 +1,5 @@
 post ideas.txt
 
-- portercable led light
 - labview ftdi chip
 - subwoofer wired in truck
 - cadence export dra files
@@ -13,5 +12,4 @@ post ideas.txt
 - fixing airport express power supplies
 - cross cut sled
 - look at pictures on melville for ideas
-- motor cycle trailer	
 - Dc to ac converter install s10
