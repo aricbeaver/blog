@@ -1,6 +1,5 @@
 post ideas.txt
 
-- labview ftdi chip
 - subwoofer wired in truck
 - cadence export dra files
 - ford/toyota compass display repair
