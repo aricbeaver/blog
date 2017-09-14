@@ -29,6 +29,6 @@ This blog post will cover every single detail about restoring the motorhome from
 	<a rel="gallery-1" href="{{ site.baseurl}}/images/chinook/intro/big/3.jpg" class="swipebox" title="The reason why I named her Paris.">
 	<img src="{{ site.baseurl}}/images/chinook/intro/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-1" href="{{ site.baseurl}}/images/chinook/intro/big/4.jpg" class="swipebox" title="Side view of the complted restoration.">
+	<a rel="gallery-1" href="{{ site.baseurl}}/images/chinook/intro/big/4.jpg" class="swipebox" title="Side view of the completed restoration.">
 	<img src="{{ site.baseurl}}/images/chinook/intro/small/4.jpg" alt="image"></a>
 </blockquote>
