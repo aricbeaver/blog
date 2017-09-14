@@ -11,23 +11,24 @@ tags:
  - mechanical
 ---
 
-# Test Gallery
-<a href="https://lh3.googleusercontent.com/nbFbSH_GQJjGNfvtKbOG89eku5qF_LJTNlVufUHNl249cRAYEUYR8Y_7gAMLjZsLVTXgSB-Ie7SCTOlUdvlYmPrEqD8WVI3Z8AT9ydgIaTIRaC6xuGxAKHkDYNg_Be4XjR3lEwB_HWyokmSZV9FmSXV5DGFsnkhrHNhvhaXc4_G9nkI6tRurjZC-UXEcWztMuW-oH1N3o47TJLjpyizMFHyR_4WU6Ljljpv0uaRCZwjDLcKA9-x933N3io_QUQVEMEIHdvwEZSWTUFYFVyCr7SHEtaFKNzf-g6oIUV4W5LeW5tH57687y5ajcyC1357YKY9ufzyjBuXaJ8VF1Dgd8WiEeC9H80xamV2FFnBVLMJz4YarkkuVAayrDsZETujOsxzsedJImF8Evf_Fp25z6jJVile5BCLODGpW3o5p8AaGQrc7VYiZueu-9q_2Ujp5ZBttYaKt8nifU5UH29gkGhaFyJK7VneoUHG2nLzJ-PZda9h8RU8SH3GR3rrHi9BLPG8BU-7e5WqJRmbMTEElaWzGIhYD2ob9NrfSz-j9n0WowNmwF1bLVtptA-aXgXXCPP5LS-DwI_EPsdjQlY3uumxOdsSeOs17VOHvtQqdHwwRDhE-Um8PlC2faR78oLUFAABvKWwB2bcAVlWa1svfm8fMMtKacA0Jbl9zhG1_RrgYOQ=w700-h933-no" class="swipebox" title="My Caption">
-<img src="https://lh3.googleusercontent.com/nbFbSH_GQJjGNfvtKbOG89eku5qF_LJTNlVufUHNl249cRAYEUYR8Y_7gAMLjZsLVTXgSB-Ie7SCTOlUdvlYmPrEqD8WVI3Z8AT9ydgIaTIRaC6xuGxAKHkDYNg_Be4XjR3lEwB_HWyokmSZV9FmSXV5DGFsnkhrHNhvhaXc4_G9nkI6tRurjZC-UXEcWztMuW-oH1N3o47TJLjpyizMFHyR_4WU6Ljljpv0uaRCZwjDLcKA9-x933N3io_QUQVEMEIHdvwEZSWTUFYFVyCr7SHEtaFKNzf-g6oIUV4W5LeW5tH57687y5ajcyC1357YKY9ufzyjBuXaJ8VF1Dgd8WiEeC9H80xamV2FFnBVLMJz4YarkkuVAayrDsZETujOsxzsedJImF8Evf_Fp25z6jJVile5BCLODGpW3o5p8AaGQrc7VYiZueu-9q_2Ujp5ZBttYaKt8nifU5UH29gkGhaFyJK7VneoUHG2nLzJ-PZda9h8RU8SH3GR3rrHi9BLPG8BU-7e5WqJRmbMTEElaWzGIhYD2ob9NrfSz-j9n0WowNmwF1bLVtptA-aXgXXCPP5LS-DwI_EPsdjQlY3uumxOdsSeOs17VOHvtQqdHwwRDhE-Um8PlC2faR78oLUFAABvKWwB2bcAVlWa1svfm8fMMtKacA0Jbl9zhG1_RrgYOQ=w700-h933-no" alt="image">
-</a>
+# Introduction
 
-<a href="https://lh3.googleusercontent.com/BRuYwULgex1Oh7Pxc6OHUEDLqkQNWZBLzOylQ_lZIYz3L4hypPR24K5LtrSNby3EZYY0gShhIAFtjO7YF5mVooROFN_szB-JG-QgQUB_StneKwOI5lZMIKj1FJCo3M1pwJw1r-mhBNK1frqsAOiMsm8hqAu7V6ulZZ3qNx1eUiuoHnOQHbgphGF-TTQ2u3sw11Sm7xTMpeJdib5Y3TlIgAhuihtkxvpwQH9u4WIagD0xtCBx67Qai_dR5GEPQh8rLq-Zq6bezR1CGNcfu0yxCqm8fOKLbodKZ7SPPax6WiouERx2qBeSnUHgK5-h9RDOp3xwUJ9RraZH45KeMnpR8BX6oO9ri2a_ne-G-zZ5VXl8FP-2bGURXIfPUhJzpc0G4WGx4DhoEV8Rahs7DPbkGIzTQWrd1GJVI6xeKc_FbaY1mrBOQsAuGYUUU3XkUq8EDCOjS2J5cUCQiU4PEO-M5OeghT45p4z29UzWa8B6DUkfk9-nxCe_PHAF4d8IduKLlErBr0acYtwkPpTEOC9ZpmDLAyX8jzOMtSHrAPYWJoQu6mNKybzPT-axVFMozEsr0UxQhHGH3GRP6UppnTPE8whvTV5rug4v2nRrcYPk85bCh_zIj-NkMoc25mM3JKGPk6vCmuoYIkfpCJ-h3yJt1iN04L1iD7ZOUYcdi8yb2DOwXw=w960-h720-no" class="swipebox" title="My Caption">
-<img src="https://lh3.googleusercontent.com/BRuYwULgex1Oh7Pxc6OHUEDLqkQNWZBLzOylQ_lZIYz3L4hypPR24K5LtrSNby3EZYY0gShhIAFtjO7YF5mVooROFN_szB-JG-QgQUB_StneKwOI5lZMIKj1FJCo3M1pwJw1r-mhBNK1frqsAOiMsm8hqAu7V6ulZZ3qNx1eUiuoHnOQHbgphGF-TTQ2u3sw11Sm7xTMpeJdib5Y3TlIgAhuihtkxvpwQH9u4WIagD0xtCBx67Qai_dR5GEPQh8rLq-Zq6bezR1CGNcfu0yxCqm8fOKLbodKZ7SPPax6WiouERx2qBeSnUHgK5-h9RDOp3xwUJ9RraZH45KeMnpR8BX6oO9ri2a_ne-G-zZ5VXl8FP-2bGURXIfPUhJzpc0G4WGx4DhoEV8Rahs7DPbkGIzTQWrd1GJVI6xeKc_FbaY1mrBOQsAuGYUUU3XkUq8EDCOjS2J5cUCQiU4PEO-M5OeghT45p4z29UzWa8B6DUkfk9-nxCe_PHAF4d8IduKLlErBr0acYtwkPpTEOC9ZpmDLAyX8jzOMtSHrAPYWJoQu6mNKybzPT-axVFMozEsr0UxQhHGH3GRP6UppnTPE8whvTV5rug4v2nRrcYPk85bCh_zIj-NkMoc25mM3JKGPk6vCmuoYIkfpCJ-h3yJt1iN04L1iD7ZOUYcdi8yb2DOwXw=w960-h720-no" alt="image">
-</a>
+Welcome to the restoration of a 1977 Toyota Chinook motorhome! The project took me about 1.5 years to complete and is now my full-time living situation. 
 
-<a href="https://lh3.googleusercontent.com/SEbGqIrv-ve6JWThHyl1VO8NdiXJQOK-zsnSi9htRI3x7_i1bW3Cbqqrxo3TAg-nFJmdL2KQXYirIRcO_db_CpYL3DHjLtEPYLY4NAxnftIipfFNxwTYpOWLf536BJmxHffvZIeBTqwGgkZpioFtghXTScm7ubFF9LsxG-FZyJwxl4nIOWokk8vlzCT3fBQX-Hf9FwTL0jZWBNxn_y5frmlzvb-NsNM5uMQl4kLJrzPTzU8ujF8PALEjmeSjzuaWnj7n-sOmaRzTvm66bOI1YOYHgVwpQ_sTZ6MT6NYUkL8RTeOYRF07Q0ZWxAi16kdyqepFt1yZarFF0ZlWzt_M2REkoDefzfFvfyCRVy3kkObd3a_izxQ6Hgbv31Vk_NFHm1yjU7S4CR6ph99VJJt9cG_UrOIy3mE8_PVgR7KpVjAMlVdwcVKNZ405c0631xbMWappE6dpzrQnQdJDFdqyjBnWtW1ClnhwCSWeuZbExZUzghrqkNmTVIkqFk-H0cUY9r0Aw_or5kVzVY6Bd08vG6L3JZXFgEmn1CryexqJUUjW8S_BxE-AYAioerF-EiT2CN-0Yjn9K-UhUv1YHznLQfP0fp0Utf08mLutWnqlZSBToqIiyedFUcPu58tcwUshRJzYEqrOXQMXaN2lWbQIz2dC_lgP7rAk8QzZSJmFW5tt1Q=w960-h720-no" class="swipebox" title="My Caption">
-<img src="https://lh3.googleusercontent.com/SEbGqIrv-ve6JWThHyl1VO8NdiXJQOK-zsnSi9htRI3x7_i1bW3Cbqqrxo3TAg-nFJmdL2KQXYirIRcO_db_CpYL3DHjLtEPYLY4NAxnftIipfFNxwTYpOWLf536BJmxHffvZIeBTqwGgkZpioFtghXTScm7ubFF9LsxG-FZyJwxl4nIOWokk8vlzCT3fBQX-Hf9FwTL0jZWBNxn_y5frmlzvb-NsNM5uMQl4kLJrzPTzU8ujF8PALEjmeSjzuaWnj7n-sOmaRzTvm66bOI1YOYHgVwpQ_sTZ6MT6NYUkL8RTeOYRF07Q0ZWxAi16kdyqepFt1yZarFF0ZlWzt_M2REkoDefzfFvfyCRVy3kkObd3a_izxQ6Hgbv31Vk_NFHm1yjU7S4CR6ph99VJJt9cG_UrOIy3mE8_PVgR7KpVjAMlVdwcVKNZ405c0631xbMWappE6dpzrQnQdJDFdqyjBnWtW1ClnhwCSWeuZbExZUzghrqkNmTVIkqFk-H0cUY9r0Aw_or5kVzVY6Bd08vG6L3JZXFgEmn1CryexqJUUjW8S_BxE-AYAioerF-EiT2CN-0Yjn9K-UhUv1YHznLQfP0fp0Utf08mLutWnqlZSBToqIiyedFUcPu58tcwUshRJzYEqrOXQMXaN2lWbQIz2dC_lgP7rAk8QzZSJmFW5tt1Q=w960-h720-no" alt="image">
-</a>
+The chassis is a long bed 1977 Toyota Pickup (also know as Hilux) with a fiberglass shell attached. The truck has a classic carbureted 20R engine. These were manufactured by a out of business company called Chinook in Washington State that also made other variations of camper conversions such as the Omega, Concourse, and Newport. I purchased two Chinooks for $500 each and used one for parts and the other for the restoration. The roof pops up and has about six feet and 2 inches of clearance from head to toe; at 6'4" I am still comfortable. 
 
-<script type="text/javascript">
-;( function( $ ) {
+This blog post will cover every single detail about restoring the motorhome from engine rebuild and drive-train to fiberglass work and interior. But before we get to that, one important thing. Her name is Paris and that is how I will refer to her from now on. The person I bought my restoration rig from was using it as a storage unit for useless items one of which was a pristine hand drawn picture of a woman named Paris (or it was taken in Paris?). Either way, Paris is quite comely and deserves an awesome rig to be named after her! Check out the photo of her below and a few others.
 
-	$( '.swipebox' ).swipebox();
+<blockquote>
+	<a rel="gallery-1" href="{{ site.baseurl}}/images/chinook/intro/big/1.jpg" class="swipebox" title="Before and after restoration.">
+	<img src="{{ site.baseurl}}/images/chinook/intro/small/1.jpg" alt="image"></a>
 
-} )( jQuery );
-</script>
+	<a rel="gallery-1" href="{{ site.baseurl}}/images/chinook/intro/big/2.jpg" class="swipebox" title="Me and Paris halfway through the restoration.">
+	<img src="{{ site.baseurl}}/images/chinook/intro/small/2.jpg" alt="image"></a>
+
+	<a rel="gallery-1" href="{{ site.baseurl}}/images/chinook/intro/big/3.jpg" class="swipebox" title="The reason why I named her Paris.">
+	<img src="{{ site.baseurl}}/images/chinook/intro/small/3.jpg" alt="image"></a>
+
+	<a rel="gallery-1" href="{{ site.baseurl}}/images/chinook/intro/big/4.jpg" class="swipebox" title="Side view of the complted restoration.">
+	<img src="{{ site.baseurl}}/images/chinook/intro/small/4.jpg" alt="image"></a>
+</blockquote>
