@@ -33,16 +33,6 @@ This blog post will cover every single detail about restoring the motorhome from
 	<img src="{{ site.baseurl}}/images/chinook/intro/small/4.jpg" alt="image"></a>
 </blockquote>
 
-
-# TitleExample
-
-Titleexample.
-
-<blockquote>
-	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/section/big/xxx.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/section/small/xxx.jpg" alt="image"></a>
-</blockquote>
-
 # Before
 
 This is what Paris looked like before the restoration. 
@@ -251,6 +241,30 @@ Paint.
 
 	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/paint/big/31.jpg" class="swipebox" title="description">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/31.jpg" alt="image"></a>
+</blockquote>
+
+# Canvas Repair
+
+Canvas repair.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/canvas_repair/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/canvas_repair/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/canvas_repair/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/canvas_repair/small/2.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/canvas_repair/big/3.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/canvas_repair/small/3.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/canvas_repair/big/4.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/canvas_repair/small/4.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/canvas_repair/big/5.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/canvas_repair/small/5.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/canvas_repair/big/6.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/canvas_repair/small/6.jpg" alt="image"></a>
 </blockquote>
 
 # Roof Repair
@@ -1162,6 +1176,96 @@ Over cab section.
 	<img src="{{ site.baseurl}}/images/chinook/over_cab/small/17.jpg" alt="image"></a>
 </blockquote>
 
+# Wall Insulation and Vinyl Trim
+
+Wall insulation and vinyl trim.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/2.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/3.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/3.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/4.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/4.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/5.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/5.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/6.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/6.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/7.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/7.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/88.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/8.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/9.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/9.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/10.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/10.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/11.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/11.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/12.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/12.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/13.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/13.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/14.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/14.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/15.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/15.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/16.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/16.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/17.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/17.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/18.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/18.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/19.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/19.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/20.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/20.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/21.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/21.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/22.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/22.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/23.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/23.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/24.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/24.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/25.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/25.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/26.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/26.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/27.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/27.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/28.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/28.jpg" alt="image"></a>
+</blockquote>
+
 # Table Failure
 
 Table failure.
@@ -1540,6 +1644,207 @@ Rear bumper.
 	<img src="{{ site.baseurl}}/images/chinook/rear_bumber/small/5.jpg" alt="image"></a>
 </blockquote>
 
+# Engine Removal
+
+Engine removal.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_remove/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_remove/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_remove/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_remove/small/2.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_remove/big/3.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_remove/small/3.jpg" alt="image"></a>
+</blockquote>
+
+# Engine Rebuild
+
+Engine rebuild.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/2.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/3.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/3.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/4.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/4.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/5.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/5.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/6.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/6.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/7.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/7.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/8.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/8.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/9.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/9.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/10.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/10.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/11.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/11.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/12.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/12.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/13.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/13.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/14.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/14.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/15.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/15.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/16.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/16.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/17.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/17.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/18.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/18.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/19.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/19.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/20.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/20.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/22.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/22.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/23.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/23.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/24.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/24.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/25.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/25.jpg" alt="image"></a>
+</blockquote>
+
+# Engine Bay Paint
+
+Engine bay paint.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/2.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/3.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/3.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/4.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/4.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/5.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/5.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/6.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/6.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/7.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/7.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/8.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/8.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/9.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/9.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/10.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/10.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/11.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/11.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/12.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/12.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/13.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/13.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/14.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/14.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/15.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/15.jpg" alt="image"></a>
+</blockquote>
+
+# Engine Install
+
+Engine install.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_install/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_install/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_install/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_install/small/2.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_install/big/3.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_install/small/3.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_install/big/4.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_install/small/4.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/engine_install/big/5.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/engine_install/small/5.jpg" alt="image"></a>
+</blockquote>
+
+# Suspension, Steering, and Brakes
+
+Suspension, steering, and brakes.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/2.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/3.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/3.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/4.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/4.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/5.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/5.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/6.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/6.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/7.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/7.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/8.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/8.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/9.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/9.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/10.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/10.jpg" alt="image"></a>
+</blockquote>
+
 # Heater
 
 Heater.
@@ -1664,4 +1969,292 @@ Cabinets.
 
 	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/cabinet/big/35.jpg" class="swipebox" title="description">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/35.jpg" alt="image"></a>
+</blockquote>
+
+# Ignition 
+
+Ignition.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/ignition/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/ignition/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/ignition/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/ignition/small/2.jpg" alt="image"></a>
+</blockquote>
+
+# Alternator 
+
+Alternator.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/alternator/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/alternator/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/alternator/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/alternator/small/2.jpg" alt="image"></a>
+</blockquote>
+
+# Electrical 
+
+Electrical.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/electrical/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/electrical/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/electrical/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/electrical/small/2.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/electrical/big/3.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/electrical/small/3.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/electrical/big/4.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/electrical/small/4.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/electrical/big/5.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/electrical/small/5.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/electrical/big/6.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/electrical/small/6.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/electrical/big/7.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/electrical/small/7.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/electrical/big/8.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/electrical/small/8.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/electrical/big/9.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/electrical/small/9.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/electrical/big/10.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/electrical/small/10.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/electrical/big/11.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/electrical/small/11.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/electrical/big/12.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/electrical/small/12.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/electrical/big/13.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/electrical/small/13.jpg" alt="image"></a>
+</blockquote>
+
+# Auxiliary/Coach Battery 
+
+Auxiliary/coach battery.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/aux_bat/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/aux_bat/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/2.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/aux_bat/big/3.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/3.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/aux_bat/big/4.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/4.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/aux_bat/big/5.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/5.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/aux_bat/big/6.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/6.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/aux_bat/big/7.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/7.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/aux_bat/big/8.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/8.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/aux_bat/big/9.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/9.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/aux_bat/big/10.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/10.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/aux_bat/big/11.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/11.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/aux_bat/big/12.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/12.jpg" alt="image"></a>
+</blockquote>
+
+# Headliner
+
+Headliner.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/headliner/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/headliner/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/headliner/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/headliner/small/2.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/headliner/big/3.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/headliner/small/3.jpg" alt="image"></a>
+</blockquote>
+
+# Water and Tank
+
+Water and tank.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/water/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/water/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/water/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/water/small/2.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/water/big/3.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/water/small/3.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/water/big/4.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/water/small/4.jpg" alt="image"></a>
+</blockquote>
+
+# Interior Finishing
+
+Interior finishing.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/interior_finish/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/interior_finish/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/interior_finish/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/interior_finish/small/2.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/interior_finish/big/3.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/interior_finish/small/3.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/interior_finish/big/4.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/interior_finish/small/4.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/interior_finish/big/5.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/interior_finish/small/5.jpg" alt="image"></a>
+</blockquote>
+
+# Table Top with Stove and Sink
+
+Table top with stove and sink.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/table_top_stove_sink/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/table_top_stove_sink/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/table_top_stove_sink/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/table_top_stove_sink/small/2.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/table_top_stove_sink/big/3.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/table_top_stove_sink/small/3.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/table_top_stove_sink/big/4.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/table_top_stove_sink/small/4.jpg" alt="image"></a>
+</blockquote>
+
+# Truck Cab Carpet and Seats
+
+Truck cab carpet and seats.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/2.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/3.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/3.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/4.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/4.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/5.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/5.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/6.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/6.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/7.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/7.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/8.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/8.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/9.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/9.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/10.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/10.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/11.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/11.jpg" alt="image"></a>
+</blockquote>
+
+# Mirrors
+
+Mirrors.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/mirrors/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/mirrors/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/mirrors/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/mirrors/small/2.jpg" alt="image"></a>
+</blockquote>
+
+# Roof Install
+
+Roof install.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/roof_install/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/roof_install/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/roof_install/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/roof_install/small/2.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/roof_install/big/3.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/roof_install/small/3.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/roof_install/big/4.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/roof_install/small/4.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/roof_install/big/5.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/roof_install/small/5.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/roof_install/big/6.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/roof_install/small/6.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/roof_install/big/7.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/roof_install/small/7.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/roof_install/big/8.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/roof_install/small/8.jpg" alt="image"></a>
+</blockquote>
+
+# Leaf Spring Rebuild
+
+Leaf spring rebuild.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/leaf_spring/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/leaf_spring/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/leaf_spring/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/leaf_spring/small/2.jpg" alt="image"></a>
+</blockquote>
+
+# Moving In!
+
+Move in.
+
+<blockquote>
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/move_in/big/1.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/move_in/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-x" href="{{ site.baseurl}}/images/chinook/move_in/big/2.jpg" class="swipebox" title="description">
+	<img src="{{ site.baseurl}}/images/chinook/move_in/small/2.jpg" alt="image"></a>
 </blockquote>
