@@ -35,236 +35,279 @@ This blog post will cover every single detail about restoring the motorhome from
 
 # Before
 
-This is what Paris looked like before the restoration. 
+This is what Paris looked like before the restoration; however, I forgot to take pictures of Paris before restoration so here is the parts rig I acquired. Vandals broke out all the windows on the parts rig were broken out before I bought it. They both were in similar condition and both 1977s. Interestingly, Chinook has quite a few different interior layouts and exterior panel configurations even within the same year. Paris' layout was a single couch on one side and table on the other which I stuck with for the restoration configuration and the parts rig had a table in the front that converted into a bed and two counters on each side. The change in interior layouts this causes the exterior vents to be in different locations so most of the parts rig's vents couldn't be used as backups on Paris. The fridge vent in particular is on the driver's side on Paris where the body is curved so Chinook made this custom piece of plastic that makes for a flat panel; whereas the parts rig this is built into the fiberglass shell. 
 
 <blockquote>
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/1.jpg" class="swipebox" title="Broken out windshield from parts rig">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/2.jpg" class="swipebox" title="Gross brown carpet soaked with water">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/3.jpg" class="swipebox" title="Broken out windshield from parts rig">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/4.jpg" class="swipebox" title="Mirror mounts and drivers side window">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/5.jpg" class="swipebox" title="Year/VIN sticker in the door jamb">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/6.jpg" class="swipebox" title="Old electronics inverter box">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/7.jpg" class="swipebox" title="More nasty brown carpet">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/8.jpg" class="swipebox" title="Old bed frame on passengers side">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/9.jpg" class="swipebox" title="Interior layout of parts rig">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/10.jpg" class="swipebox" title="Fridge setup on parts rig">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/11.jpg" class="swipebox" title="Interior layout of parts rig from the back">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/12.jpg" class="swipebox" title="Nice condition pop-top with all the windows broken out">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/12.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/13.jpg" class="swipebox" title="Nasty brown carpet removed and interior cleaned up">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/14.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/14.jpg" class="swipebox" title="Inside view underneath driver's side bench, propane box and wheel well">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/14.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/15.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/15.jpg" class="swipebox" title="Sink and fridge view">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/15.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/16.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/16.jpg" class="swipebox" title="Put plastic over all the windows to keep it relatively dry during the winter for restoration">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/16.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/17.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/17.jpg" class="swipebox" title="Windshield glass and seal cleaned up">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/17.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/18.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/18.jpg" class="swipebox" title="Peeling wall insulation and vinyl trim">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/18.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/19.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/19.jpg" class="swipebox" title="Interior layout from front">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/19.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/20.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/20.jpg" class="swipebox" title="Sticker underneath hood with truck details">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/20.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/21.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/21.jpg" class="swipebox" title="Heater">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/21.jpg" alt="image"></a>
 
-	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/22.jpg" class="swipebox" title="description">
+	<a rel="gallery-before" href="{{ site.baseurl}}/images/chinook/before/big/22.jpg" class="swipebox" title="Cleaned up truck cab interior">
 	<img src="{{ site.baseurl}}/images/chinook/before/small/22.jpg" alt="image"></a>
 </blockquote>
 
 # Exhaust
 
-Exhaust.
+I purchased some 1.75" steel tube from the metal store and got a local exhaust shop to do the bending using the old exhaust as a reference. The muffler is a basic $20 unit. The catalytic converter was not installed, not enough power as it is!
+
+[Muffler](https://www.summitracing.com/parts/wlk-17892){:target="_blank"}
+[Exhaust clamps to hold muffler in place](http://www.rockauto.com/en/moreinfo.php?pk=132183&jsn=118){:target="_blank"}
 
 <blockquote>
-	<a rel="gallery-exhaust" href="{{ site.baseurl}}/images/chinook/exhaust/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-exhaust" href="{{ site.baseurl}}/images/chinook/exhaust/big/1.jpg" class="swipebox" title="After shell was removed first thing was installing the exhaust">
 	<img src="{{ site.baseurl}}/images/chinook/exhaust/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-exhaust" href="{{ site.baseurl}}/images/chinook/exhaust/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-exhaust" href="{{ site.baseurl}}/images/chinook/exhaust/big/2.jpg" class="swipebox" title="Exhaust underneath the cab">
 	<img src="{{ site.baseurl}}/images/chinook/exhaust/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-exhaust" href="{{ site.baseurl}}/images/chinook/exhaust/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-exhaust" href="{{ site.baseurl}}/images/chinook/exhaust/big/3.jpg" class="swipebox" title="Top view of muffler and pipe">
 	<img src="{{ site.baseurl}}/images/chinook/exhaust/small/3.jpg" alt="image"></a>
 </blockquote>
 
 # Paint Preparation
 
-Paint preparation.
+Preparing a vehicle for paint is quite a difficult and time consuming task. The shell was removed an placed on a stand about 1.5 feet off the ground. The fiberglass around the edges of the shell were in poor condition so that was the first area of focus. Then the damaged body on both the truck and shell that needed body filler were fixed by applying filler, sanding, and repeating; followed up with a coat of filler primer and sanded again. The top edges of the shell where the roof sits wore some grooves into the shell so that was also repaired with body filler and primer.
+
+The shell actually wasn't painted stock it uses bare fiberglass and then gelcoat like a boat. Reading up on this a bit you can paint right over the top of gelcoat as long as the gelcoat is properly prepared. The stripes are just stickers that are very difficult to remove! But sanding them prepares the surface enough for paint to adhere. 
+
+All of the removable parts from the truck cab were removed: door panels, mirrors, grille, windshield, door handles, etc. The inside door jambs were just cleaned and scuffed with red 3M scuff pads. Everything was sanded with 300 grit sand paper before painting. I mean everything! This is a required task that takes several hours. Lastly, a tack rag was used to remove any stray dust/debris.
+
+The roof also had quite a bit of body work. See the roof repair section for more information on that!
 
 <blockquote>
-	<a rel="gallery-paint_prep" href="{{ site.baseurl}}/images/chinook/paint_prep/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint_prep" href="{{ site.baseurl}}/images/chinook/paint_prep/big/1.jpg" class="swipebox" title="Shell on stand being repaired and sanded">
 	<img src="{{ site.baseurl}}/images/chinook/paint_prep/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-paint_prep" href="{{ site.baseurl}}/images/chinook/paint_prep/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint_prep" href="{{ site.baseurl}}/images/chinook/paint_prep/big/2.jpg" class="swipebox" title="Front view of shell with windows removed">
 	<img src="{{ site.baseurl}}/images/chinook/paint_prep/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-paint_prep" href="{{ site.baseurl}}/images/chinook/paint_prep/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint_prep" href="{{ site.baseurl}}/images/chinook/paint_prep/big/3.jpg" class="swipebox" title="Most intense body work repair on passenger corner, it had been damaged before">
 	<img src="{{ site.baseurl}}/images/chinook/paint_prep/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-paint_prep" href="{{ site.baseurl}}/images/chinook/paint_prep/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint_prep" href="{{ site.baseurl}}/images/chinook/paint_prep/big/4.jpg" class="swipebox" title="Truck cab being repaired, sanded, and all the truck hardware removed">
 	<img src="{{ site.baseurl}}/images/chinook/paint_prep/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-paint_prep" href="{{ site.baseurl}}/images/chinook/paint_prep/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint_prep" href="{{ site.baseurl}}/images/chinook/paint_prep/big/5.jpg" class="swipebox" title="Slight view roof which was also repaired, see roof repair section">
 	<img src="{{ site.baseurl}}/images/chinook/paint_prep/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-paint_prep" href="{{ site.baseurl}}/images/chinook/paint_prep/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint_prep" href="{{ site.baseurl}}/images/chinook/paint_prep/big/6.jpg" class="swipebox" title="All the paint!! And clearcoat, tape, and reducer!">
 	<img src="{{ site.baseurl}}/images/chinook/paint_prep/small/6.jpg" alt="image"></a>
 </blockquote>
 
 # Paint
 
-Paint.
+Luckily my roommate's brother is a professional car painter and helped me out with this part of the project. He provided me with recommendations on qualities/types of paint to use and even helped me paint Paris!
+
+The parts of the body that required extensive body work a cheap epoxy primer was used to cover the body filler/rattle an primer. In the order of application, epoxy primer, white sealer, basecoat, and the finally clearcoat. This is the basecoat/clearcoat method that requires two spray sessions unlike single stage that combines the basecoat and clearcoat into a single mixture. The reason basecoat/clearcoat was used over single stage is because of the difficulty of creating different color stripes and there would be a more noticeable edge due to the thickness increase of single stage.
+
+After primer and white sealer on the shell, the silver/blue stripes were approximated then taped off in their exact shape. Then white over the top, there is almost no color bleed through the white.
+
+The grille and the dash painting is also shown in the pictures below.
+
+Here are the details of the paint supplies:
+
+Cheap epoxy primer over body work only = Speedokote SMR-260
+Good quality sealer/epoxy primer over entire body = Nexera 8444
+Silver stripe = GM RPB-91988?
+Blue on truck, door jambs, and stripe = Ford RPB-922496 (same color as the new bright blue Mustangs, called Grabber Blue!!)
+White on shell/roof = GM RPB-6155
+Clear over everything, ~3 day cure time = Refinish solutions RSC-220/RSA-225
+Reducer used (mixed per manufacturer recommendations) = Matrix MR-0806
+
+A HVLP paint gun was used (the harbor freight one's are decent enough), see manufacturer recommendations for tip diameter. Need an air compressor that can maintain 10-20 PSI at ~60 PSI in tank. There is little over spray, no worries about painting in your garage. Need some ventilation and heat, 70 degrees or warmer recommended. 
+
+Approximate cost in paint = $600
 
 <blockquote>
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/1.jpg" class="swipebox" title="Black epoxy primer only over places body work was done">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/2.jpg" class="swipebox" title="Black epoxy primer only over places body work was done">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/3.jpg" class="swipebox" title="White sealer over entire body">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/4.jpg" class="swipebox" title="White sealer over entire shell">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/5.jpg" class="swipebox" title="Silver stripe approximated ">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/6.jpg" class="swipebox" title="Silver stipe taped off to specific shape">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/7.jpg" class="swipebox" title="Silver stipe taped off to specific shape">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/8.jpg" class="swipebox" title="Silver stipe taped off to specific shape">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/9.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/paint/small/9.jpg" alt="image"></a>
-
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/10.jpg" class="swipebox" title="Top of cab painted first">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/11.jpg" class="swipebox" title="Door jamps painted second">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/12.jpg" class="swipebox" title="Blue stripe appoximated">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/12.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/13.jpg" class="swipebox" title="Rest of truck cab and hood painted third">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/14.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/14.jpg" class="swipebox" title="Rest of truck cab and hood painted third">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/14.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/15.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/15.jpg" class="swipebox" title="After also taping the blue stripe the shell was painted white">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/15.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/16.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/16.jpg" class="swipebox" title="Basecoat complete on shell">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/16.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/17.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/17.jpg" class="swipebox" title="Clearcoat being applied to truck cab">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/17.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/18.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/18.jpg" class="swipebox" title="Clearcoat complete">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/18.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/19.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/19.jpg" class="swipebox" title="The dash was painted the same color as the silver stripe">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/19.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/20.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/20.jpg" class="swipebox" title="Dash installed to see how it looks">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/20.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/21.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/21.jpg" class="swipebox" title="After a failed buffing event, the hood had to be repainted">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/21.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/22.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/22.jpg" class="swipebox" title="Grabber Blue paint used on truck cab and stripe">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/22.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/23.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/23.jpg" class="swipebox" title="Grille was cleaned, scuffed, and sanded where possible">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/23.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/24.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/24.jpg" class="swipebox" title="Primer applied to grille">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/24.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/25.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/25.jpg" class="swipebox" title="Blue basecoat applied to grille">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/25.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/26.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/26.jpg" class="swipebox" title="Blue basecoat applied to grille">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/26.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/27.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/27.jpg" class="swipebox" title="Preview of grille before installation">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/27.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/28.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/paint/small/28.jpg" alt="image"></a>
-
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/29.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/paint/small/29.jpg" alt="image"></a>
-
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/30.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/30.jpg" class="swipebox" title="Grille installed after paint, looks great!">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/30.jpg" alt="image"></a>
 
-	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/31.jpg" class="swipebox" title="description">
+	<a rel="gallery-paint" href="{{ site.baseurl}}/images/chinook/paint/big/31.jpg" class="swipebox" title="Bumper installed with grille">
 	<img src="{{ site.baseurl}}/images/chinook/paint/small/31.jpg" alt="image"></a>
 </blockquote>
 
 # Canvas Repair
 
-Canvas repair.
+After reading a few posts over on the Yahoo Chinook email group I found the best way to repair the canvas which is made out of vinyl coated polyester. 
+
+Here are the supplies you need.
+
+* Vinyl coated polyester fabric which can be found inexpensively on eBay
+* HH-66 vinyl cement
+* Heat applicator tool
+* Heat pad that protects the canvas from direct contact with the fabric
+
+The last two supplies can be purchased together in Permatex repair kit #81781 for around $18.
+
+The the steps are pretty basic for repair.
+
+1. Cut out a piece of vinyl fabric that is approximately 1" larger on each side of the hole in the canvas
+2. Clean the canvas throughly around the hole with alcohol
+3. Make sure the repair area is entirely accessible 
+4. Plug in the head tool
+5. Apply HH-66 cement to both the canvas and the vinyl fabric piece, if the piece is larger than approximately 5 inches I would recommend applying the cement in 5 inch increments to avoid it drying to quickly
+6. Place the piece on the canvas and apply a decent amount of pressure with your hand across the entire area of the patch
+7. Now take the heat pad and place it on top of the patch
+8. Apply the heat tool to the pad for 15 seconds and repeat until heat has been applied to the entire patch
+9. Step number 8. is the most important, the heat creates a good bond
+
+I had to seal one of the canvas zippers up because the zipper was broken and beyond repair.
 
 <blockquote>
-	<a rel="gallery-canvas_repair" href="{{ site.baseurl}}/images/chinook/canvas_repair/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-canvas_repair" href="{{ site.baseurl}}/images/chinook/canvas_repair/big/6.jpg" class="swipebox" title="The cleaned canvas before the repair">
+	<img src="{{ site.baseurl}}/images/chinook/canvas_repair/small/6.jpg" alt="image"></a>
+
+	<a rel="gallery-canvas_repair" href="{{ site.baseurl}}/images/chinook/canvas_repair/big/1.jpg" class="swipebox" title="All the tools required for the job">
 	<img src="{{ site.baseurl}}/images/chinook/canvas_repair/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-canvas_repair" href="{{ site.baseurl}}/images/chinook/canvas_repair/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-canvas_repair" href="{{ site.baseurl}}/images/chinook/canvas_repair/big/2.jpg" class="swipebox" title="First patch applied and heated to perfection">
 	<img src="{{ site.baseurl}}/images/chinook/canvas_repair/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-canvas_repair" href="{{ site.baseurl}}/images/chinook/canvas_repair/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-canvas_repair" href="{{ site.baseurl}}/images/chinook/canvas_repair/big/3.jpg" class="swipebox" title="Cutting out a specific shape to seal the zipper up">
 	<img src="{{ site.baseurl}}/images/chinook/canvas_repair/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-canvas_repair" href="{{ site.baseurl}}/images/chinook/canvas_repair/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-canvas_repair" href="{{ site.baseurl}}/images/chinook/canvas_repair/big/4.jpg" class="swipebox" title="Two thirds of the way done sealing the zipper">
 	<img src="{{ site.baseurl}}/images/chinook/canvas_repair/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-canvas_repair" href="{{ site.baseurl}}/images/chinook/canvas_repair/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-canvas_repair" href="{{ site.baseurl}}/images/chinook/canvas_repair/big/5.jpg" class="swipebox" title="Another small hole patched">
 	<img src="{{ site.baseurl}}/images/chinook/canvas_repair/small/5.jpg" alt="image"></a>
-
-	<a rel="gallery-canvas_repair" href="{{ site.baseurl}}/images/chinook/canvas_repair/big/6.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/canvas_repair/small/6.jpg" alt="image"></a>
 </blockquote>
 
 # Roof Repair
@@ -383,16 +426,18 @@ Door panels.
 
 # Dash
 
-Dash.
+The dash on these rigs usually deteriorates and creates very large cracks in the plastic/foam dash board. Instead of finding a new dash I just got some headliner material and wrapped the deteriorated dash and then wrapped it again in a silver vinyl material. 
+
+The metal part of the dash was painted with the same paint used to paint the stripe on the shell. Then it was clearcoated. 
 
 <blockquote>
-	<a rel="gallery-dash" href="{{ site.baseurl}}/images/chinook/dash/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-dash" href="{{ site.baseurl}}/images/chinook/dash/big/1.jpg" class="swipebox" title="Dash installed side view">
 	<img src="{{ site.baseurl}}/images/chinook/dash/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-dash" href="{{ site.baseurl}}/images/chinook/dash/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-dash" href="{{ site.baseurl}}/images/chinook/dash/big/2.jpg" class="swipebox" title="Dash from the inside">
 	<img src="{{ site.baseurl}}/images/chinook/dash/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-dash" href="{{ site.baseurl}}/images/chinook/dash/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-dash" href="{{ site.baseurl}}/images/chinook/dash/big/3.jpg" class="swipebox" title="Dash with view of truck">
 	<img src="{{ site.baseurl}}/images/chinook/dash/small/3.jpg" alt="image"></a>
 </blockquote>
 
