@@ -312,115 +312,148 @@ I had to seal one of the canvas zippers up because the zipper was broken and bey
 
 # Roof Repair
 
-Roof repair.
+The stock roof was an interesting design to say the least. Basic 1x1" wood frame and occasional fiberglass strips with 20+ holes in the roof! I will personally credit the roof being the #1 reason why these campers start to leak. They leak, then rot, then sag, and hold water.
+
+The construction of the stock roof is like this from bottom to top:
+
+* Vinyl like fabric strip
+* Canvas
+* Rubber right angle strip
+* Fiberglass sheet as the interior 
+* Wood frame and fiberglass strips
+* Scissor mechanism and mounting anchors
+* Fiberglass roof
+* Bolts through roof for scissor mechanism and roof hold down straps when driving
+
+I removed all the fiberglass and wood frame and striped it down to bare fiberglass. The fiberglass resin has to be wire-wheeled off to get a nice clean surface for future fiberglass. The next step is to build a quasi metal frame that will prevent the roof from sagging and provide solid mounts for the scissor mechanism. Two "I" shaped beams were devised.
+
+Anywhere the roof was sagging and the fiberglass, sort of, "held" the shape of the sag, I took a cutoff wheel and cut a slit in the roof. From there the roof was placed upside down on two tables with the "I" shaped beams and the tables holding it in its final shape. The slits were fiberglassed over with [epoxy fiberglass resin from US Composites](http://www.uscomposites.com/epoxy.html){:target="_blank"}. 
+
+The white paint used was standard appliance paint applied with a paintbrush. 
+
+The only bolts that go through the roof are the ones that hold the scissor mechanism down. And I even fiberglass over these on the top, leaving little nipples. This roof will never leak.
+
+In the areas where fiberglassing from the inside was required body work on the outside was also required. An orbital sander and body filler took care of that nicely. Everything was sanded and then painted! See the Paint section for more details on that.
+
+I mimicked the same stock wood frame plus the hybrid metal frame. A hybrid frame over entirely metal frame is almost required to keep the weight of the pop-up down. Another reason to keep the wood frame around the perimeter is because the canvas is attached purely by staples! Stapling into metal is quite difficult. One other metal bar in the middle was added which is where the two handles on the inside are screwed to; just for a bit more rigidity. Same fiberglass strips were used to hold down the wood and metal frame.
+
+The stock foam installation was used for the most part until running; then some fiberglass insulation was used instead. Next was covering the insulation with the stock fiberglass sheet. Applying a bunch of fiberglass resin to the wood frame and a few pieces of fiberglass and weighting it down was the method I used. Ideally, one would secure the frame and the sheet at the same time but its not an easy task.
+
+Securing the canvas and trip is the opposite of removal, stapling each one down (three trips around the roof):
+
+1. Rubber right angle strip
+2. Canvas
+3. Vinyl like fabric strip
+
+Finally, some new trimlock u-trim on the perimeter of the roof where it sits on the shell. And attaching the handles for poppin' the pop-top.
 
 <blockquote>
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/1.jpg" class="swipebox" title="Steps to remove the canvas">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/2.jpg" class="swipebox" title="Stock roof frame">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/3.jpg" class="swipebox" title="Stock roof frame">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/4.jpg" class="swipebox" title="Fiberglass sheet as interior roof">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/5.jpg" class="swipebox" title="Poor roof design">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/6.jpg" class="swipebox" title="New roof hybrid metal, wood design">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/7.jpg" class="swipebox" title="New roof design">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/8.jpg" class="swipebox" title="Mount for scissor mechanism">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/9.jpg" class="swipebox" title="Painted with appliance paint">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/10.jpg" class="swipebox" title="Top during body filler work">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/11.jpg" class="swipebox" title="Scissor mechanism strapped down for future installation">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/12.jpg" class="swipebox" title="Underside of roof before wood frame">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/12.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/13.jpg" class="swipebox" title="Body work where bolts are covered by fiberglass">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/14.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/14.jpg" class="swipebox" title="Roof base and clearcoated">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/14.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/15.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/15.jpg" class="swipebox" title="Wood frame skeleton in place">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/15.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/16.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/16.jpg" class="swipebox" title="Wood frame skeleton in place">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/16.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/17.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/17.jpg" class="swipebox" title="Everything wieghted down while fiberglass drying">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/17.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/18.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/18.jpg" class="swipebox" title="Clamps holding handle mounts in place while fiberglass is drying">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/18.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/19.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/19.jpg" class="swipebox" title="Fiberglass strips ready for resin">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/19.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/20.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/20.jpg" class="swipebox" title="Insulation instaled">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/20.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/21.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/21.jpg" class="swipebox" title="Rubber right angle trim piece installed">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/21.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/22.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/22.jpg" class="swipebox" title="Canvas installed">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/22.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/23.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/23.jpg" class="swipebox" title="Canvas installed">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/23.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/24.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/24.jpg" class="swipebox" title="Trimlock u-trim installing">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/24.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/25.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/25.jpg" class="swipebox" title="Trimlock u-trim installed">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/25.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/26.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/26.jpg" class="swipebox" title="Trimlock u-trim installed">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/26.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/27.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/27.jpg" class="swipebox" title="Canvas zip-tied to scissor mechanism in preparation for roof install">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/27.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/28.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_repair" href="{{ site.baseurl}}/images/chinook/roof_repair/big/28.jpg" class="swipebox" title="Handles screwed down on inside for poppin' da top">
 	<img src="{{ site.baseurl}}/images/chinook/roof_repair/small/28.jpg" alt="image"></a>
 </blockquote>
 
 # Door Panels
 
-Door panels.
+The door panels were painted black and some black trim, door handle, and window handle from a donor truck at PickNPull converted the ugly brown into an awesome black feel. Read up on painting vinyl material. It is not hard but need specific paint.
 
 <blockquote>
-	<a rel="gallery-door_panels" href="{{ site.baseurl}}/images/chinook/door_panels/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_panels" href="{{ site.baseurl}}/images/chinook/door_panels/big/1.jpg" class="swipebox" title="Ugly brown door panels installed after paint job">
 	<img src="{{ site.baseurl}}/images/chinook/door_panels/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-door_panels" href="{{ site.baseurl}}/images/chinook/door_panels/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_panels" href="{{ site.baseurl}}/images/chinook/door_panels/big/2.jpg" class="swipebox" title="Ugly brown door panels installed after paint job">
 	<img src="{{ site.baseurl}}/images/chinook/door_panels/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-door_panels" href="{{ site.baseurl}}/images/chinook/door_panels/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_panels" href="{{ site.baseurl}}/images/chinook/door_panels/big/3.jpg" class="swipebox" title="Brown panels in preparation for paint">
 	<img src="{{ site.baseurl}}/images/chinook/door_panels/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-door_panels" href="{{ site.baseurl}}/images/chinook/door_panels/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_panels" href="{{ site.baseurl}}/images/chinook/door_panels/big/4.jpg" class="swipebox" title="Brown converted to black">
 	<img src="{{ site.baseurl}}/images/chinook/door_panels/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-door_panels" href="{{ site.baseurl}}/images/chinook/door_panels/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_panels" href="{{ site.baseurl}}/images/chinook/door_panels/big/5.jpg" class="swipebox" title="Black door panels installed">
 	<img src="{{ site.baseurl}}/images/chinook/door_panels/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-door_panels" href="{{ site.baseurl}}/images/chinook/door_panels/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_panels" href="{{ site.baseurl}}/images/chinook/door_panels/big/6.jpg" class="swipebox" title="Black door panels installed">
 	<img src="{{ site.baseurl}}/images/chinook/door_panels/small/6.jpg" alt="image"></a>
 </blockquote>
 
@@ -443,139 +476,139 @@ The metal part of the dash was painted with the same paint used to paint the str
 
 # Windshield and Wipers
 
-Windshield and wipers.
+Unfortunately, I broke the windshield when removing it from the truck but I found a 1977 flatbed pickup from the junkyard at PickNPull and grabbed that for $30. I think someone could make a living pulling obscure glass from old vehicles. 
+
+Installing the windshield was a breeze. You take a rope, or wire in my case, and thread it through the windshield seal then place it on the truck cab. From the inside, pull the rope and the lip of the seal will perfectly overlap the metal trim. Go all the way around and you are set!
+
+The wipers use the original motor. The only issue is the motor is a little bit worn out and the wipers sit a bit up in the view of the driver. Have yet to hook up the wiper fluid. Something interesting is the 1977 Toyota Pickup has two different models for wiper fluid. The parts rig I had, the wiper fluid shoots up through the cowl but the one I restored has holes in the hood with little nipples that shoot at the windows. Hmmm.
 
 <blockquote>
-	<a rel="gallery-windshield_wipers" href="{{ site.baseurl}}/images/chinook/windshield_wipers/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-windshield_wipers" href="{{ site.baseurl}}/images/chinook/windshield_wipers/big/1.jpg" class="swipebox" title="Flatbed 1977 found at PickNPull for the windshield">
 	<img src="{{ site.baseurl}}/images/chinook/windshield_wipers/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-windshield_wipers" href="{{ site.baseurl}}/images/chinook/windshield_wipers/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-windshield_wipers" href="{{ site.baseurl}}/images/chinook/windshield_wipers/big/2.jpg" class="swipebox" title="Windshield with seal attached">
 	<img src="{{ site.baseurl}}/images/chinook/windshield_wipers/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-windshield_wipers" href="{{ site.baseurl}}/images/chinook/windshield_wipers/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-windshield_wipers" href="{{ site.baseurl}}/images/chinook/windshield_wipers/big/3.jpg" class="swipebox" title="Windshield with wire ran through seal">
 	<img src="{{ site.baseurl}}/images/chinook/windshield_wipers/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-windshield_wipers" href="{{ site.baseurl}}/images/chinook/windshield_wipers/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-windshield_wipers" href="{{ site.baseurl}}/images/chinook/windshield_wipers/big/4.jpg" class="swipebox" title="Windshield and seal sitting on frame ready to be installed">
 	<img src="{{ site.baseurl}}/images/chinook/windshield_wipers/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-windshield_wipers" href="{{ site.baseurl}}/images/chinook/windshield_wipers/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-windshield_wipers" href="{{ site.baseurl}}/images/chinook/windshield_wipers/big/5.jpg" class="swipebox" title="Windshield and seal installed">
 	<img src="{{ site.baseurl}}/images/chinook/windshield_wipers/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-windshield_wipers" href="{{ site.baseurl}}/images/chinook/windshield_wipers/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-windshield_wipers" href="{{ site.baseurl}}/images/chinook/windshield_wipers/big/6.jpg" class="swipebox" title="Windshield installed from the inside">
 	<img src="{{ site.baseurl}}/images/chinook/windshield_wipers/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-windshield_wipers" href="{{ site.baseurl}}/images/chinook/windshield_wipers/big/7.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/windshield_wipers/small/7.jpg" alt="image"></a>
-
-	<a rel="gallery-windshield_wipers" href="{{ site.baseurl}}/images/chinook/windshield_wipers/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-windshield_wipers" href="{{ site.baseurl}}/images/chinook/windshield_wipers/big/8.jpg" class="swipebox" title="Windshield with wipers installed">
 	<img src="{{ site.baseurl}}/images/chinook/windshield_wipers/small/8.jpg" alt="image"></a>
 </blockquote>
 
-# Attaching the Fiberglass Shell
+# Attaching the Fiberglass Shell to the Truck Cab
 
-Attaching the fiberglass shell.
+I lifted the shell up by attaching it to the roof on my garage on adjustable straps which were very useful for pushing the truck back and forth trying to get everything adjusted properly. 
+
+A combination of rubber expansion nuts and rivets were used with metal straps to attached the shell to the back of the truck cab. A 1/2" thick closed cell foam material was used to create a water proof seal between the fiberglass shell and the truck cab, both back and top. A polyurethane based sealant (Sikaflex 221) was used to seal it up even further and hold the foam material in place. You can get the Sikaflex 221 for about $6 on McMasterCarr or locally at RV shops for $12 a tube.
 
 <blockquote>
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/1.jpg" class="swipebox" title="Backing the truck under the shell">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/2.jpg" class="swipebox" title="Backing the truck under the shell">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/3.jpg" class="swipebox" title="Backing the truck under the shell">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/4.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/4.jpg" alt="image"></a>
-
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/5.jpg" class="swipebox" title="Backing the truck under the shell">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/6.jpg" class="swipebox" title="Shell in approximate location">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/7.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/7.jpg" alt="image"></a>
-
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/8.jpg" class="swipebox" title="Backing the truck under the shell">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/9.jpg" class="swipebox" title="Front view after approximate shell location install">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/10.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/10.jpg" alt="image"></a>
-
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/11.jpg" class="swipebox" title="Passenger's side after approximate install location">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/12.jpg" class="swipebox" title="Drivers's side after approximate install location">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/12.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/13.jpg" class="swipebox" title="Expansion nuts in place">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/14.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/14.jpg" class="swipebox" title="Expansion nut at it's finest">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/14.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/15.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/15.jpg" class="swipebox" title="Expansion nut looking through the cab vent">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/15.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/16.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/16.jpg" class="swipebox" title="Metal straps used for distributed hold down">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/16.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/17.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/17.jpg" class="swipebox" title="Metal straps used for distributed hold down">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/17.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/18.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/18.jpg" class="swipebox" title="Closed cell foam for top seal">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/18.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/19.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/19.jpg" class="swipebox" title="Closed cell foam for top seal">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/19.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/20.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/20.jpg" class="swipebox" title="Closed cell foam for side seal">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/20.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/21.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/21.jpg" class="swipebox" title="Sikaflex 221 used to seal and secure the foam in place">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/21.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/22.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/22.jpg" class="swipebox" title="Sikaflex 221 used to seal and secure the foam in place">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/22.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/23.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_install" href="{{ site.baseurl}}/images/chinook/shell_install/big/23.jpg" class="swipebox" title="Sikaflex 221 used to seal and secure the foam in place">
 	<img src="{{ site.baseurl}}/images/chinook/shell_install/small/23.jpg" alt="image"></a>
 </blockquote>
 
 # Rear Frame
 
-Rear frame.
+The stock frame was also lacking some intelligent engineering. There are six posts that the truck bed would have attached to if this wasn't a camper and instead a pickup truck. Chinook decided to just attach a 1" plywood sheet and call it good. No good!!
+
+The new main frame is metal constructed from 1" square tubing in a lattice structure. The sub frame where the step down near the rear coach door is just used two square tubes relying directly on the truck frame for support front to rear.
+
+Sheets of plywood are limited to 4x8' dimensions so I just cut two and tripled up underneath this joint on square tubing. Then used Sikaflex 221 polyurethane sealant between the two wood sheets.
+
+The frame was painted with the leftover black epoxy primer from the main paint job; nothing else but the primer.
 
 <blockquote>
-	<a rel="gallery-frame" href="{{ site.baseurl}}/images/chinook/frame/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-frame" href="{{ site.baseurl}}/images/chinook/frame/big/1.jpg" class="swipebox" title="Mock up of cabin frame">
 	<img src="{{ site.baseurl}}/images/chinook/frame/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-frame" href="{{ site.baseurl}}/images/chinook/frame/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-frame" href="{{ site.baseurl}}/images/chinook/frame/big/2.jpg" class="swipebox" title="Mock up of cabin frame">
 	<img src="{{ site.baseurl}}/images/chinook/frame/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-frame" href="{{ site.baseurl}}/images/chinook/frame/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-frame" href="{{ site.baseurl}}/images/chinook/frame/big/3.jpg" class="swipebox" title="Mock up of cabin frame">
 	<img src="{{ site.baseurl}}/images/chinook/frame/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-frame" href="{{ site.baseurl}}/images/chinook/frame/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-frame" href="{{ site.baseurl}}/images/chinook/frame/big/4.jpg" class="swipebox" title="Rear stepped down frame">
 	<img src="{{ site.baseurl}}/images/chinook/frame/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-frame" href="{{ site.baseurl}}/images/chinook/frame/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-frame" href="{{ site.baseurl}}/images/chinook/frame/big/5.jpg" class="swipebox" title="Rear stepped down frame">
 	<img src="{{ site.baseurl}}/images/chinook/frame/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-frame" href="{{ site.baseurl}}/images/chinook/frame/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-frame" href="{{ site.baseurl}}/images/chinook/frame/big/6.jpg" class="swipebox" title="Frame through the panels in the shell">
 	<img src="{{ site.baseurl}}/images/chinook/frame/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-frame" href="{{ site.baseurl}}/images/chinook/frame/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-frame" href="{{ site.baseurl}}/images/chinook/frame/big/7.jpg" class="swipebox" title="Frame all welded up and the trio of tubing for plywood threshold">
 	<img src="{{ site.baseurl}}/images/chinook/frame/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-frame" href="{{ site.baseurl}}/images/chinook/frame/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-frame" href="{{ site.baseurl}}/images/chinook/frame/big/8.jpg" class="swipebox" title="Frame painted">
 	<img src="{{ site.baseurl}}/images/chinook/frame/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-frame" href="{{ site.baseurl}}/images/chinook/frame/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-frame" href="{{ site.baseurl}}/images/chinook/frame/big/9.jpg" class="swipebox" title="Frame bolted down and finalized">
 	<img src="{{ site.baseurl}}/images/chinook/frame/small/9.jpg" alt="image"></a>
 </blockquote>
 
