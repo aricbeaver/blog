@@ -614,325 +614,349 @@ The frame was painted with the leftover black epoxy primer from the main paint j
 
 # Floor Installation
 
-Floor installation.
+The wood portion of the floor was built out of 3/4" laminated plywood in two discrete sections. Sheets of plywood are limited to 4x8' dimensions so I just cut two and then used Sikaflex 221 polyurethane sealant between the two wood sheets. 
+
+The area around the truck cab was cut first to fit slightly inside the cabin of the truck. The floor was lowered around 2" so some accommodations with the router had to be made near the cabin threshold to keep the floor flat on the frame. 
+
+The wheel wells were placed in the correct positions and the outline was traced and cut into the floor. T
+
+The rear recessed sub-floor was made from the same material as the main floor.
+
+The underside was painted with the same black epoxy primer from the main paint job and then followed with truck bed-liner to protect from the elements underneath. The stock configuration actually uses sheet metal to protect the wood which is a decent idea unless the leakage comes from the top!!
+
+The floor was secured with these awesome wood to metal self tapping screws by Teks, see the picture below for a picture of the packaging.
 
 <blockquote>
-	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/1.jpg" class="swipebox" title="Floor before modifications to wheel wells">
 	<img src="{{ site.baseurl}}/images/chinook/floor/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/2.jpg" class="swipebox" title="Floor near truck cabin">
 	<img src="{{ site.baseurl}}/images/chinook/floor/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/3.jpg" class="swipebox" title="Floor before reducing thickness of plywood with router">
 	<img src="{{ site.baseurl}}/images/chinook/floor/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/4.jpg" class="swipebox" title="Wheel wells placed loosely in their proper positions">
 	<img src="{{ site.baseurl}}/images/chinook/floor/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/5.jpg" class="swipebox" title="Floor flat on garage floor">
 	<img src="{{ site.baseurl}}/images/chinook/floor/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/6.jpg" class="swipebox" title="Close up of routered section">
 	<img src="{{ site.baseurl}}/images/chinook/floor/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/7.jpg" class="swipebox" title="Routered section to reduce thickness near truck cabin">
 	<img src="{{ site.baseurl}}/images/chinook/floor/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/8.jpg" class="swipebox" title="Routered section to reduce thickness near truck cabin">
 	<img src="{{ site.baseurl}}/images/chinook/floor/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/9.jpg" class="swipebox" title="Rear recessed subfloor">
 	<img src="{{ site.baseurl}}/images/chinook/floor/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/10.jpg" class="swipebox" title="Wheel wells cutout">
 	<img src="{{ site.baseurl}}/images/chinook/floor/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/11.jpg" class="swipebox" title="Black epoxy primer applied">
 	<img src="{{ site.baseurl}}/images/chinook/floor/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/12.jpg" class="swipebox" title="Truck bed-liner applied">
 	<img src="{{ site.baseurl}}/images/chinook/floor/small/12.jpg" alt="image"></a>
 
-	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/13.jpg" class="swipebox" title="Joint between two sections of flooring">
 	<img src="{{ site.baseurl}}/images/chinook/floor/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/14.jpg" class="swipebox" title="description">
+	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/14.jpg" class="swipebox" title="Awesome screws that hold floor in place">
 	<img src="{{ site.baseurl}}/images/chinook/floor/small/14.jpg" alt="image"></a>
 
-	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/15.jpg" class="swipebox" title="description">
+	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/15.jpg" class="swipebox" title="Close up of joint between two sections of flooring">
 	<img src="{{ site.baseurl}}/images/chinook/floor/small/15.jpg" alt="image"></a>
 
-	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/16.jpg" class="swipebox" title="description">
+	<a rel="gallery-floor" href="{{ site.baseurl}}/images/chinook/floor/big/16.jpg" class="swipebox" title="Floor install complete">
 	<img src="{{ site.baseurl}}/images/chinook/floor/small/16.jpg" alt="image"></a>
 </blockquote>
 
-# Propane Propane Propane. <add trailer park boys link here>
+# [Propane, Propane!](https://youtu.be/ldoT2mHubGE){:target="_blank"}
 
-Propane.
+The stock tanks on some of these rigs is a horizontal 5 gallon tank. Neither my parts or restoration rig came with a tank. I thought about using a vertical one but could not for the life of me figure out a good way to install a vertical one. After scavenging CraigsList I found a guy selling used horizontal propane tanks and snagged one up with a new 5 year certification for $25! and it works great.
+
+The propane tank was installed in the original position as the stock one and held down with two wing nuts. 
+
+The tank was primed with the same black epoxy primer, silver basecoat, and clearcoat as the main paint job.
+
+The propane tank feeds 3 different appliances in a double split configuration. Split once in the propane tank enclosure and again near the stove. See the picture below for a propane stove schematic.
+
+1. Heater
+2. Stove
+3. Refrigerator 
 
 <blockquote>
-	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/1.jpg" class="swipebox" title="Propane tank placed loosely in final location">
 	<img src="{{ site.baseurl}}/images/chinook/propane/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/2.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/propane/small/2.jpg" alt="image"></a>
-
-	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/3.jpg" class="swipebox" title="Propane hold down location">
 	<img src="{{ site.baseurl}}/images/chinook/propane/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/4.jpg" class="swipebox" title="Bolt for the wingnut to hold down the propane tank, one on each side">
 	<img src="{{ site.baseurl}}/images/chinook/propane/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/5.jpg" class="swipebox" title="Black epoxy primer applied to tank">
 	<img src="{{ site.baseurl}}/images/chinook/propane/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/6.jpg" class="swipebox" title="Wood blocks in place when installing the propane enclosure/wheel well">
 	<img src="{{ site.baseurl}}/images/chinook/propane/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/7.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/propane/small/7.jpg" alt="image"></a>
-
-	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/8.jpg" class="swipebox" title="Propane enclosure with door shut">
 	<img src="{{ site.baseurl}}/images/chinook/propane/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/9.jpg" class="swipebox" title="Painted propane tank installed">
 	<img src="{{ site.baseurl}}/images/chinook/propane/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/10.jpg" class="swipebox" title="Painted propane tank installed">
 	<img src="{{ site.baseurl}}/images/chinook/propane/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/11.jpg" class="swipebox" title="Propane schematic">
 	<img src="{{ site.baseurl}}/images/chinook/propane/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/12.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/propane/small/12.jpg" alt="image"></a>
-
-	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/13.jpg" class="swipebox" title="Flare t-fitting spliter under table attached to stove">
 	<img src="{{ site.baseurl}}/images/chinook/propane/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/14.jpg" class="swipebox" title="description">
+	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/14.jpg" class="swipebox" title="Propane fitting on refrigerator with hoses installed">
 	<img src="{{ site.baseurl}}/images/chinook/propane/small/14.jpg" alt="image"></a>
 
-	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/15.jpg" class="swipebox" title="description">
+	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/15.jpg" class="swipebox" title="Flare t-fitting spliter under table attached to stove">
 	<img src="{{ site.baseurl}}/images/chinook/propane/small/15.jpg" alt="image"></a>
 
-	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/16.jpg" class="swipebox" title="description">
+	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/16.jpg" class="swipebox" title="Propane hose split inside of enclosure">
 	<img src="{{ site.baseurl}}/images/chinook/propane/small/16.jpg" alt="image"></a>
 
-	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/17.jpg" class="swipebox" title="description">
+	<a rel="gallery-propane" href="{{ site.baseurl}}/images/chinook/propane/big/17.jpg" class="swipebox" title="Propane hose for heater">
 	<img src="{{ site.baseurl}}/images/chinook/propane/small/17.jpg" alt="image"></a>
 </blockquote>
 
-# Attaching Shell to Floor
+# Attaching Shell and Vertical Frame to Floor
 
-Attaching shell to floor.
+The shell is attached to the floor the same way it was done stock using fiberglass. The fiberglass resin used was [epoxy from US Composites](http://www.uscomposites.com/epoxy.html){:target="_blank"} along with their fiberglass material.
+
+Straps were used to hold the inside wall of the shell flush against the floor. Then using a lot of fiberglass+resin the floor was attached to the shell all the way around the perimeter of the shell excluding the area where it meets the truck cabin. Make sure everything is cleaned!
+
+The vertical frame was another good stock feature. The "H-shaped" frame was secured to the walls with fiberglass strips and does a great job holding it place, nice and sturdy.
 
 <blockquote>
-	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/1.jpg" class="swipebox" title="Straps holding shell flush against the floor">
 	<img src="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/2.jpg" class="swipebox" title="Epoxy resing used from US Composites">
 	<img src="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/3.jpg" class="swipebox" title="Straps holding shell flush against the floor">
 	<img src="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/4.jpg" class="swipebox" title="Rear sub-floor prepared for fiberglass">
 	<img src="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/5.jpg" class="swipebox" title="Rear subfloor fiberglassed">
 	<img src="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/6.jpg" class="swipebox" title="Rear subfloor fiberglassed">
 	<img src="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/7.jpg" class="swipebox" title="Floor near truck cabin fiberglassed">
 	<img src="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/8.jpg" class="swipebox" title="Main rear floor fiberglassed">
 	<img src="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/9.jpg" class="swipebox" title="Side H-shaped frame area fiberglassed in">
 	<img src="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/10.jpg" class="swipebox" title="Rear view with H-shaped framed installec">
 	<img src="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/11.jpg" class="swipebox" title="Straps holding shell flush against wood floor frame">
 	<img src="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/12.jpg" class="swipebox" title="H-shaped frame near over cab">
 	<img src="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/small/12.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/13.jpg" class="swipebox" title="Blocks used to lower floor">
 	<img src="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/14.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/14.jpg" class="swipebox" title="Tarped floor for fiberglassing in H-shaped frame">
 	<img src="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/small/14.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/15.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/15.jpg" class="swipebox" title="H-shaped frame fiberglassed in">
 	<img src="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/small/15.jpg" alt="image"></a>
 
-	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/16.jpg" class="swipebox" title="description">
+	<a rel="gallery-shell_frame_to_floor" href="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/big/16.jpg" class="swipebox" title="H-shaped frame fiberglassed in">
 	<img src="{{ site.baseurl}}/images/chinook/shell_frame_to_floor/small/16.jpg" alt="image"></a>
 </blockquote>
 
 # Gas Tank and Hose
 
-Gas tank and hose.
+The gas tank attaches through the passenger's side wheel well with two bolts into the spout. 
 
 <blockquote>
-	<a rel="gallery-gas_tank" href="{{ site.baseurl}}/images/chinook/gas_tank/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-gas_tank" href="{{ site.baseurl}}/images/chinook/gas_tank/big/1.jpg" class="swipebox" title="Tank before spout before the wheel well was installed">
 	<img src="{{ site.baseurl}}/images/chinook/gas_tank/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-gas_tank" href="{{ site.baseurl}}/images/chinook/gas_tank/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-gas_tank" href="{{ site.baseurl}}/images/chinook/gas_tank/big/2.jpg" class="swipebox" title="Spout without cap installed">
 	<img src="{{ site.baseurl}}/images/chinook/gas_tank/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-gas_tank" href="{{ site.baseurl}}/images/chinook/gas_tank/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-gas_tank" href="{{ site.baseurl}}/images/chinook/gas_tank/big/3.jpg" class="swipebox" title="Spout with cap installed">
 	<img src="{{ site.baseurl}}/images/chinook/gas_tank/small/3.jpg" alt="image"></a>
 </blockquote>
 
 # Wheel Wells
 
-Wheel wells.
+The whell wells were reused and the same method of attaching them with fiberglass to the floor+shell was used. After a bit of framing the wells in the correct spot (due to the 1-2" floor lowering), the same fiberglass resin was used to attach the wells; about 3 fiberglass layers.
+
+Plastic sheet is of great usefulness in these fiberglass applications because the resin doesn't stick to it at all. I wrapped some to-size 1/4" plywood in plastic to get a nice fiberglass joint.
 
 <blockquote>
-	<a rel="gallery-wheel_wells" href="{{ site.baseurl}}/images/chinook/wheel_wells/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-wheel_wells" href="{{ site.baseurl}}/images/chinook/wheel_wells/big/1.jpg" class="swipebox" title="Passenger's side well with preliminary blocks">
 	<img src="{{ site.baseurl}}/images/chinook/wheel_wells/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-wheel_wells" href="{{ site.baseurl}}/images/chinook/wheel_wells/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-wheel_wells" href="{{ site.baseurl}}/images/chinook/wheel_wells/big/2.jpg" class="swipebox" title="Passenger's side well with preliminary blocks">
 	<img src="{{ site.baseurl}}/images/chinook/wheel_wells/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-wheel_wells" href="{{ site.baseurl}}/images/chinook/wheel_wells/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-wheel_wells" href="{{ site.baseurl}}/images/chinook/wheel_wells/big/3.jpg" class="swipebox" title="Driver's side well with propane enclosure held in place with straps">
 	<img src="{{ site.baseurl}}/images/chinook/wheel_wells/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-wheel_wells" href="{{ site.baseurl}}/images/chinook/wheel_wells/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-wheel_wells" href="{{ site.baseurl}}/images/chinook/wheel_wells/big/4.jpg" class="swipebox" title="Passenger's side well held in place with straps and metal weights">
 	<img src="{{ site.baseurl}}/images/chinook/wheel_wells/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-wheel_wells" href="{{ site.baseurl}}/images/chinook/wheel_wells/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-wheel_wells" href="{{ site.baseurl}}/images/chinook/wheel_wells/big/5.jpg" class="swipebox" title="Passenger's side well fiberglassed in">
 	<img src="{{ site.baseurl}}/images/chinook/wheel_wells/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-wheel_wells" href="{{ site.baseurl}}/images/chinook/wheel_wells/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-wheel_wells" href="{{ site.baseurl}}/images/chinook/wheel_wells/big/6.jpg" class="swipebox" title="Gap between the wheel well and lowered floor">
 	<img src="{{ site.baseurl}}/images/chinook/wheel_wells/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-wheel_wells" href="{{ site.baseurl}}/images/chinook/wheel_wells/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-wheel_wells" href="{{ site.baseurl}}/images/chinook/wheel_wells/big/7.jpg" class="swipebox" title="Driver's side well fiberglassed in">
 	<img src="{{ site.baseurl}}/images/chinook/wheel_wells/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-wheel_wells" href="{{ site.baseurl}}/images/chinook/wheel_wells/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-wheel_wells" href="{{ site.baseurl}}/images/chinook/wheel_wells/big/8.jpg" class="swipebox" title="Plastic sheet and quarter inch plywood used to created barrier">
 	<img src="{{ site.baseurl}}/images/chinook/wheel_wells/small/8.jpg" alt="image"></a>
 </blockquote>
 
 # Roof Trim, Hold Downs, and Bungee!
 
-Roof trim, hold downs, and bungee.
+## Roof Trim
+
+The original roof trim was rotted through but I was able to save the shape of the trim for new pieces. The trim on the bottom used 1/2" plywood while the vertical piece is this flexible 1/4" kind of hard plywood stuff that can be found at Home Depot but not Lowe's evidentially. It conforms to the curve of the over-cab section very well. The two pieces are attached with staples and finishing nails.
+
+Then trim was then covered with cheap-o carpet cushion material and covered in a blue denim fabric that fits with the blue/silver/white scheme on the outside. This was my first experience with upholstery and I think it went pretty good!
+
+The curved sections over the cab I used water to soften the fabric to allow for more stretching. I can see how upholstery is an art now!
+
+## Hold Downs
+
+The hold downs I decided to do quite a bit different than stock. Previous hold downs went through the roof and caused leakage. Instead a rectangular beam was created where the hold downs are required using a C-shaped piece of metal. Jack nuts were then used to secure the loop things for attaching the straps. I used a sharpened bolt with the head cutoff to make impressions in the 1/2" plywood for marking where to drill the holes for the hold downs. 
+
+The hold downs into the roof were secured with 3/4" screws into the 1" square wood frame perimeter covered in the Roof Repair section of this post.
+
+## Bungee
+
+The bungee on the canvas is required to prevent the canvas from interfering with the scissor mechanism creating holes in the canvas. A cheap-o bungee was purchased from eBay with a two slot holder to keep the bungee taught. 
 
 <blockquote>
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/1.jpg" class="swipebox" title="Rotted side trim pieces">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/2.jpg" class="swipebox" title="Rotted side trim pieces">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/3.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/3.jpg" alt="image"></a>
-
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/4.jpg" class="swipebox" title="Old trim piece near near coach door">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/5.jpg" class="swipebox" title="Trim piece ready for assembly">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/6.jpg" class="swipebox" title="Trim over cab in loose place">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/7.jpg" class="swipebox" title="Trim over cab in loose place">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/8.jpg" class="swipebox" title="Side trim with padding attached">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/9.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/9.jpg" alt="image"></a>
-
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/10.jpg" class="swipebox" title="Denim upholstered to side trim">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/11.jpg" class="swipebox" title="Denim upholstered to side trim from inside">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/12.jpg" class="swipebox" title="Side trim mocked in place">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/12.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/13.jpg" class="swipebox" title="Side trim">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/14.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/14.jpg" class="swipebox" title="Above cabin trim padding being applied">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/14.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/15.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/15.jpg" class="swipebox" title="Above cabin trim padding installed">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/15.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/16.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/16.jpg" class="swipebox" title="Above cab denim upholstery being installed">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/16.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/17.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/17.jpg" class="swipebox" title="Above cab denim upholstery being installed">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/17.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/18.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/18.jpg" class="swipebox" title="Above cab denim upholstery being installed">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/18.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/19.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/19.jpg" class="swipebox" title="Above cab denim upholstery being installed">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/19.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/20.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/20.jpg" class="swipebox" title="Above cab denim upholstery  installed">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/20.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/21.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/21.jpg" class="swipebox" title="Above cab denim upholstery  installed">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/21.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/22.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/22.jpg" class="swipebox" title="Above cab denim upholstery  installed">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/22.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/23.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/23.jpg" class="swipebox" title="Above cab denim upholstery  installed">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/23.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/24.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/24.jpg" class="swipebox" title="Above cab trim in mock placement">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/24.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/25.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/25.jpg" alt="image"></a>
-
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/26.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/26.jpg" class="swipebox" title="C-shaped hold downs for jack nuts">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/26.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/27.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/27.jpg" class="swipebox" title="C-shaped hold down being installed">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/27.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/28.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/28.jpg" class="swipebox" title="Hold down with jack nuts">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/28.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/29.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/29.jpg" class="swipebox" title="Jack nuts rear view">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/29.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/30.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/30.jpg" class="swipebox" title="Jack nuts installed with pointy bolt to create impression on trim for reference drill hole">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/30.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/31.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/31.jpg" class="swipebox" title="All trim installed!">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/31.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/32.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/32.jpg" class="swipebox" title="Hold down installed with trim in place">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/32.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/33.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/33.jpg" class="swipebox" title="Trim installed looking at rear door">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/33.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/34.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/34.jpg" class="swipebox" title="Hold downs screwed into roof 1 inch wood frame">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/34.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/35.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/35.jpg" class="swipebox" title="Two slot bungee holder">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/35.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/36.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_hold_down_trim_bungee" href="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/big/36.jpg" class="swipebox" title="Bungee sucking canvas in to prevent interferance with scissor mechanism">
 	<img src="{{ site.baseurl}}/images/chinook/roof_hold_down_trim_bungee/small/36.jpg" alt="image"></a>
 </blockquote>
 
