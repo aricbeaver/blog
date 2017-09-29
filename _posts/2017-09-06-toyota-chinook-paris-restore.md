@@ -33,6 +33,58 @@ This blog post will cover every single detail about restoring the motorhome from
 	<img src="{{ site.baseurl}}/images/chinook/intro/small/4.jpg" alt="image"></a>
 </blockquote>
 
+# Table of Contents
+1. [Before](#before)
+2. [Exhaust](#exhaust)
+3. [Paint Preparation](#paint-preparation)
+4. [Paint](#paint)
+5. [Canvas Repair](#canvas-repair)
+6. [Roof Repair](#roof-repair)
+7. [Door Panels](#door-panels)
+8. [Windshield and Wipers](#windshield-and-wipers)
+9. [Attaching the Fiberglass Shell to the Truck Cab](#attaching-the-fiberglass-shell-to-the-truck-cab)
+10. [Rear Frame](#rear-frame)
+11. [Floor Installation](#floor-installation)
+12. [Propane Propane](#propane-propane)
+13. [Attaching Shell and Vertical Frame to Floor](#attaching-shell-and-vertical-frame-to-floor)
+14. [Gas Tank and Hose](#gas-tank-and-hose)
+15. [Wheel Wells](#wheel-wells)
+16. [Roof Trim and Hold Downs and Bungee](#roof-trim-and-hold-downs-and-bungee)
+17. [Tail Lights](#tail-lights)
+18. [Dometic 211 Fridge](#dometic-211-fridge)
+20. [Exterior Panels](#exterior-panels)
+21. [Couch Bed](#couch-bed)
+22. [Vinyl Flooring](#vinyl-flooring)
+23. [Walls](#walls)
+24. [Over Cab Section](#over-cab-section)
+25. [Wall Insulation and Vinyl Trim](#wall-insulation-and-vinyl-trim)
+26. [Table Failure](#table-failure)
+27. [Table](#table)
+28. [Coach Door Rebuild](#coach-door-rebuild)
+29. [Camper Windows](#camper-windows)
+30. [Wheels](#wheels)
+31. [Rear Bumper](#rear-bumper)
+32. [Engine Removal](#engine-removal)
+33. [Engine Rebuild](#engine-rebuild)
+34. [Engine Bay Paint](#engine-bay-paint)
+35. [Engine Install](#engine-install)
+36. [Suspension and Steering and Brakes](#suspension-and-steering-and-brakes)
+37. [Heater](#heater)
+38. [Cabinets](#cabinets)
+39. [Ignition](#ignition)
+40. [Alternator](#alternator)
+41. [Electrical](#electrical)
+42. [Auxiliary Coach Battery](#auxiliary-coach-battery)
+43. [Headliner](#headliner)
+44. [Water and Tank](#water-and-tank)
+45. [Interior Finishing](#interior-finishing)
+46. [Table Top with Stove and Sink](#table-top-with-stove-and-sink)
+47. [Truck Cab Carpet and Seats](#truck-cab-carpet-and-seats)
+48. [Mirrors](#mirrors)
+49. [Roof Install](#roof-install)
+50. [Leaf Spring Rebuild](#leaf-spring-rebuild)
+51. [Moving In](#moving-in)
+
 # Before
 
 This is what Paris looked like before the restoration; however, I forgot to take pictures of Paris before restoration so here is the parts rig I acquired. Vandals broke out all the windows on the parts rig were broken out before I bought it. They both were in similar condition and both 1977s. Interestingly, Chinook has quite a few different interior layouts and exterior panel configurations even within the same year. Paris' layout was a single couch on one side and table on the other which I stuck with for the restoration configuration and the parts rig had a table in the front that converted into a bed and two counters on each side. The change in interior layouts this causes the exterior vents to be in different locations so most of the parts rig's vents couldn't be used as backups on Paris. The fridge vent in particular is on the driver's side on Paris where the body is curved so Chinook made this custom piece of plastic that makes for a flat panel; whereas the parts rig this is built into the fiberglass shell. 
@@ -676,7 +728,7 @@ The floor was secured with these awesome wood to metal self tapping screws by Te
 	<img src="{{ site.baseurl}}/images/chinook/floor/small/16.jpg" alt="image"></a>
 </blockquote>
 
-# [Propane, Propane!](https://youtu.be/ldoT2mHubGE){:target="_blank"}
+# [Propane Propane](https://youtu.be/ldoT2mHubGE){:target="_blank"}
 
 The stock tanks on some of these rigs is a horizontal 5 gallon tank. Neither my parts or restoration rig came with a tank. I thought about using a vertical one but could not for the life of me figure out a good way to install a vertical one. After scavenging CraigsList I found a guy selling used horizontal propane tanks and snagged one up with a new 5 year certification for $25! and it works great.
 
@@ -839,7 +891,7 @@ Plastic sheet is of great usefulness in these fiberglass applications because th
 	<img src="{{ site.baseurl}}/images/chinook/wheel_wells/small/8.jpg" alt="image"></a>
 </blockquote>
 
-# Roof Trim, Hold Downs, and Bungee!
+# Roof Trim and Hold Downs and Bungee
 
 ## Roof Trim
 
@@ -962,575 +1014,605 @@ The bungee on the canvas is required to prevent the canvas from interfering with
 
 # Tail Lights
 
-Tail lights.
+The rear tail lights on these rigs get smashed up over time. The passenger one in particular because the rear door will swing open and hit it. They are actually the same tail lights that are used for the Toyota Pickup truck just re-purposed for the fiberglass shell. 
+
+Replacements are scarce but eBay is your best bet. I found mine from the [AutopartsPros eBay store](http://stores.ebay.com/autopartspros/){:target="_blank"}. They ship with recessed plastic piece that is only for the truck, it is not required for the fiberglass shell. Not sure why Chinook wouldn't use it because it makes the tail lights flush with the body.
+
+The wiring was in very poor condition so I purchased some trailer wiring from Harbor Freight for a decent price and extended the wiring and taped it all up into a nice clean harness. All the extensions used solder joints with heat shrink tubing. Also, don't forget to wire the side running light to the headlight rear running light.
 
 <blockquote>
-	<a rel="gallery-rear_lights" href="{{ site.baseurl}}/images/chinook/rear_lights/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-rear_lights" href="{{ site.baseurl}}/images/chinook/rear_lights/big/1.jpg" class="swipebox" title="Wiring extended underneath floor and taped up nice and clean">
 	<img src="{{ site.baseurl}}/images/chinook/rear_lights/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-rear_lights" href="{{ site.baseurl}}/images/chinook/rear_lights/big/2.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/rear_lights/small/2.jpg" alt="image"></a>
-
-	<a rel="gallery-rear_lights" href="{{ site.baseurl}}/images/chinook/rear_lights/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-rear_lights" href="{{ site.baseurl}}/images/chinook/rear_lights/big/3.jpg" class="swipebox" title="Rear driver's tail light installed">
 	<img src="{{ site.baseurl}}/images/chinook/rear_lights/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-rear_lights" href="{{ site.baseurl}}/images/chinook/rear_lights/big/4.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/rear_lights/small/4.jpg" alt="image"></a>
-
-	<a rel="gallery-rear_lights" href="{{ site.baseurl}}/images/chinook/rear_lights/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-rear_lights" href="{{ site.baseurl}}/images/chinook/rear_lights/big/5.jpg" class="swipebox" title="Wiring colors for stock to custom wiring harness">
 	<img src="{{ site.baseurl}}/images/chinook/rear_lights/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-rear_lights" href="{{ site.baseurl}}/images/chinook/rear_lights/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-rear_lights" href="{{ site.baseurl}}/images/chinook/rear_lights/big/6.jpg" class="swipebox" title="Clean wiring to tail and side running lights">
 	<img src="{{ site.baseurl}}/images/chinook/rear_lights/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-rear_lights" href="{{ site.baseurl}}/images/chinook/rear_lights/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-rear_lights" href="{{ site.baseurl}}/images/chinook/rear_lights/big/7.jpg" class="swipebox" title="Clean wiring to tail and side running lights">
 	<img src="{{ site.baseurl}}/images/chinook/rear_lights/small/7.jpg" alt="image"></a>
-
-	<a rel="gallery-rear_lights" href="{{ site.baseurl}}/images/chinook/rear_lights/big/8.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/rear_lights/small/8.jpg" alt="image"></a>
 </blockquote>
 
 # Dometic 211 Fridge
 
-Dometic 211 fridge.
+The fridge is the original Dometic 211. Luckily both my parts and rebuild rigs had fridges because I had to Frankenstein them together; mostly the trim/door pieces. The fridge components worked like a charm after a bit of cleaning. It is a 3-way fridge so it can run from: 1) 120 VAC (normal plug from your house), 2) 12 VDC (from car battery), or 3) liquid propane gas. The AC setting works great if you have shore power, the DC setting will drain a big deep cycle battery in less than a day, and the propane last for quite a while on a 5 gallon tank depending on the ambient temperature (think twice about running it in 90 degree + weather).
+
+You can find the manual for this fridge online that details the proper installation method into an RV. The vents need to be in a specific location for proper ventilation. It also describes how to operate the fridge in the 3 modes.
+
+The fridge was framed in using 1/4" wood sheets that needed to be cut in a very particular shape to conform to the fiberglass shell's curvature. Insulation tape and polyurethane sealant was used to seal up the fridge vent area from leaking into the inside. The front panel of the fridge was easy to frame because it has a 1/2" lip that trims up the front really nice.
+
+The front panel was that ugly brown color vinyl material attached to a rigid plastic sheet. The brown was torn off and replaced with the same silver vinyl from the walls.
+
+The fridge will open all the way barely touching the could. I would have hinged the fridge on the right side instead of the left but that was how it was done stock and it was worn out on that side.
 
 <blockquote>
-	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/1.jpg" class="swipebox" title="Fridge mock installed from the outside panel">
 	<img src="{{ site.baseurl}}/images/chinook/fridge/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/2.jpg" class="swipebox" title="Dometic 211 fridge model tag">
 	<img src="{{ site.baseurl}}/images/chinook/fridge/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/3.jpg" class="swipebox" title="Back of the fridge removed from the rig">
 	<img src="{{ site.baseurl}}/images/chinook/fridge/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/4.jpg" class="swipebox" title="Fridge specifications">
 	<img src="{{ site.baseurl}}/images/chinook/fridge/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/5.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/fridge/small/5.jpg" alt="image"></a>
-
-	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/6.jpg" class="swipebox" title="Cardboard template used to cutout 1/4 inch framing panels">
 	<img src="{{ site.baseurl}}/images/chinook/fridge/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/7.jpg" class="swipebox" title="Fridge operating on propane">
 	<img src="{{ site.baseurl}}/images/chinook/fridge/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/8.jpg" class="swipebox" title="Framed in with 1/4 inch wood panels">
 	<img src="{{ site.baseurl}}/images/chinook/fridge/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/9.jpg" class="swipebox" title="Fridge in desired location">
 	<img src="{{ site.baseurl}}/images/chinook/fridge/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/10.jpg" class="swipebox" title="Front of fridge framed with table above installed">
 	<img src="{{ site.baseurl}}/images/chinook/fridge/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/11.jpg" class="swipebox" title="Fridge all the way opened">
 	<img src="{{ site.baseurl}}/images/chinook/fridge/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/12.jpg" class="swipebox" title="Fridge door clears couch perfectly">
 	<img src="{{ site.baseurl}}/images/chinook/fridge/small/12.jpg" alt="image"></a>
 </blockquote>
 
 # Exterior Panels
 
-Exterior panels.
+There are quite a few exterior panels on this rig; all in poor shape. They were all removed, cleaned up, painted white, and installed with butyl tape to seal from the elements. The water inlets were covered up because the water system uses a removable tank. The lower fridge vent was the panel in the worst condition. There is a plastic piece that conforms to the curvature of the fiberglass shell and was seemingly custom made by Chinook. I couldn't find a replacement so I used the cracked one you see in the pictures, just sealing over the cracks with polyurethane sealant. There are at least two locations for the fridge vent depending on the original interior layout. The version with the table that converts into a bed has the fridge on the passenger side and the fiberglass shell is flat in that area that prevents the use of the curved plastic piece.
 
 <blockquote>
-	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/1.jpg" class="swipebox" title="Fridge vent covers painted wire">
 	<img src="{{ site.baseurl}}/images/chinook/panels/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/2.jpg" class="swipebox" title="Lower fridge vent cover with cracks">
 	<img src="{{ site.baseurl}}/images/chinook/panels/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/3.jpg" class="swipebox" title="Lower fridge vent cover with cracks">
 	<img src="{{ site.baseurl}}/images/chinook/panels/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/4.jpg" class="swipebox" title="Lower fridge curved vent cover">
 	<img src="{{ site.baseurl}}/images/chinook/panels/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/5.jpg" class="swipebox" title="Fridge installed without vent covers">
 	<img src="{{ site.baseurl}}/images/chinook/panels/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/6.jpg" class="swipebox" title="Upper fridge vent and plastic pieces to cover stock water inlets">
 	<img src="{{ site.baseurl}}/images/chinook/panels/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/7.jpg" class="swipebox" title="Plastic pieces covering stock water inlets">
 	<img src="{{ site.baseurl}}/images/chinook/panels/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/8.jpg" class="swipebox" title="Plastic pieces covering stock water outlet">
 	<img src="{{ site.baseurl}}/images/chinook/panels/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/9.jpg" class="swipebox" title="Drip panel above rear door">
 	<img src="{{ site.baseurl}}/images/chinook/panels/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/10.jpg" class="swipebox" title="Upper fridge cover installed">
 	<img src="{{ site.baseurl}}/images/chinook/panels/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/11.jpg" class="swipebox" title="Lower fridge cover installed">
 	<img src="{{ site.baseurl}}/images/chinook/panels/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-panels" href="{{ site.baseurl}}/images/chinook/panels/big/12.jpg" class="swipebox" title="Lower fridge cover opened to access fridge controls">
 	<img src="{{ site.baseurl}}/images/chinook/panels/small/12.jpg" alt="image"></a>
 </blockquote>
 
-# Couch/Bed
+# Couch Bed
 
-Couch/bed.
+The couch I chose is from a fancy-pants Alfa See Ya motorhome that I found perusing CraigsList. The price tag was $300 but it is in great condition and was a perfect physical fit for my new interior layout configuration. The couch is a jack-knife couch; similar to a futon but has the ability to fold out while pushed flush against a wall. 
+
+To convert it into a bed:
+
+1. Rear cushions need to be removed and stored elsewhere 
+2. Arm cushions need to be lifted up
+3. Grab the bottom of the couch and pull up and it will lay flat
+4. The bottom cushions are on a fabric hinge that folds towards the wall creating a non-leather bed
+
+When folded out there is about 1" of room between the counter top and the bed. Perfect fit!
+
+I did have to modify the frame of the couch a bit to fit up over the wheel well. A little bit of hacking, grinding, and welding accomplished that. An accidental fire burned a hole in the lower kick panel cover on the couch. Oops!!
+
+The couch is one big piece so it was put in through the roof with the help of some strong friends. Then bolted down in the for corners to the floor.
 
 <blockquote>
-	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/1.jpg" class="swipebox" title="Newly purchased Alfa Se Ya motorhome used couch">
 	<img src="{{ site.baseurl}}/images/chinook/couch/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/2.jpg" class="swipebox" title="Frame of the couch">
 	<img src="{{ site.baseurl}}/images/chinook/couch/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/3.jpg" class="swipebox" title="Frame of the couch">
 	<img src="{{ site.baseurl}}/images/chinook/couch/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/4.jpg" class="swipebox" title="Modifying the frame to fit over the wheel well">
 	<img src="{{ site.baseurl}}/images/chinook/couch/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/5.jpg" class="swipebox" title="Modifying the frame to fit over the wheel well">
 	<img src="{{ site.baseurl}}/images/chinook/couch/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/6.jpg" class="swipebox" title="Modifying the frame to fit over the wheel well">
 	<img src="{{ site.baseurl}}/images/chinook/couch/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/7.jpg" class="swipebox" title="Modifying the frame to fit over the wheel well">
 	<img src="{{ site.baseurl}}/images/chinook/couch/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/8.jpg" class="swipebox" title="Modifying the frame to fit over the wheel well">
 	<img src="{{ site.baseurl}}/images/chinook/couch/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/9.jpg" class="swipebox" title="Storage place at work for the couch until ready for installation through roof">
 	<img src="{{ site.baseurl}}/images/chinook/couch/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/10.jpg" class="swipebox" title="Couch installed">
 	<img src="{{ site.baseurl}}/images/chinook/couch/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/11.jpg" class="swipebox" title="Storage underneath couch">
 	<img src="{{ site.baseurl}}/images/chinook/couch/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/12.jpg" class="swipebox" title="Couch folding out to become a bed">
 	<img src="{{ site.baseurl}}/images/chinook/couch/small/12.jpg" alt="image"></a>
 
-	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/13.jpg" class="swipebox" title="Couch folded flat">
 	<img src="{{ site.baseurl}}/images/chinook/couch/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/14.jpg" class="swipebox" title="description">
+	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/14.jpg" class="swipebox" title="Bottom cushions lift up on hinge creating flat fabric couch">
 	<img src="{{ site.baseurl}}/images/chinook/couch/small/14.jpg" alt="image"></a>
 
-	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/15.jpg" class="swipebox" title="description">
+	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/15.jpg" class="swipebox" title="Tight fit between couch and counter top">
 	<img src="{{ site.baseurl}}/images/chinook/couch/small/15.jpg" alt="image"></a>
 
-	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/16.jpg" class="swipebox" title="description">
+	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/16.jpg" class="swipebox" title="Legs of couch when folded out">
 	<img src="{{ site.baseurl}}/images/chinook/couch/small/16.jpg" alt="image"></a>
 
-	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/17.jpg" class="swipebox" title="description">
+	<a rel="gallery-couch" href="{{ site.baseurl}}/images/chinook/couch/big/17.jpg" class="swipebox" title="Couch with rear cushions removed to fold out">
 	<img src="{{ site.baseurl}}/images/chinook/couch/small/17.jpg" alt="image"></a>
 </blockquote>
 
 # Vinyl Flooring
 
-Vinyl flooring.
+The new flooring is vinyl wood patterned "edge-lock" material. It matches the wall's and counter's light stain. Underlayment was placed first over the entire area of the interior then the vinyl flooring was cut to shape. The "edge-lock" flooring just snaps into place on the edges.
+
+The stepped down area was the straight reference edge and the curved area near the truck cabin extra flooring was left there then cut off with a jigsaw. Right angle extruded aluminum trim was used on on the joints to hold the flooring in place.
+
+A hole was cut in the stepped down stair for the spare tire lowering rod to go through, then capped with a plastic cap.
 
 <blockquote>
-	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/1.jpg" class="swipebox" title="Underlayment installed">
 	<img src="{{ site.baseurl}}/images/chinook/flooring/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/2.jpg" class="swipebox" title="Installing flooring from left to right">
 	<img src="{{ site.baseurl}}/images/chinook/flooring/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/3.jpg" class="swipebox" title="Installing flooring from left to right">
 	<img src="{{ site.baseurl}}/images/chinook/flooring/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/4.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/flooring/small/4.jpg" alt="image"></a>
-
-	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/5.jpg" class="swipebox" title="Stepped down area vertical section also used the same flooring">
 	<img src="{{ site.baseurl}}/images/chinook/flooring/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/6.jpg" class="swipebox" title="Stepped down area flooring installed">
 	<img src="{{ site.baseurl}}/images/chinook/flooring/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/7.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/flooring/small/7.jpg" alt="image"></a>
-
-	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/8.jpg" class="swipebox" title="Finished product before aluminum trim installed">
 	<img src="{{ site.baseurl}}/images/chinook/flooring/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/9.jpg" class="swipebox" title="Edge near the truck cabin before trim">
 	<img src="{{ site.baseurl}}/images/chinook/flooring/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/10.jpg" class="swipebox" title="Hole for spare tire rod">
 	<img src="{{ site.baseurl}}/images/chinook/flooring/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/11.jpg" class="swipebox" title="Hole for spare tire rod">
 	<img src="{{ site.baseurl}}/images/chinook/flooring/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/12.jpg" class="swipebox" title="Hole for spare tire rod with plastic cap">
 	<img src="{{ site.baseurl}}/images/chinook/flooring/small/12.jpg" alt="image"></a>
 
-	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/13.jpg" class="swipebox" title="Stepped down area trimmed up">
 	<img src="{{ site.baseurl}}/images/chinook/flooring/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/14.jpg" class="swipebox" title="description">
+	<a rel="gallery-flooring" href="{{ site.baseurl}}/images/chinook/flooring/big/14.jpg" class="swipebox" title="Trim near truck cabin installed">
 	<img src="{{ site.baseurl}}/images/chinook/flooring/small/14.jpg" alt="image"></a>
 </blockquote>
 
 # Walls
 
-Walls.
+The side walls are each one big 4x8' 1/4" wood panels. Cutting these things to size was quite cumbersome due to the awkwardness and specific curves of the windows. Before installing the panels 2" fiberglass insulation was placed behind them glued down with Weldwood glue. The walls were stained with a light oak finish and then sealed up with basic polyurethane sealer. The walls are just wedge in place between the ceiling and the floor with the table an couch holding them down in the middle.
 
 <blockquote>
-	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/1.jpg" class="swipebox" title="Walls being cut to specific sizes">
 	<img src="{{ site.baseurl}}/images/chinook/walls/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/2.jpg" class="swipebox" title="Cutouts for fridge, wheel well, and propane enclosure">
 	<img src="{{ site.baseurl}}/images/chinook/walls/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/3.jpg" class="swipebox" title="Driver's side wall mock installed">
 	<img src="{{ site.baseurl}}/images/chinook/walls/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/4.jpg" class="swipebox" title="Passenger's side wall mock installed">
 	<img src="{{ site.baseurl}}/images/chinook/walls/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/5.jpg" class="swipebox" title="2 inch fiberglass installation installed behind walls">
 	<img src="{{ site.baseurl}}/images/chinook/walls/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/6.jpg" class="swipebox" title="2 inch fiberglass installation installed behind walls">
 	<img src="{{ site.baseurl}}/images/chinook/walls/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/7.jpg" class="swipebox" title="Walls cut to size ready for finshing">
 	<img src="{{ site.baseurl}}/images/chinook/walls/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/8.jpg" class="swipebox" title="Walls stained with a light oak stain">
 	<img src="{{ site.baseurl}}/images/chinook/walls/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/9.jpg" class="swipebox" title="Walls sanded before sealing">
 	<img src="{{ site.baseurl}}/images/chinook/walls/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/10.jpg" class="swipebox" title="Walls being sealed with polyurethane sealer">
 	<img src="{{ site.baseurl}}/images/chinook/walls/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/11.jpg" class="swipebox" title="Walls being sealed with polyurethane sealer">
 	<img src="{{ site.baseurl}}/images/chinook/walls/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-walls" href="{{ site.baseurl}}/images/chinook/walls/big/12.jpg" class="swipebox" title="Driver's side wall installed">
 	<img src="{{ site.baseurl}}/images/chinook/walls/small/12.jpg" alt="image"></a>
 </blockquote>
 
 # Over Cab Section
 
-Over cab section.
+The section above the truck cab consists of a D-shaped 1/2" plywood sheet. This is the way it was done stock so the original sheet was use as a template. Two wood strips were screwed to the sheet to evenly support it on the fiberglass shell. A 1/2" strip of foam was placed on the center of the truck roof to support it further. Half inch craft foam was used as the insulation in the curved wall areas and glued to the walls using Weldwood. The D-shaped sheet was covered with the same 1/2" foam. Silver marine grade vinyl material was then glued with Weldwood to cover all the foam. A word of advice here: cut the vinyl material much larger than you need!
+
+The D-shaped sheet is attached using rivnuts (see pictures for a custom rivnut installer) so it can be removed in case of a leak to access the seal between the truck roof and the fiberglass shell.
 
 <blockquote>
-	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/1.jpg" class="swipebox" title="D-shaped over cab sheet">
 	<img src="{{ site.baseurl}}/images/chinook/over_cab/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/2.jpg" class="swipebox" title="D-shaped sheet installed over cab">
 	<img src="{{ site.baseurl}}/images/chinook/over_cab/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/3.jpg" class="swipebox" title="Half inch strip to protect the truck cab and provide additional support">
 	<img src="{{ site.baseurl}}/images/chinook/over_cab/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/4.jpg" class="swipebox" title="Wood legs that provide support">
 	<img src="{{ site.baseurl}}/images/chinook/over_cab/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/5.jpg" class="swipebox" title="Foam insulation being installed">
 	<img src="{{ site.baseurl}}/images/chinook/over_cab/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/6.jpg" class="swipebox" title="Foam insulation installed">
 	<img src="{{ site.baseurl}}/images/chinook/over_cab/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/7.jpg" class="swipebox" title="Foam insulation installed">
 	<img src="{{ site.baseurl}}/images/chinook/over_cab/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/8.jpg" class="swipebox" title="Silver vinyl fabric installed on walls">
 	<img src="{{ site.baseurl}}/images/chinook/over_cab/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/9.jpg" class="swipebox" title="Custom shaped vertical trim that rests on the drip tray of the truck cabin for additional support">
 	<img src="{{ site.baseurl}}/images/chinook/over_cab/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/10.jpg" class="swipebox" title="D-shaped sheet being wrapped in vinyl">
 	<img src="{{ site.baseurl}}/images/chinook/over_cab/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/11.jpg" class="swipebox" title="Custom rivnut installer">
 	<img src="{{ site.baseurl}}/images/chinook/over_cab/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/12.jpg" class="swipebox" title="Rivnut installed into truck cabin above drip tray">
 	<img src="{{ site.baseurl}}/images/chinook/over_cab/small/12.jpg" alt="image"></a>
 
-	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/13.jpg" class="swipebox" title="All rivnuts installed and D-shaped panel bolted down">
 	<img src="{{ site.baseurl}}/images/chinook/over_cab/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/14.jpg" class="swipebox" title="description">
+	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/14.jpg" class="swipebox" title="D-shaped panel upholstery">
 	<img src="{{ site.baseurl}}/images/chinook/over_cab/small/14.jpg" alt="image"></a>
 
-	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/15.jpg" class="swipebox" title="description">
+	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/15.jpg" class="swipebox" title="D-shaped panel upholstery completed!">
 	<img src="{{ site.baseurl}}/images/chinook/over_cab/small/15.jpg" alt="image"></a>
 
-	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/16.jpg" class="swipebox" title="description">
+	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/16.jpg" class="swipebox" title="Over cab section completed!">
 	<img src="{{ site.baseurl}}/images/chinook/over_cab/small/16.jpg" alt="image"></a>
 
-	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/17.jpg" class="swipebox" title="description">
+	<a rel="gallery-over_cab" href="{{ site.baseurl}}/images/chinook/over_cab/big/17.jpg" class="swipebox" title="My tall self not fitting over the cab">
 	<img src="{{ site.baseurl}}/images/chinook/over_cab/small/17.jpg" alt="image"></a>
 </blockquote>
 
 # Wall Insulation and Vinyl Trim
 
-Wall insulation and vinyl trim.
+In the sections where the fiberglass shell is curved 1/2" or 1" craft foam was used to insulate the cabin. Weld wood glue was used to hold the foam to the walls. Vinyl marine grade fabric was then glued to the insulation to create a nice looking finish.
+
+The vinyl marine grade fabric does not stretch very much so it is required to use patience and a little bit of heat to coerce the fabric into position. The over cab section, vertical walls near the truck cabin, inside closets, and rear walls were all covered in vinyl.
+
+A word of advice here: cut the vinyl material much larger than you need! Especially for the over the cab section since the vinyl doesn't stretch the curves have to be accounted for by using a much larger piece of fabric.
+
+The windows are installed with the aluminum frame pinching the foam and vinyl to the fiberglass shell. Polyurethane sealant was used between the window frame and the outside of the shell and then more was applied to create a leak proof seal.
 
 <blockquote>
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/1.jpg" class="swipebox" title="Insulation being installed over cab">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/2.jpg" class="swipebox" title="Insulation installed over cab">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/3.jpg" class="swipebox" title="Insulation installed over cab">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/4.jpg" class="swipebox" title="Insulation installed in rear cabinets/walls">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/5.jpg" class="swipebox" title="Insulation installed in rear cabinets/walls">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/6.jpg" class="swipebox" title="Testing the adhering ability of the Weldwood to insulation and vinyl fabric">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/7.jpg" class="swipebox" title="Insulation installed on the walls near truck cabin">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/88.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/88.jpg" class="swipebox" title="Marine grade vinyl material">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/9.jpg" class="swipebox" title="Vinyl being cut to size on walls">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/10.jpg" class="swipebox" title="Vinyl being glued to insullation">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/11.jpg" class="swipebox" title="Vinyl being glued to insullation">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/12.jpg" class="swipebox" title="Vinyl being glued to insullation on rear walls">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/12.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/13.jpg" class="swipebox" title="Vinyl being glued to insullation on rear walls">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/14.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/14.jpg" class="swipebox" title="Vinyl being glued to insullation on rear walls">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/14.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/15.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/15.jpg" class="swipebox" title="Vinyl being glued to insullation on rear walls">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/15.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/16.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/16.jpg" class="swipebox" title="Vinyl being glued to insullation on rear walls">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/16.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/17.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/17.jpg" class="swipebox" title="Vinyl being glued to insullation on rear walls">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/17.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/18.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/18.jpg" class="swipebox" title="Vinyl material installation finished in closets and rear walls">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/18.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/19.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/19.jpg" class="swipebox" title="Big sheet of vinyl cut for over cab section">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/19.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/20.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/20.jpg" class="swipebox" title="Vinyl being installed over cab">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/20.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/21.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/21.jpg" class="swipebox" title="Vinyl being installed over cab">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/21.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/22.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/22.jpg" class="swipebox" title="Vinyl being installed over cab">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/22.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/23.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/23.jpg" class="swipebox" title="Vinyl being installed over cab">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/23.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/24.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/24.jpg" class="swipebox" title="Vinyl being installed over cab">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/24.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/25.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/25.jpg" class="swipebox" title="Vinyl installation above cab finished">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/25.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/26.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/26.jpg" class="swipebox" title="Front windows being installed">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/26.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/27.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/27.jpg" class="swipebox" title="Front windows installed">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/27.jpg" alt="image"></a>
 
-	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/28.jpg" class="swipebox" title="description">
+	<a rel="gallery-insulation_trim" href="{{ site.baseurl}}/images/chinook/insulation_trim/big/28.jpg" class="swipebox" title="Front windows installed">
 	<img src="{{ site.baseurl}}/images/chinook/insulation_trim/small/28.jpg" alt="image"></a>
 </blockquote>
 
 # Table Failure
 
-Table failure.
+I had aspirations of building a custom table like the ones you see at bars that use clear epoxy and encapsulate various objects inside. Unfortunately, it did not turn out as I expected. The final product bowed and cracked making it unusable. The final table is covered in the Table section.
+
+The clear epoxy used was [US Composites Kleer Koat](http://www.uscomposites.com/kk121.html){:target="_blank"} table and bartop epoxy.
 
 <blockquote>
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/1.jpg" class="swipebox" title="Thin wood tiles from 6 by 4 inch lumber">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/2.jpg" class="swipebox" title="Routered section in edge trim">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/3.jpg" class="swipebox" title="Tiles being mock placed">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/4.jpg" class="swipebox" title="Stack of tiles">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/5.jpg" class="swipebox" title="Edge trim ready for table base">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/6.jpg" class="swipebox" title="Table base placed into edge trim">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/7.jpg" class="swipebox" title="Gluing down tiles with a thin coat of epoxy">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/8.jpg" class="swipebox" title="Gluing down tiles with a thin coat of epoxy">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/9.jpg" class="swipebox" title="Gluing down tiles with a thin coat of epoxy">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/10.jpg" class="swipebox" title="Gluing down tiles with a thin coat of epoxy">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/11.jpg" class="swipebox" title="Gluing down tiles with a thin coat of epoxy">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/12.jpg" class="swipebox" title="Weighting down tiles">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/12.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/13.jpg" class="swipebox" title="Kleer Koat epoxy used">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/14.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/14.jpg" class="swipebox" title="First layer of epoxy">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/14.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/15.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/15.jpg" class="swipebox" title="First layer of epoxy">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/15.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/16.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/16.jpg" class="swipebox" title="First layer of epoxy">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/16.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/17.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/17.jpg" class="swipebox" title="Screw driver holding down tile floating in epoxy">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/17.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/18.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/18.jpg" class="swipebox" title="First layer pretty smooth!">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/18.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/19.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/19.jpg" class="swipebox" title="Second layer">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/19.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/20.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/20.jpg" class="swipebox" title="Second layer">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/20.jpg" alt="image"></a>
 
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/21.jpg" class="swipebox" title="description">
+	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/21.jpg" class="swipebox" title="Third layer starting to overflow edge trim">
 	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/21.jpg" alt="image"></a>
-
-	<a rel="gallery-failed_table" href="{{ site.baseurl}}/images/chinook/failed_table/big/22.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/failed_table/small/22.jpg" alt="image"></a>
 </blockquote>
 
 # Table
 
-Table.
+The main table counter top is installed on the driver's side of the cabin. Underneath the counter is the fridge on the right, removable water tank on the left, and storage with a sliding door in the middle.
+
+The first step was to frame the fridge in place and make sure there was enough height clearance to fit the stove over the frame. A mock plywood counter was used to make the exact shape of the counter before cutting the main table top.
+
+A metal frame was built out of 1" square tubing, supported at the rear by the cabinets and the front partially by the fridge, a leg on the frame, and the H-shaped frame behind the walls. The frame was painted with black spray paint.
+
+The front of the counter is 1/2" sanded plywood. The edge near the truck cabin was left longer to cut to size after all the other cutouts were made. The fridge cutout was first, followed by and opening for the sliding doors, and lastly the water tank of the far left.
+
+The sliding door was made from 1/4" plastic with a [sliding door tray from McMaster Carr](https://www.mcmaster.com/#1720a24/=19l478t){:target="_blank"}. Four finger sized holes were drilled in the doors to slide them back and forth.
+
+To the right of the fridge, directly behind the drivers seat, two shelfs were made.
+
+The counter is white and speckled made from a particle board base with very hard veneer over the top.
 
 <blockquote>
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/1.jpg" class="swipebox" title="Fridge placed in proper location">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/2.jpg" class="swipebox" title="Frame being built around fridge">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/3.jpg" class="swipebox" title="Making sure stove has enought height clearance">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/4.jpg" class="swipebox" title="Fridge and stove in place">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/5.jpg" class="swipebox" title="Fridge wood brackets">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/6.jpg" class="swipebox" title="Fridge panels">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/7.jpg" class="swipebox" title="Mock of countertop">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/8.jpg" class="swipebox" title="Mock of countertop">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/10.jpg" class="swipebox" title="Mock of countertop">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/11.jpg" class="swipebox" title="Countertop edge cut to shell curve">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/12.jpg" class="swipebox" title="Metal frame being built">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/12.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/13.jpg" class="swipebox" title="Metal frame being built">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/14.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/14.jpg" class="swipebox" title="Metal frame being built">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/14.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/15.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/15.jpg" class="swipebox" title="Metal frame being painted">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/15.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/16.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/16.jpg" class="swipebox" title="Metal frame painted and installed">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/16.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/17.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/17.jpg" class="swipebox" title="Front counter cover mocked up">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/17.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/18.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/18.jpg" class="swipebox" title="Cutout for fridge in front cover">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/18.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/19.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/19.jpg" class="swipebox" title="Cutout for fridge in front cover">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/19.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/20.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/20.jpg" class="swipebox" title="Cutout for sliding door in front cover">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/20.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/21.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/table/small/21.jpg" alt="image"></a>
-
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/22.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/22.jpg" class="swipebox" title="Sliding door single panel before cutting in half">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/22.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/23.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/23.jpg" class="swipebox" title="Sliding door">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/23.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/24.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/24.jpg" class="swipebox" title="Sliding door functioning">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/24.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/25.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/25.jpg" class="swipebox" title="Finger hole to slide doors">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/25.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/26.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/26.jpg" class="swipebox" title="Table finished with mock table">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/26.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/27.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/27.jpg" class="swipebox" title="Side shelfs behind drivers seat">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/27.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/28.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/28.jpg" class="swipebox" title="Side shelfs behind drivers seat">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/28.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/29.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/29.jpg" class="swipebox" title="Side shelfs behind drivers seat">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/29.jpg" alt="image"></a>
 
-	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/30.jpg" class="swipebox" title="description">
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/30.jpg" class="swipebox" title="Finishing table with stain an sealer">
 	<img src="{{ site.baseurl}}/images/chinook/table/small/30.jpg" alt="image"></a>
+
+	<a rel="gallery-table" href="{{ site.baseurl}}/images/chinook/table/big/21.jpg" class="swipebox" title="Final table product">
+	<img src="{{ site.baseurl}}/images/chinook/table/small/21.jpg" alt="image"></a>
 </blockquote>
 
 # Coach Door Rebuild
@@ -1911,7 +1993,7 @@ Engine install.
 	<img src="{{ site.baseurl}}/images/chinook/engine_install/small/5.jpg" alt="image"></a>
 </blockquote>
 
-# Suspension, Steering, and Brakes
+# Suspension and Steering and Brakes
 
 Suspension, steering, and brakes.
 
@@ -2142,7 +2224,7 @@ Electrical.
 	<img src="{{ site.baseurl}}/images/chinook/electrical/small/13.jpg" alt="image"></a>
 </blockquote>
 
-# Auxiliary/Coach Battery 
+# Auxiliary Coach Battery
 
 Auxiliary/coach battery.
 
