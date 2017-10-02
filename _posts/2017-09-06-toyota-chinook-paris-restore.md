@@ -1617,150 +1617,152 @@ The counter is white and speckled made from a particle board base with very hard
 
 # Coach Door Rebuild
 
-Coach door rebuild.
+The door frame was rotted and in need of a rebuild. The basic structure of the door is 1x2" wood strips nailed together with insulation in the middle and Filon (fiberglass rv siding) sheets covering the insulation. The old Filon was cracked and in poor condition so the old was used as a template for the new sheets. The wood frame structure was improved by adding more reinforcements where the old frame was rotted or stressed. Holes were cut for the window and door handle/lock by tracing the old sheets.
+
+The aluminum frame attached to the fiberglass shell needed some love so it was tig welded in spots were it was cracked. Then it was attached to the shell with stainless screws with butyl tape between the seal ans shell. The aluminum door frame is quite easy to disassemble. Remove a few screws and the aluminum pieces pop apart.
+
+The gray door bubble seal was in poor condition and finding a replacement for that wasn't easy. The [Swisco 58-134 Commercial Bubble Weatherstrip](https://www.swisco.com/Commercial-Bubble/pd/Bubble-Seal/58-134){:target="_blank"} is a closest fit I could find. In the corners the seal had to be cut so black RTV silicon was used to seal that area.
+
+The door handle/lock was in decent condition but missing the key. A local locksmith was able to re-key the lock cylinder.
+
+A door stop was installed on the bumper to prevent the door from smashing the tail light.
+ 
 
 <blockquote>
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/1.jpg" class="swipebox" title="Orignal door frame">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/2.jpg" class="swipebox" title="Rotting sections of the orignal door frame">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/3.jpg" class="swipebox" title="Using old Filon sheet as a template for new frame">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/4.jpg" class="swipebox" title="Using old Filon sheet as a template for new frame">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/5.jpg" class="swipebox" title="New frame stapled and screwed together">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/6.jpg" class="swipebox" title="Cutting out new Filon sheets with the old as reference">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/7.jpg" class="swipebox" title="Door assembled without holes for window and door handle">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/8.jpg" class="swipebox" title="Cutouts for window and door handle traced">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/9.jpg" class="swipebox" title="Window hole cutout">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/10.jpg" class="swipebox" title="Handle hole cutout">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/11.jpg" class="swipebox" title="Frame being reassembled">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/12.jpg" class="swipebox" title="Frame being reassembled">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/12.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/13.jpg" class="swipebox" title="Orignal gray bubble seal">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/14.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/14.jpg" class="swipebox" title="Fiberglass insulation inside door">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/14.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/15.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/15.jpg" class="swipebox" title="New Swisco bubble seal installed">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/15.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/16.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/16.jpg" class="swipebox" title="New Swisco bubble seal installed">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/16.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/17.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/17.jpg" alt="image"></a>
-
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/18.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/18.jpg" class="swipebox" title="Frame tig welded around cracks">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/18.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/19.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/19.jpg" class="swipebox" title="Frame tig welded around cracks">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/19.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/20.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/20.jpg" class="swipebox" title="Frame re-installed in fiberglass shell">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/20.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/21.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/21.jpg" alt="image"></a>
-
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/22.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/22.jpg" class="swipebox" title="Door installed with rivets">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/22.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/23.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/23.jpg" class="swipebox" title="Door installed and closed for the first time">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/23.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/24.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/24.jpg" class="swipebox" title="Future location for door stop on bumper">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/24.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/25.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/25.jpg" class="swipebox" title="Door stop hardware">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/25.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/26.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/26.jpg" class="swipebox" title="Door stop installed">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/26.jpg" alt="image"></a>
 
-	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/27.jpg" class="swipebox" title="description">
+	<a rel="gallery-door_coach" href="{{ site.baseurl}}/images/chinook/door_coach/big/27.jpg" class="swipebox" title="Door stop installed">
 	<img src="{{ site.baseurl}}/images/chinook/door_coach/small/27.jpg" alt="image"></a>
 </blockquote>
 
 # Camper Windows
 
-Camper windows.
+All the windows were completely removed and resealed with Sikaflex 221 polyurethane sealer. The polyurethane is the best sealer to use on RV windows. Don't use caulk or regular silicone. The windows sit inside the frames loosely until there is a seal (in this case polyurethane sealer instead of the stock seal). The window was taped off meticulously for a nice smooth bead and sealer was applied around the perimeter of both sides of the windows.
+
+The sliding side windows have a "wood pile" seal that protect the windows from scratching each other. The dimensions were measured and an inexpensive replacement was found on eBay. The seal slides into the frame with ease, then just needs to be cut to size!
+
+The windows all install by pinching the fiberglass shell and interior trim. My hope was that when reinstalling the windows they would pinch enough to use a seal that wouldn't inhibit the windows from being removed in the future for cleaning and resealing purposes; however, this is not the case. Instead more Sikaflex 221 polyurethane sealer was used and during dry time a 2x4 was propped up to force the window to be recessed into the shell.
 
 <blockquote>
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/1.jpg" class="swipebox" title="Coach door window removed and cleaned">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/2.jpg" class="swipebox" title="First bead of sealer">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/3.jpg" class="swipebox" title="Glass pressed against first bead of sealer">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/4.jpg" class="swipebox" title="Tape applied to get nice bead clean bead of sealer">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/5.jpg" class="swipebox" title="Tape applied to get nice bead clean bead of sealer">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/6.jpg" class="swipebox" title="Bead of sealer applied">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/7.jpg" class="swipebox" title="Tape removed, nice clean bead">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/8.jpg" class="swipebox" title="Final product on door window">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/9.jpg" class="swipebox" title="Sliding side window's latch">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/10.jpg" class="swipebox" title="Sliding side windows disassembled">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/11.jpg" class="swipebox" title="Sliding side windows disassembled">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/12.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/windows/small/12.jpg" alt="image"></a>
-
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/13.jpg" class="swipebox" title="Sealer applied to sliding side window">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/14.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/14.jpg" class="swipebox" title="Battery weighting down windows for good seal">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/14.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/15.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/15.jpg" class="swipebox" title="Final product on sliding side windows">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/15.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/16.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/16.jpg" class="swipebox" title="Final product on sliding side windows">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/16.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/17.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/17.jpg" class="swipebox" title="Wood pile seal being slide into place">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/17.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/18.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/windows/small/18.jpg" alt="image"></a>
-
+	HEEEEERRRRRRRREEEEEEEEE
 	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/19.jpg" class="swipebox" title="description">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/19.jpg" alt="image"></a>
 
