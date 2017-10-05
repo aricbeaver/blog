@@ -84,6 +84,7 @@ This blog post will cover every single detail about restoring the motorhome from
 49. [Roof Install](#roof-install)
 50. [Leaf Spring Rebuild](#leaf-spring-rebuild)
 51. [Moving In](#moving-in)
+52. [Comments](#comments)
 
 # Before
 
@@ -1762,685 +1763,768 @@ The windows all install by pinching the fiberglass shell and interior trim. My h
 	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/17.jpg" class="swipebox" title="Wood pile seal being slide into place">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/17.jpg" alt="image"></a>
 
-	HEEEEERRRRRRRREEEEEEEEE
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/19.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/19.jpg" class="swipebox" title="Windows installed on passenger's side">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/19.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/20.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/20.jpg" class="swipebox" title="Windows installed on driver's side">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/20.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/21.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/21.jpg" class="swipebox" title="Pushing windows into place while sealer is drying">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/21.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/22.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/22.jpg" class="swipebox" title="Pushing windows into place while sealer is drying">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/22.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/23.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/23.jpg" class="swipebox" title="Finished seal on passenger's side">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/23.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/24.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/24.jpg" class="swipebox" title="Window taped off and sealed for nice clean bead">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/24.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/25.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/25.jpg" class="swipebox" title="Window taped off and sealed for nice clean bead">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/25.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/26.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/26.jpg" class="swipebox" title="Finished product on driver's side">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/26.jpg" alt="image"></a>
 
-	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/27.jpg" class="swipebox" title="description">
+	<a rel="gallery-windows" href="{{ site.baseurl}}/images/chinook/windows/big/27.jpg" class="swipebox" title="Finished product on driver's side">
 	<img src="{{ site.baseurl}}/images/chinook/windows/small/27.jpg" alt="image"></a>
 </blockquote>
 
 # Wheels
 
-Wheels.
+None of the stock wheels from either rebuild or parts rig matched so I bought a good set for $100 with 90% tread left on the tires. Good deal! They are from a Mazda car and have the 5x114.3 bolt pattern. 
+
+The offset and wheel/tire dimensions are definitely different from stock. There is some rubbing on the frame in the rear but will solve in the future with 1.5" wheel spacers. The studs in the rear are 1" long. The only rubs when you turn all the way in either direction; not very concerned there.
+
+The Mazda wheels shown are hubcentric wheels and the Toyota Pickup is lugcentric (or boltcentric). Unfortunately, the diameter of the hub on the Mazda was smaller than the hub on the front of the pickup so they needed to be bored out a bit. An aluminum piece was cut on the lathe to fit into the wheel and house a metal hole saw to bore out the hole a bit. 
 
 <blockquote>
-	<a rel="gallery-wheels" href="{{ site.baseurl}}/images/chinook/wheels/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-wheels" href="{{ site.baseurl}}/images/chinook/wheels/big/1.jpg" class="swipebox" title="Hole saw bore out piece and low speed drill">
 	<img src="{{ site.baseurl}}/images/chinook/wheels/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-wheels" href="{{ site.baseurl}}/images/chinook/wheels/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-wheels" href="{{ site.baseurl}}/images/chinook/wheels/big/2.jpg" class="swipebox" title="Hole saw bore out piece and left over aluminum ring">
 	<img src="{{ site.baseurl}}/images/chinook/wheels/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-wheels" href="{{ site.baseurl}}/images/chinook/wheels/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-wheels" href="{{ site.baseurl}}/images/chinook/wheels/big/3.jpg" class="swipebox" title="Aluminum piece in wheel #2">
 	<img src="{{ site.baseurl}}/images/chinook/wheels/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-wheels" href="{{ site.baseurl}}/images/chinook/wheels/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-wheels" href="{{ site.baseurl}}/images/chinook/wheels/big/4.jpg" class="swipebox" title="Final product fitting around front hubs">
 	<img src="{{ site.baseurl}}/images/chinook/wheels/small/4.jpg" alt="image"></a>
 </blockquote>
 
 # Rear Bumper
 
-Rear bumper.
+The rear bumper isn't the stock bumper. It is steel and much more heavy duty. It was wire wheeled to remove all the dirt/rust and then primed, painted, and clearcoated with the same silver paint from the shell stripe.
+
+This bumper is attached with 4 hefty bolts into the right angle of the frame.
 
 <blockquote>
-	<a rel="gallery-rear_bumper" href="{{ site.baseurl}}/images/chinook/rear_bumber/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-rear_bumper" href="{{ site.baseurl}}/images/chinook/rear_bumber/big/1.jpg" class="swipebox" title="Bumper cleaned and in approximate final location">
 	<img src="{{ site.baseurl}}/images/chinook/rear_bumber/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-rear_bumper" href="{{ site.baseurl}}/images/chinook/rear_bumber/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-rear_bumper" href="{{ site.baseurl}}/images/chinook/rear_bumber/big/2.jpg" class="swipebox" title="Primer applied to bumper">
 	<img src="{{ site.baseurl}}/images/chinook/rear_bumber/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-rear_bumper" href="{{ site.baseurl}}/images/chinook/rear_bumber/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-rear_bumper" href="{{ site.baseurl}}/images/chinook/rear_bumber/big/3.jpg" class="swipebox" title="Primer applied to bumper">
 	<img src="{{ site.baseurl}}/images/chinook/rear_bumber/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-rear_bumper" href="{{ site.baseurl}}/images/chinook/rear_bumber/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-rear_bumper" href="{{ site.baseurl}}/images/chinook/rear_bumber/big/4.jpg" class="swipebox" title="Paint and clearcoat applied to bumper">
 	<img src="{{ site.baseurl}}/images/chinook/rear_bumber/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-rear_bumper" href="{{ site.baseurl}}/images/chinook/rear_bumber/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-rear_bumper" href="{{ site.baseurl}}/images/chinook/rear_bumber/big/5.jpg" class="swipebox" title="Bumper installed">
 	<img src="{{ site.baseurl}}/images/chinook/rear_bumber/small/5.jpg" alt="image"></a>
 </blockquote>
 
 # Engine Removal
 
-Engine removal.
+The engine is actually quite simple to remove. The engine was completely rebuilt in following sections.
+
+To remove the engine
+1. Disconnect all wires and water/air hoses from the engine
+2. Remove radiator (unless the transmission has been removed), you need the extra space
+3. Unbolt the two engine mounts on either side of the block
+4. Disconnect the drive shaft, carrier bearing has to be removed
+5. Remove the two bolts holding transmission in place
+6. Attach your cherry picker and jack her up!
+
+The transmission mount threw me for a loop because it has this centering pin that required the transmission to be pushed up and "unlocked" from the frame. Note, the transmission cross member does not have to be removed.
 
 <blockquote>
-	<a rel="gallery-engine_remove" href="{{ site.baseurl}}/images/chinook/engine_remove/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_remove" href="{{ site.baseurl}}/images/chinook/engine_remove/big/1.jpg" class="swipebox" title="Cherry picker removing engine">
 	<img src="{{ site.baseurl}}/images/chinook/engine_remove/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_remove" href="{{ site.baseurl}}/images/chinook/engine_remove/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_remove" href="{{ site.baseurl}}/images/chinook/engine_remove/big/2.jpg" class="swipebox" title="Cherry picker removing engine">
 	<img src="{{ site.baseurl}}/images/chinook/engine_remove/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_remove" href="{{ site.baseurl}}/images/chinook/engine_remove/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_remove" href="{{ site.baseurl}}/images/chinook/engine_remove/big/3.jpg" class="swipebox" title="Engine and tranmsision removed">
 	<img src="{{ site.baseurl}}/images/chinook/engine_remove/small/3.jpg" alt="image"></a>
 </blockquote>
 
 # Engine Rebuild
 
-Engine rebuild.
+Once the engine was removed it was time to start rebuilding it. This was my first engine rebuild but luckily my good friend who has done many engines was helping me. 
+
+The first step is to completely disassemble the engine down to the point where the block, head, and crankshaft are all separate pieces (my machinist was okay with leaving the crankshaft attached to the block). Now take these to your local machinist and they should know what to do from there. They will order an engine rebuild kit that will have the parts for an entire rebuild: pistons, rings, bearings, seals, and gaskets. Total machinist cost including the rebuild kit was $750.
+
+The flywheel desperately needed to be resurfaced. The same machinist did that for $80. The clutch was entirely rebuilt as well. 
+
+Nothing was done to the transmission. 
+
+Only use [Toyota FIPG gasket maker](https://www.amazon.com/Genuine-Toyota-00295-00103-Formed-Place/dp/B000EDDTV0){:target="_blank"} for oil pan and water pump. This stuff is awesome and never leaks!
+
+Grab an Haynes manual for the rebuild. It will walk you through every step.
+
+A VERY STRONG WORD OF WARNING! The oil pumps on these engines need to be primed!! Make sure you have oil pressure before running the engine after rebuild. Simply cranking the engine may not be enough: remove the oil filter and squirt oil into the filter holes in the block and fill the filter with oil. Some people even suggest to fill the oil filter with wheel bearing grease to promote the pump to start pumping. 
+
+Check out all the pictures below of the engine rebuild. A picture is worth a thousand words!
 
 <blockquote>
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/1.jpg" class="swipebox" title="Transmission removed and engine placed on stand">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/2.jpg" class="swipebox" title="Water pump replaced">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/3.jpg" class="swipebox" title="Flywheel resurfaced">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/4.jpg" class="swipebox" title="Resurfaced block from machinist">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/5.jpg" class="swipebox" title="Crankshaft and head resurfaced from machinist">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/6.jpg" class="swipebox" title="Engine rebuild kit">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/7.jpg" class="swipebox" title="Crankshaft in place">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/8.jpg" class="swipebox" title="Crankshaft in place">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/9.jpg" class="swipebox" title="First piston installed">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/10.jpg" class="swipebox" title="Crankshaft bolted down, bearings installed, pistons installed">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/11.jpg" class="swipebox" title="Timing chain being installed">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/12.jpg" class="swipebox" title="Timing chain being installed">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/12.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/13.jpg" class="swipebox" title="Side of the block, pointing to oil pressure sensor">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/14.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/14.jpg" class="swipebox" title="Attaching alternator and other mounts">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/14.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/15.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/15.jpg" class="swipebox" title="Oil pan repainted">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/15.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/16.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/16.jpg" class="swipebox" title="Head gasket being installed">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/16.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/17.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/17.jpg" class="swipebox" title="Head and camshaft in place">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/17.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/18.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/18.jpg" class="swipebox" title="Head and camshaft in place">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/18.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/19.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/19.jpg" class="swipebox" title="Toyota FIPG being applied to oil pan seal">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/19.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/20.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/20.jpg" class="swipebox" title="Oil pan installed">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/20.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/22.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/22.jpg" class="swipebox" title="Carburetor and intake/exhaust manifolds installed">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/22.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/23.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/23.jpg" class="swipebox" title="Carburetor and intake/exhaust manifolds installed">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/23.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/24.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/24.jpg" class="swipebox" title="Engine removed from stand and flywheel/clutch installed">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/24.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/25.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_rebuild" href="{{ site.baseurl}}/images/chinook/engine_rebuild/big/25.jpg" class="swipebox" title="Transmision installed">
 	<img src="{{ site.baseurl}}/images/chinook/engine_rebuild/small/25.jpg" alt="image"></a>
 </blockquote>
 
 # Engine Bay Paint
 
-Engine bay paint.
+The engine bay was quite dirty from the 40 years of hard work. All the things bolted to the bay were removed and everything cleaned throughly. The amount of time spent cleaning things was not something I expect for this project! Using red scuff pads helps remove the dirt/grease/grime. The underside of the hood was also cleaned.
+
+Everything was taped off to prevent overspray and rattle can black primer was applied to the hood and bay. Some cheap-ish flat black single stage paint from the special NAPAs that mix paint (decently priced, decent paint!) was sprayed on with an HVLP gun. 
+
+The results are great! Looks much better than the stock white.
 
 <blockquote>
-	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/1.jpg" class="swipebox" title="Engine bay before removing and cleaning everything">
 	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/2.jpg" class="swipebox" title="Things bolted to the bay being removed">
 	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/3.jpg" class="swipebox" title="Things bolted to the bay being removed">
 	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/4.jpg" class="swipebox" title="Everything removed and cleaned!">
 	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/5.jpg" class="swipebox" title="Underside of the hood before cleaning">
 	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/6.jpg" class="swipebox" title="Underside of the hood cleaned">
 	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/7.jpg" class="swipebox" title="Underside of the hood ready for paint">
 	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/8.jpg" class="swipebox" title="Engine bay ready for paint">
 	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/9.jpg" class="swipebox" title="Black primer applied to hood">
 	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/10.jpg" class="swipebox" title="Black primer applied to bay">
 	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/11.jpg" class="swipebox" title="Single stage flat black paint applied to engine bay">
 	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/12.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/12.jpg" alt="image"></a>
-
-	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/13.jpg" class="swipebox" title="Single stage flat black paint applied to engine bay">
 	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/14.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/14.jpg" class="swipebox" title="Single stage flat black paint applied to underside of hood">
 	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/14.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/15.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_bay_paint" href="{{ site.baseurl}}/images/chinook/engine_bay_paint/big/15.jpg" class="swipebox" title="Paper and tape removed, final product!">
 	<img src="{{ site.baseurl}}/images/chinook/engine_bay_paint/small/15.jpg" alt="image"></a>
 </blockquote>
 
 # Engine Install
 
-Engine install.
+Putting the engine back in is the exact opposite of the removal. Using a cherry picker with a engine load leveler make the job very easy. Both the transmission and engine mounts were replaced which are super cheap from RockAuto.
 
 <blockquote>
-	<a rel="gallery-engine_install" href="{{ site.baseurl}}/images/chinook/engine_install/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_install" href="{{ site.baseurl}}/images/chinook/engine_install/big/1.jpg" class="swipebox" title="Load leveler in action">
 	<img src="{{ site.baseurl}}/images/chinook/engine_install/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_install" href="{{ site.baseurl}}/images/chinook/engine_install/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_install" href="{{ site.baseurl}}/images/chinook/engine_install/big/2.jpg" class="swipebox" title="Engine in place held by cherry picker">
 	<img src="{{ site.baseurl}}/images/chinook/engine_install/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_install" href="{{ site.baseurl}}/images/chinook/engine_install/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_install" href="{{ site.baseurl}}/images/chinook/engine_install/big/3.jpg" class="swipebox" title="Transmision output shaft seal replacement">
 	<img src="{{ site.baseurl}}/images/chinook/engine_install/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_install" href="{{ site.baseurl}}/images/chinook/engine_install/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_install" href="{{ site.baseurl}}/images/chinook/engine_install/big/4.jpg" class="swipebox" title="Engine installed on actual mounts">
 	<img src="{{ site.baseurl}}/images/chinook/engine_install/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-engine_install" href="{{ site.baseurl}}/images/chinook/engine_install/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-engine_install" href="{{ site.baseurl}}/images/chinook/engine_install/big/5.jpg" class="swipebox" title="Engine installed on actual mounts">
 	<img src="{{ site.baseurl}}/images/chinook/engine_install/small/5.jpg" alt="image"></a>
 </blockquote>
 
 # Suspension and Steering and Brakes
 
-Suspension, steering, and brakes.
+All of the suspension, steering, and brake components that are subjected to wear and tear were replaced which includes:
+
+- Sway arm bushings
+- Brake pads
+- Rear brake cylinders
+- Axle seals
+- Shocks
+- Front brake discs
+- Repacked wheel bearings with grease
+- Tie rod ends and sleeves
+- Pitman arm
+- Upper/lower ball joints
 
 <blockquote>
-	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/1.jpg" class="swipebox" title="Sway arm bushings replaced">
 	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/2.jpg" class="swipebox" title="Brand new components from RockAuto">
 	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/3.jpg" class="swipebox" title="Nasty, old, greasy brake drums">
 	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/4.jpg" class="swipebox" title="Degreasing drums">
 	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/5.jpg" class="swipebox" title="Rear axle with brakes and hub removed">
 	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/6.jpg" class="swipebox" title="Replacing front brakes and suspension components">
 	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/7.jpg" class="swipebox" title="New front discs and wheel bearings repacked">
 	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/8.jpg" class="swipebox" title="Old tie rods">
 	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/9.jpg" class="swipebox" title="New front discs and wheel bearings repacked">
 	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-suspension_steering_brakes" href="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/big/10.jpg" class="swipebox" title="Rear brakes overhaul">
 	<img src="{{ site.baseurl}}/images/chinook/suspension_steering_brakes/small/10.jpg" alt="image"></a>
 </blockquote>
 
-# Heater
+# Heater	
 
-Heater.
+The heater is installed on the front side of the rear drivers side closet; recessed into the wall a bit. It is the ventless [Camco 57341 Olympian Wave-6 6000 BTU LP Gas Catalytic Heater](https://www.amazon.com/Camco-57341-Olympian-Wave-6-Catalytic/dp/B000BV01CK){:target="_blank"}. It keeps the cabin nice and warm.  
 
 <blockquote>
-	<a rel="gallery-heater" href="{{ site.baseurl}}/images/chinook/heater/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-heater" href="{{ site.baseurl}}/images/chinook/heater/big/1.jpg" class="swipebox" title="Mock heater installation">
 	<img src="{{ site.baseurl}}/images/chinook/heater/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-heater" href="{{ site.baseurl}}/images/chinook/heater/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-heater" href="{{ site.baseurl}}/images/chinook/heater/big/2.jpg" class="swipebox" title="Heater installation with supporting wood frame">
 	<img src="{{ site.baseurl}}/images/chinook/heater/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-heater" href="{{ site.baseurl}}/images/chinook/heater/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-heater" href="{{ site.baseurl}}/images/chinook/heater/big/3.jpg" class="sw	ipebox" title="Heater installation compelete from rear">
 	<img src="{{ site.baseurl}}/images/chinook/heater/small/3.jpg" alt="image"></a>
 </blockquote>
 
 # Cabinets
 
-Cabinets.
+The two rear closets were framed using a combination of metal: 1" square tubing and 1" angle iron. The metal frame was spray painted black and secured to the floor with bolts and 1/2" sanded plywood covers the metal frame. The plywood has very specific shapes and requires a template to be made before cutting the plywood to ensure a proper fit. Two large rectangular holes were made in the front of the closet for hinged cabinet door access into the closet. Three of the doors open into the cabin and the other one opens out for easy access to things when standing outside of the camper.
+
+Adjustable shelf brackets were screwed to the metal frame and custom shelf sizes were cut to fit on those brackets. The driver's side has 3 shelfs and the passenger's side has 4 shelfs. The lower shelf on the driver's side houses all the electronics: inverter, wiring, fuse block, etc.
+
+The interior was finished and then all the cabinet door hardware was installed: hinges, door knob, and latches.
 
 <blockquote>
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/1.jpg" class="swipebox" title="Mock closet location on driver's side">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/2.jpg" class="swipebox" title="Heater cutout and start of metal closet frame">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/3.jpg" class="swipebox" title="Heater cutout and start of metal closet frame">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/4.jpg" class="swipebox" title="Bottom of metal frame being sized">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/5.jpg" class="swipebox" title="Metal frame being created">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/6.jpg" class="swipebox" title="Metal frame on drivers's side completed">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/7.jpg" class="swipebox" title="Metal frame on driver's side completed">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/8.jpg" class="swipebox" title="Starting to frame metal closet frame on passenger's side">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/9.jpg" class="swipebox" title="Framing closet frame on passenger's side">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/10.jpg" class="swipebox" title="Metal frame on passenger's side completed">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/11.jpg" class="swipebox" title="Cutting half inch plywood to size to cover metal frame">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/12.jpg" class="swipebox" title="Closets getting there">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/12.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/13.jpg" class="swipebox" title="Painting metal closet frames">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/13.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/14.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/14.jpg" alt="image"></a>
-
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/15.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/15.jpg" class="swipebox" title="Painting metal closet frames">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/15.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/16.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/16.jpg" class="swipebox" title="Templating the plywood shape">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/16.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/17.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/17.jpg" class="swipebox" title="Passenger's side closet almost completed">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/17.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/18.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/18.jpg" class="swipebox" title="Passenger's side closet almost completed">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/18.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/19.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/19.jpg" class="swipebox" title="Odd sized closet cover cutout using template">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/19.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/20.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/20.jpg" class="swipebox" title="Drivers's side closet almost completed">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/20.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/21.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/21.jpg" class="swipebox" title="First cabinet mock installed">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/21.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/22.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/22.jpg" class="swipebox" title="First cabinet mock installed">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/22.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/23.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/23.jpg" class="swipebox" title="Cabinets mock installed">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/23.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/24.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/24.jpg" class="swipebox" title="Cabinets mock installed">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/24.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/25.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/25.jpg" class="swipebox" title="Adjustable shelf brackets installed">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/25.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/26.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/26.jpg" class="swipebox" title="First shelf installed, lower level is for electronics">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/26.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/27.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/27.jpg" class="swipebox" title="Second shelf installed">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/27.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/28.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/28.jpg" class="swipebox" title="All shelfs on passenger's side installed">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/28.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/29.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/29.jpg" class="swipebox" title="Closets taped of for finishing">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/29.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/30.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/30.jpg" class="swipebox" title="Cabinet door latches installed">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/30.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/31.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/31.jpg" class="swipebox" title="Cabinet door handles and latches installed">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/31.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/32.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/32.jpg" class="swipebox" title="Final product on passenger's side">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/32.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/33.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/33.jpg" class="swipebox" title="Final product on driver's side">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/33.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/34.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/34.jpg" class="swipebox" title="Final product on passenger's side">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/34.jpg" alt="image"></a>
 
-	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/35.jpg" class="swipebox" title="description">
+	<a rel="gallery-cabinet" href="{{ site.baseurl}}/images/chinook/cabinet/big/35.jpg" class="swipebox" title="Final product on driver's side">
 	<img src="{{ site.baseurl}}/images/chinook/cabinet/small/35.jpg" alt="image"></a>
 </blockquote>
 
 # Ignition 
 
-Ignition.
+The ignition from some of the 1977's (I think) has points - and that is lame-o. Fortunately, a company called Pertronix makes a electronic ignition replacement: [Pertronix 1641](http://shop.pertronix.com/pertronix-1641-ignitor-toyota-4-cyl.html){:target="_blank"} that is compatible with these Toyota Pickups. This module mounts inside of the ignition distributor and replaces the stock points and igniter; only external component required is the ignition coil.
+
+The Pertronix system works without a physical electrical connection. Instead, a permanent magnet is installed on the distributor rotor and a hall effect sensor inside of the ignition module picks up when that magnet passes the surface of the module. The signal then grounds the ignition coil creating a very large electrical spike (thousands of volts) which is then sent to a particular spark plug through the distributor.
 
 <blockquote>
-	<a rel="gallery-ignition" href="{{ site.baseurl}}/images/chinook/ignition/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-ignition" href="{{ site.baseurl}}/images/chinook/ignition/big/1.jpg" class="swipebox" title="Old lame-o point based ignition">
 	<img src="{{ site.baseurl}}/images/chinook/ignition/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-ignition" href="{{ site.baseurl}}/images/chinook/ignition/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-ignition" href="{{ site.baseurl}}/images/chinook/ignition/big/2.jpg" class="swipebox" title="New Pertronix eletronic ignition">
 	<img src="{{ site.baseurl}}/images/chinook/ignition/small/2.jpg" alt="image"></a>
 </blockquote>
 
 # Alternator 
 
-Alternator.
+The alternator was replaced with a brand new one from RockAuto. The way Chinook hacked into the alternator cable for the auxiliary battery was very interesting. The wiring harness up near the brake booster was just torn apart and hacked into; not very professional. Instead, I hacked a wire into the wire harness going down to the alternator that then goes to both the regular battery and the auxiliary battery when the vehicle is running (to prevent discharging the regular battery when the vehicle is not running).
 
 <blockquote>
-	<a rel="gallery-alternator" href="{{ site.baseurl}}/images/chinook/alternator/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-alternator" href="{{ site.baseurl}}/images/chinook/alternator/big/1.jpg" class="swipebox" title="Three pin alternator connector">
 	<img src="{{ site.baseurl}}/images/chinook/alternator/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-alternator" href="{{ site.baseurl}}/images/chinook/alternator/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-alternator" href="{{ site.baseurl}}/images/chinook/alternator/big/2.jpg" class="swipebox" title="Old alternator installed ">
 	<img src="{{ site.baseurl}}/images/chinook/alternator/small/2.jpg" alt="image"></a>
 </blockquote>
 
 # Electrical 
 
-Electrical.
+## Auxiliary Battery
+
+Covered in the next section.
+
+## Fuse Block and Ignition Relay
+
+The [Seachoice ATO / ATC Fuse Block 10 Gang](https://www.amazon.com/Seachoice-ATO-Fuse-Block-Gang/dp/B000N9PJ7W/ref=sr_1_cc_2?s=aps&ie=UTF8&qid=1507175936&sr=1-2-catcorr&keywords=fuse+block+with+ground){:target="_blank"} fuse block was used with the [Stinger SGP38 80-AMP Battery Isolator and Relay](https://www.amazon.com/Stinger-SGP38-80-AMP-Battery-Isolator/dp/B001HC6UJ0){:target="_blank"} and [W6 80A AMP Circuit Breaker](http://www.ebay.com/itm/W6-80A-AMP-Circuit-Breaker-Car-Marine-Stereo-Audio-Inline-Replace-Fuse-12V-24V-/182216092958){:target="_blank"}.
+
+The ignition only turns on the ignition relay on when the vehicle is running to avoid discharging the battery that starts the vehicle. When the vehicle is off the power to the cabin is fed exclusively from the auxiliary battery. 
+
+A 6 gauge power wire is ran through the frame to the fuse block and inverter (through a 80A breaker box) in the lower driver's side closet. There it is distributed to all the DC electronic devices in the cabin.
+
+## DC to AC Inverter and AC Wiring
+
+The [AIMS Power PWRIX120012S](http://www.aimscorp.net/1200-Watt-Pure-Sine-Inverter-with-Built-In-Transfer.html){:target="_blank"} inverter was chosen because it has a built in transfer switch that allows shore power to be prioritized over DC to AC inverting. More simply put, if you don't plug in your camper to an AC outlet it will invert but if the camper is plugged it it will exclusively use power from where it is plugged into. 
+
+The inverter has 2 inputs and 1 output: inputs are either AC or DC and the output is AC. The AC output is only wired to a two plug standard AC outlet. The AC ground wire is grounded to the truck frame as per the instructions.
+
+An 8 foot heavy duty AC electrical cable can be pulled out from the small electrical box to plug into shore power.
+
+The inverter has a remote power switch located on the driver's side wall that is controlled via a single button, either on or off.
+
+## Fridge
+
+The fridge is wired into the DC fuse block and AC power for its 3-way operation. The inverter will power the fridge from AC unless shore power is connected.
+
+## DC Wiring
+
+Currently, the sink pump, DC outlets, and fridge are the only devices powered by the DC circuitry. The automatic sink pump is the [Favson Diaphragm Pump](https://www.amazon.com/dp/B017NVG1I8?ref_=pe_621110_218803130_ste_e420_dp_2){:target="_blank"} that powers itself when pressure is lost in the water system. The two DC outlets are plain Jane cigarette style plugs. The fridge is simply connected to the fuse block for DC operation.
 
 <blockquote>
-	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/1.jpg" class="swipebox" title="Disconnect relay for coach power">
 	<img src="{{ site.baseurl}}/images/chinook/electrical/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/2.jpg" class="swipebox" title="Mock placement for inverter and fuse block">
 	<img src="{{ site.baseurl}}/images/chinook/electrical/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/3.jpg" class="swipebox" title="AC and DC wiring behind fridge">
 	<img src="{{ site.baseurl}}/images/chinook/electrical/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/4.jpg" class="swipebox" title="AC plug wiring">
 	<img src="{{ site.baseurl}}/images/chinook/electrical/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/5.jpg" class="swipebox" title="DC wiring coming from battery and devices">
 	<img src="{{ site.baseurl}}/images/chinook/electrical/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/6.jpg" class="swipebox" title="AC wiring into inverter">
 	<img src="{{ site.baseurl}}/images/chinook/electrical/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/7.jpg" class="swipebox" title="AC wiring into inverter">
 	<img src="{{ site.baseurl}}/images/chinook/electrical/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/8.jpg" class="swipebox" title="Inverter and fuse block partially connected">
 	<img src="{{ site.baseurl}}/images/chinook/electrical/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/9.jpg" class="swipebox" title="Shore power connection">
 	<img src="{{ site.baseurl}}/images/chinook/electrical/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/10.jpg" class="swipebox" title="Shore power connection box opened before shore power connection installed">
 	<img src="{{ site.baseurl}}/images/chinook/electrical/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/11.jpg" class="swipebox" title="Fuse block wiring being installed">
 	<img src="{{ site.baseurl}}/images/chinook/electrical/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/12.jpg" class="swipebox" title="Inverter and fuse block wiring completed">
 	<img src="{{ site.baseurl}}/images/chinook/electrical/small/12.jpg" alt="image"></a>
 
-	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/13.jpg" class="swipebox" title="description">
+	<a rel="gallery-electrical" href="{{ site.baseurl}}/images/chinook/electrical/big/13.jpg" class="swipebox" title="Remote control for inverter">
 	<img src="{{ site.baseurl}}/images/chinook/electrical/small/13.jpg" alt="image"></a>
 </blockquote>
 
 # Auxiliary Coach Battery
 
-Auxiliary/coach battery.
+A custom battery holder was constructed to house the battery and attach the wiper fluid and coolant overflow tanks. A basic 12V deep cycle battery was used as the template for the battery holder. 
+
+The ignition only turns on the ignition relay on when the vehicle is running to avoid discharging the battery that starts the vehicle. When the vehicle is off the power to the cabin is fed exclusively from the auxiliary battery. 
+
+A 6 gauge power wire is ran through the frame to the fuse block and inverter (through a 80A breaker box) in the lower driver's side closet. There it is distributed to all the DC electronic devices in the cabin.
 
 <blockquote>
-	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/1.jpg" class="swipebox" title="Auxiliary battery holder">
 	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/2.jpg" class="swipebox" title="Auxiliary battery holder holding battery">
 	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/3.jpg" class="swipebox" title="Auxiliary battery relay">
 	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/4.jpg" class="swipebox" title="Battery holder and dual liquid tank mounted">
 	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/5.jpg" class="swipebox" title="Battery holder and dual liquid tank mounted">
 	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/6.jpg" class="swipebox" title="Battery holder painted black">
 	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/7.jpg" class="swipebox" title="Battery and dual liquid tank mounted">
 	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/8.jpg" class="swipebox" title="Breaker and relay installed, partially wired">
 	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/9.jpg" class="swipebox" title="Breaker, relay, and battery wiring completed">
 	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/10.jpg" class="swipebox" title="Wiring ran through the frame with a fishtape">
 	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/11.jpg" class="swipebox" title="Wiring ran through the frame with a fishtape">
 	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/11.jpg" alt="image"></a>
 
-	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/12.jpg" class="swipebox" title="description">
+	<a rel="gallery-aux_bat" href="{{ site.baseurl}}/images/chinook/aux_bat/big/12.jpg" class="swipebox" title="Wiring from battery into cabin">
 	<img src="{{ site.baseurl}}/images/chinook/aux_bat/small/12.jpg" alt="image"></a>
 </blockquote>
 
 # Headliner
 
-Headliner.
+The headliner is basic headliner material you can find at any fabric store. The old headliner was torn but intact enough to trace a new one from. It was attached using Weldwood liquid adhesive.
 
 <blockquote>
-	<a rel="gallery-headliner" href="{{ site.baseurl}}/images/chinook/headliner/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-headliner" href="{{ site.baseurl}}/images/chinook/headliner/big/1.jpg" class="swipebox" title="Tracing the old headliner onto the new">
 	<img src="{{ site.baseurl}}/images/chinook/headliner/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-headliner" href="{{ site.baseurl}}/images/chinook/headliner/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-headliner" href="{{ site.baseurl}}/images/chinook/headliner/big/2.jpg" class="swipebox" title="Partial headliner installation">
 	<img src="{{ site.baseurl}}/images/chinook/headliner/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-headliner" href="{{ site.baseurl}}/images/chinook/headliner/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-headliner" href="{{ site.baseurl}}/images/chinook/headliner/big/3.jpg" class="swipebox" title="Headliner installed">
 	<img src="{{ site.baseurl}}/images/chinook/headliner/small/3.jpg" alt="image"></a>
 </blockquote>
 
 # Water and Tank
 
-Water and tank.
+The water inlets and outlets on the outside of the camper were removed and replaced with removable 5 gallon water tank which fits perfectly between the closet and the wheel well after some slight planing of the closet wall. The [Favson Diaphragm Pump](https://www.amazon.com/dp/B017NVG1I8?ref_=pe_621110_218803130_ste_e420_dp_2){:target="_blank"} is used to pump water to the sink and only powers itself when pressure is lost in the water system. Both hold and cold portions of the faucet are plumbed to spit out cold water. Water is sucked from the tank using a removable plastic hose.
 
 <blockquote>
-	<a rel="gallery-water" href="{{ site.baseurl}}/images/chinook/water/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-water" href="{{ site.baseurl}}/images/chinook/water/big/1.jpg" class="swipebox" title="Water tank wedged between wheel well and closet">
 	<img src="{{ site.baseurl}}/images/chinook/water/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-water" href="{{ site.baseurl}}/images/chinook/water/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-water" href="{{ site.baseurl}}/images/chinook/water/big/2.jpg" class="swipebox" title="Slight planing necessary to get water tank to fit nicely">
 	<img src="{{ site.baseurl}}/images/chinook/water/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-water" href="{{ site.baseurl}}/images/chinook/water/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-water" href="{{ site.baseurl}}/images/chinook/water/big/3.jpg" class="swipebox" title="Water tank with front of table in place">
 	<img src="{{ site.baseurl}}/images/chinook/water/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-water" href="{{ site.baseurl}}/images/chinook/water/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-water" href="{{ site.baseurl}}/images/chinook/water/big/4.jpg" class="swipebox" title="Water plumbing">
 	<img src="{{ site.baseurl}}/images/chinook/water/small/4.jpg" alt="image"></a>
 </blockquote>
 
 # Interior Finishing
 
-Interior finishing.
+The interior wood was finished to have the same stain color as the walls and flooring, i.e. a light oak color. The cabinet door were removed and everything taped off, stained, and polyurethaned over twice.
 
 <blockquote>
-	<a rel="gallery-interior_finish" href="{{ site.baseurl}}/images/chinook/interior_finish/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-interior_finish" href="{{ site.baseurl}}/images/chinook/interior_finish/big/1.jpg" class="swipebox" title="Passenger's side cabinet finished">
 	<img src="{{ site.baseurl}}/images/chinook/interior_finish/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-interior_finish" href="{{ site.baseurl}}/images/chinook/interior_finish/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-interior_finish" href="{{ site.baseurl}}/images/chinook/interior_finish/big/2.jpg" class="swipebox" title="Table finished">
 	<img src="{{ site.baseurl}}/images/chinook/interior_finish/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-interior_finish" href="{{ site.baseurl}}/images/chinook/interior_finish/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-interior_finish" href="{{ site.baseurl}}/images/chinook/interior_finish/big/3.jpg" class="swipebox" title="Cabinet door seperately finished">
 	<img src="{{ site.baseurl}}/images/chinook/interior_finish/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-interior_finish" href="{{ site.baseurl}}/images/chinook/interior_finish/big/4.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/interior_finish/small/4.jpg" alt="image"></a>
-
-	<a rel="gallery-interior_finish" href="{{ site.baseurl}}/images/chinook/interior_finish/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-interior_finish" href="{{ site.baseurl}}/images/chinook/interior_finish/big/5.jpg" class="swipebox" title="Table finished with tape removed">
 	<img src="{{ site.baseurl}}/images/chinook/interior_finish/small/5.jpg" alt="image"></a>
 </blockquote>
 
 # Table Top with Stove and Sink
 
-Table top with stove and sink.
+The sink is the original but the stove is the [Flame King YSNHT600 LP Gas Drop-In 2 Burner RV Cooktop Stove with Cover](https://www.amazon.com/dp/B01D42QH2U/ref=sxts_bia_sr_1?pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3182441022&pd_rd_wg=xrFMx&pf_rd_r=FN4A3TEVEEGAJHDY0ZTE&pf_rd_s=desktop-sx-top-slot&pf_rd_t=301&pd_rd_i=B01D42QH2U&pd_rd_w=2Lvdt&pf_rd_i=propane+rv+stove&pd_rd_r=PJ8Z3D1HAYB5ZDP44H51&ie=UTF8&qid=1507179335&sr=1){:target="_blank"} and the countertop is the [White Laminate Countertop](https://www.lowes.com/pd/VT-Dimensions-Formica-8-ft-Ouro-Romano-Etchings-Straight-Laminate-Kitchen-Countertop/50197325){:target="_blank"} from Lowe's (heavily cut to size).
+
+The table shape was mocked using a cheap piece of plywood then cut to final size when everything fit just right.
 
 <blockquote>
-	<a rel="gallery-table_top_stove_sink" href="{{ site.baseurl}}/images/chinook/table_top_stove_sink/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-table_top_stove_sink" href="{{ site.baseurl}}/images/chinook/table_top_stove_sink/big/1.jpg" class="swipebox" title="Mock plywood table with sink and stove installed">
 	<img src="{{ site.baseurl}}/images/chinook/table_top_stove_sink/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-table_top_stove_sink" href="{{ site.baseurl}}/images/chinook/table_top_stove_sink/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-table_top_stove_sink" href="{{ site.baseurl}}/images/chinook/table_top_stove_sink/big/2.jpg" class="swipebox" title="Mock plywood table with sink">
 	<img src="{{ site.baseurl}}/images/chinook/table_top_stove_sink/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-table_top_stove_sink" href="{{ site.baseurl}}/images/chinook/table_top_stove_sink/big/3.jpg" class="swipebox" title="description">
-	<img src="{{ site.baseurl}}/images/chinook/table_top_stove_sink/small/3.jpg" alt="image"></a>
-
-	<a rel="gallery-table_top_stove_sink" href="{{ site.baseurl}}/images/chinook/table_top_stove_sink/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-table_top_stove_sink" href="{{ site.baseurl}}/images/chinook/table_top_stove_sink/big/4.jpg" class="swipebox" title="Final laminate countertop cut to size from plywood template">
 	<img src="{{ site.baseurl}}/images/chinook/table_top_stove_sink/small/4.jpg" alt="image"></a>
 </blockquote>
 
 # Truck Cab Carpet and Seats
 
-Truck cab carpet and seats.
+The carpet was replaced with [1977-1983 Toyota Pickup Reg Cab, 8046 Silver Cutpile, Mass Backing](http://www.automatstore.com/){:target="_blank"} carpet from AutoMatStore. The silver color best matched my silver stripes via the free samples they provide. The seats are from an unknown vehicle that came with my restoration chinook. The seat frames are welded to the stock seat frames for compatibility. 
+
+Installing the carpet takes a lot of fan-dangling even with the mold shape fitting to this particular truck. Follow the installation instructions that say start at the driveshaft/shifter area and work towards the middle.
+
+After the carpet installation holes were made for the seats, seat belts, and other equipment. 
 
 <blockquote>
-	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/1.jpg" class="swipebox" title="Carpet initially placed">
 	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/2.jpg" class="swipebox" title="Carpet installation">
 	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/3.jpg" class="swipebox" title="Carpet installation">
 	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/4.jpg" class="swipebox" title="Carpet installation">
 	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/5.jpg" class="swipebox" title="Carpet instllation around gas pedal">
 	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/6.jpg" class="swipebox" title="Carpet installation basically completed except holes for seats">
 	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/7.jpg" class="swipebox" title="Carpet installation basically completed except holes for seats">
 	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/8.jpg" class="swipebox" title="Seats and carpet installed">
 	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/8.jpg" alt="image"></a>
 
-	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/9.jpg" class="swipebox" title="description">
+	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/9.jpg" class="swipebox" title="Seats and carpet installed">
 	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/9.jpg" alt="image"></a>
 
-	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/10.jpg" class="swipebox" title="description">
+	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/10.jpg" class="swipebox" title="Seats and carpet installed">
 	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/10.jpg" alt="image"></a>
 
-	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/11.jpg" class="swipebox" title="description">
+	<a rel="gallery-carpet_cab" href="{{ site.baseurl}}/images/chinook/carpet_cab/big/11.jpg" class="swipebox" title="Seats and carpet installed">
 	<img src="{{ site.baseurl}}/images/chinook/carpet_cab/small/11.jpg" alt="image"></a>
 </blockquote>
 
 # Mirrors
 
-Mirrors.
+The mirror mounts were cleaned and all the bolts replaced with stainless ones with rubber washers to protect the body from rubbing against the mirror mounts. New basic replacement mirrors were purchased to replace the old ones.
 
 <blockquote>
-	<a rel="gallery-mirror" href="{{ site.baseurl}}/images/chinook/mirrors/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-mirror" href="{{ site.baseurl}}/images/chinook/mirrors/big/1.jpg" class="swipebox" title="Repalcement mirrors">
 	<img src="{{ site.baseurl}}/images/chinook/mirrors/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-mirror" href="{{ site.baseurl}}/images/chinook/mirrors/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-mirror" href="{{ site.baseurl}}/images/chinook/mirrors/big/2.jpg" class="swipebox" title="Repalcement mirrors">
 	<img src="{{ site.baseurl}}/images/chinook/mirrors/small/2.jpg" alt="image"></a>
 </blockquote>
 
 # Roof Install
 
-Roof install.
+The roof install requires a few people for initial placement. Using four 4x4" blocks to hold the roof about 1.5' off the shell is optimal for installing the scissor lift mechanism. Once the scissor lift mechanism is secured, use a floor jack in the cabin to lift the roof up to the maximum height to ease the installation of the helper springs.
+
+Where the scissor lift mechanism mounts to the shell, polyurethane sealer is once again used to seal out that nasty water.
 
 <blockquote>
-	<a rel="gallery-roof_instal" href="{{ site.baseurl}}/images/chinook/roof_install/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_instal" href="{{ site.baseurl}}/images/chinook/roof_install/big/1.jpg" class="swipebox" title="Blocks used to lift the roof off the shell for scissor life mechanism installation">
 	<img src="{{ site.baseurl}}/images/chinook/roof_install/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_instal" href="{{ site.baseurl}}/images/chinook/roof_install/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_instal" href="{{ site.baseurl}}/images/chinook/roof_install/big/2.jpg" class="swipebox" title="Blocks used to lift the roof off the shell for scissor life mechanism installation">
 	<img src="{{ site.baseurl}}/images/chinook/roof_install/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_instal" href="{{ site.baseurl}}/images/chinook/roof_install/big/3.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_instal" href="{{ site.baseurl}}/images/chinook/roof_install/big/3.jpg" class="swipebox" title="Scissor lift mechanism installed">
 	<img src="{{ site.baseurl}}/images/chinook/roof_install/small/3.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_instal" href="{{ site.baseurl}}/images/chinook/roof_install/big/4.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_instal" href="{{ site.baseurl}}/images/chinook/roof_install/big/4.jpg" class="swipebox" title="Floor jack lifting roof to allow for spring installation">
 	<img src="{{ site.baseurl}}/images/chinook/roof_install/small/4.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_instal" href="{{ site.baseurl}}/images/chinook/roof_install/big/5.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_instal" href="{{ site.baseurl}}/images/chinook/roof_install/big/5.jpg" class="swipebox" title="Springs installed">
 	<img src="{{ site.baseurl}}/images/chinook/roof_install/small/5.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_instal" href="{{ site.baseurl}}/images/chinook/roof_install/big/6.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_instal" href="{{ site.baseurl}}/images/chinook/roof_install/big/6.jpg" class="swipebox" title="Roof installed and compressed">
 	<img src="{{ site.baseurl}}/images/chinook/roof_install/small/6.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_instal" href="{{ site.baseurl}}/images/chinook/roof_install/big/7.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_instal" href="{{ site.baseurl}}/images/chinook/roof_install/big/7.jpg" class="swipebox" title="Roof installed from inside">
 	<img src="{{ site.baseurl}}/images/chinook/roof_install/small/7.jpg" alt="image"></a>
 
-	<a rel="gallery-roof_instal" href="{{ site.baseurl}}/images/chinook/roof_install/big/8.jpg" class="swipebox" title="description">
+	<a rel="gallery-roof_instal" href="{{ site.baseurl}}/images/chinook/roof_install/big/8.jpg" class="swipebox" title="Roof installed from top">
 	<img src="{{ site.baseurl}}/images/chinook/roof_install/small/8.jpg" alt="image"></a>
 </blockquote>
 
 # Leaf Spring Rebuild
 
-Leaf spring rebuild.
+The leaf springs were quite worn out so they were rebuilt by a local Portland company. They did a great job and leveled out the rig perfectly; an additional leaf was added too. It amazed me that the only thing this company does is leaf springs!
 
 <blockquote>
-	<a rel="gallery-leaf_spring" href="{{ site.baseurl}}/images/chinook/leaf_spring/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-leaf_spring" href="{{ site.baseurl}}/images/chinook/leaf_spring/big/1.jpg" class="swipebox" title="Leaf spring rebuild">
 	<img src="{{ site.baseurl}}/images/chinook/leaf_spring/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-leaf_spring" href="{{ site.baseurl}}/images/chinook/leaf_spring/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-leaf_spring" href="{{ site.baseurl}}/images/chinook/leaf_spring/big/2.jpg" class="swipebox" title="Leaf spring rebuild">
 	<img src="{{ site.baseurl}}/images/chinook/leaf_spring/small/2.jpg" alt="image"></a>
 </blockquote>
 
-# Moving In!
+# Moving In
 
-Move in.
+Well... perfect timing to my new life! I now live in Paris and have for about 2 months, as of writing this post. The things you see on the couch are the only items I took with me during this little adventure: clothes, laptop, blankets, sheets, pillows, and thats about it! Still working out a few kinks with the propane and electrical system as well as an unexpected water leak but all is well! 
 
 <blockquote>
-	<a rel="gallery-move_in" href="{{ site.baseurl}}/images/chinook/move_in/big/1.jpg" class="swipebox" title="description">
+	<a rel="gallery-move_in" href="{{ site.baseurl}}/images/chinook/move_in/big/1.jpg" class="swipebox" title="The only items I took from my entire house when moving in">
 	<img src="{{ site.baseurl}}/images/chinook/move_in/small/1.jpg" alt="image"></a>
 
-	<a rel="gallery-move_in" href="{{ site.baseurl}}/images/chinook/move_in/big/2.jpg" class="swipebox" title="description">
+	<a rel="gallery-move_in" href="{{ site.baseurl}}/images/chinook/move_in/big/2.jpg" class="swipebox" title="The only items I took from my entire house when moving in">
 	<img src="{{ site.baseurl}}/images/chinook/move_in/small/2.jpg" alt="image"></a>
 </blockquote>
+
+
+# Comments
+
+Please comment on anything above, below!! I would love to hear anyone's feedback!! Thanks, Aric.
