@@ -33,6 +33,17 @@ This blog post will cover every single detail about restoring the motorhome from
 	<img src="{{ site.baseurl}}/images/chinook/intro/small/4.jpg" alt="image"></a>
 </blockquote>
 
+Below this there are 50+ different sections describing aspects of the camper in detail. Please feel free to read through them and comment on anything! Additionally, here is a quick 20 minute walk-through video of the completed project.
+
+## YouTube Video Tour
+
+<blockquote>
+	<div class="intrinsic-container intrinsic-container-16x9">
+	  <iframe src="https://www.youtube.com/embed/yzQTu955YMg" frameborder="0" allowfullscreen></iframe>
+	</div>
+</blockquote>
+
+
 # Table of Contents
 1. [Before](#before)
 2. [Exhaust](#exhaust)
@@ -390,7 +401,7 @@ In the areas where fiberglassing from the inside was required body work on the o
 
 I mimicked the same stock wood frame plus the hybrid metal frame. A hybrid frame over entirely metal frame is almost required to keep the weight of the pop-up down. Another reason to keep the wood frame around the perimeter is because the canvas is attached purely by staples! Stapling into metal is quite difficult. One other metal bar in the middle was added which is where the two handles on the inside are screwed to; just for a bit more rigidity. Same fiberglass strips were used to hold down the wood and metal frame.
 
-The stock foam installation was used for the most part until running; then some fiberglass insulation was used instead. Next was covering the insulation with the stock fiberglass sheet. Applying a bunch of fiberglass resin to the wood frame and a few pieces of fiberglass and weighting it down was the method I used. Ideally, one would secure the frame and the sheet at the same time but its not an easy task.
+The stock foam insulation was used for the most part until running; then some fiberglass insulation was used instead. Next was covering the insulation with the stock fiberglass sheet. Applying a bunch of fiberglass resin to the wood frame and a few pieces of fiberglass and weighting it down was the method I used. Ideally, one would secure the frame and the sheet at the same time but its not an easy task.
 
 Securing the canvas and trip is the opposite of removal, stapling each one down (three trips around the roof):
 
@@ -1048,7 +1059,7 @@ The fridge was framed in using 1/4" wood sheets that needed to be cut in a very 
 
 The front panel was that ugly brown color vinyl material attached to a rigid plastic sheet. The brown was torn off and replaced with the same silver vinyl from the walls.
 
-The fridge will open all the way barely touching the could. I would have hinged the fridge on the right side instead of the left but that was how it was done stock and it was worn out on that side.
+The fridge will open all the way barely touching the couch. I would have hinged the fridge on the right side instead of the left but that was how it was done stock and it was worn out on that side.
 
 <blockquote>
 	<a rel="gallery-fridge" href="{{ site.baseurl}}/images/chinook/fridge/big/1.jpg" class="swipebox" title="Fridge mock installed from the outside panel">
@@ -2362,7 +2373,7 @@ The headliner is basic headliner material you can find at any fabric store. The 
 
 # Water and Tank
 
-The water inlets and outlets on the outside of the camper were removed and replaced with removable 5 gallon water tank which fits perfectly between the closet and the wheel well after some slight planing of the closet wall. The [Favson Diaphragm Pump](https://www.amazon.com/dp/B017NVG1I8?ref_=pe_621110_218803130_ste_e420_dp_2){:target="_blank"} is used to pump water to the sink and only powers itself when pressure is lost in the water system. Both hold and cold portions of the faucet are plumbed to spit out cold water. Water is sucked from the tank using a removable plastic hose.
+The water inlets and outlets on the outside of the camper were removed and replaced with removable 5 gallon water tank which fits perfectly between the closet and the wheel well after some slight planing of the closet wall. The [Favson Diaphragm Pump](https://www.amazon.com/dp/B017NVG1I8?ref_=pe_621110_218803130_ste_e420_dp_2){:target="_blank"} is used to pump water to the sink and only powers itself when pressure is lost in the water system. Both hot and cold portions of the faucet are plumbed to spit out cold water. Water is sucked from the tank using a removable plastic hose.
 
 <blockquote>
 	<a rel="gallery-water" href="{{ site.baseurl}}/images/chinook/water/big/1.jpg" class="swipebox" title="Water tank wedged between wheel well and closet">
