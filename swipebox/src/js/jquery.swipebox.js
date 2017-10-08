@@ -10,7 +10,7 @@
 				useCSS : true,
 				useSVG : true,
 				initialIndexOnArray : 0,
-				removeBarsOnMobile : true,
+				removeBarsOnMobile : false,
 				hideCloseButtonOnMobile : false,
 				hideBarsDelay : 0,
 				videoMaxWidth : 1140,
