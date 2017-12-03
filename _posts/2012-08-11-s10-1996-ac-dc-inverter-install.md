@@ -9,7 +9,7 @@ tags:
  - electronics
 ---
 
-I remembered a car commercial back in the day for the Pontiac Vibe that was advertising an in-dash DC to AC inverter. Anyways, I have used one in my truck for the past few months and I decided to hardwire it into the center console of my Isuzu Hombre just like that old school Pontiac Vibe. <br />
+I remembered a car commercial back in the day for the Pontiac Vibe that was advertising an in-dash DC to AC inverter. Anyways, I have used one in my truck for the past few months and I decided to hardwire it into the center console of my Isuzu Hombre just like that old school Pontiac Vibe.
 
 This can serve as a tutorial for those of you that might want to do this same project, otherwise, it is neat to see how another person would engineer something like this. Enjoy!
 
@@ -23,9 +23,9 @@ Searching through my boxes of computer hardware and wires I found this USB/Firew
 
 For the AC wiring I used a standard monitor/computer power cable such as the one below. I cut off the female end and striped it down for a easy connection to a standard household AC outlet. 
 
-![](http://media.wholesale-electrical-electronics.com/product/imgage/Electrical&amp;Electronics/2010101207/a1f5aaaf1b01e336a1e1b8d547adba4a.JPG)
+![](http://images.samash.com/sa/HPW/HPWC400.fpx?cvt=jpg)
 
-I mounted the AC (from The Home Depot) and the USB outlets inside the worthless POS center console that s10's have. You could mount it elsewhere, however, I found this to be a prime location. For those of you that have similar stories: one time I went to Sonic and ordered me one of those delicious route 44 cherry limeades and placed it into the &quot;cup holder&quot; (as we all know Sonic has Styrofoam cups). As I was turning left into a somewhat busy 4 lane road the delicious route 44 cherry limeade fell out and landed upside down on the straw and poked a hole in the bottom of the cup! What are you going to do at that point? Both ends have a hole in them. ![](http://www.s10forum.com/forum/images/smilies/frown.gif" border="0" alt="" title="Frown" class="inlineimg" />
+I mounted the AC (from The Home Depot) and the USB outlets inside the worthless POS center console that s10's have. You could mount it elsewhere, however, I found this to be a prime location. For those of you that have similar stories: one time I went to Sonic and ordered me one of those delicious route 44 cherry limeades and placed it into the "cup holder" (as we all know Sonic has Styrofoam cups). As I was turning left into a somewhat busy 4 lane road the delicious route 44 cherry limeade fell out and landed upside down on the straw and poked a hole in the bottom of the cup! What are you going to do at that point? Both ends have a hole in them.
 
 ![](https://lh6.googleusercontent.com/-DBC63iiuU4I/UCYC670s9aI/AAAAAAAAALQ/bZNSW1Jdpgw/s767/3.JPG)
 
@@ -37,7 +37,7 @@ I took the cigarette lighter off the DC to AC inverter and used Anderson 12 AWG 
 
 ![](https://lh6.googleusercontent.com/-pIKZCpzxBlk/UCYDD25uMjI/AAAAAAAAALQ/UWDNsc8AVJA/s767/6.JPG)
 
-I spliced a wire directly into the fuse block main 12 V &quot;always on&quot; rail and followed that directly with a 15 A fuse which I very much recommend for any vehicle electrical wiring. Even better would be to use an empty slot in the fuse block, but it is hard to maneuver the fuse block and find the specific pin inserts. I bought a standard 12 V 30 A automotive relay for O'Reilly auto parts and an LED switch from Radioshack. I also recommend using a relay for this type of application because depending on the wattage of the inverter it could draw excess of 50 A at 12 V DC if you have a 1000 W inverter. The wiring is shown below. If you have never wired a relay before check out this website: <a onclick="_gaq.push(['_trackEvent', 'Outgoing', 'www.therangerstation.com', '/tech_library/relays.html']);" href="http://www.therangerstation.com/tech_library/relays.html" target="_blank">http://www.therangerstation.com/tech...ry/relays.html</a>. 
+I spliced a wire directly into the fuse block main 12 V "always on" rail and followed that directly with a 15 A fuse which I very much recommend for any vehicle electrical wiring. Even better would be to use an empty slot in the fuse block, but it is hard to maneuver the fuse block and find the specific pin inserts. I bought a standard 12 V 30 A automotive relay for O'Reilly auto parts and an LED switch from Radioshack. I also recommend using a relay for this type of application because depending on the wattage of the inverter it could draw excess of 50 A at 12 V DC if you have a 1000 W inverter. The wiring is shown below. If you have never wired a relay before check out this website: <http://www.therangerstation.com/tech_library/relays.html >{:target="_blank"}
 
 Some install notes:
 1) ALWAYS USE HEATSHRINK! Debugging electrical problems can be a pain in the ass. Take it from a EE.
@@ -61,7 +61,7 @@ Here is the external USB and AC cables running out of the center console.
 
 ![](https://lh5.googleusercontent.com/-nZ9MNOp86uY/UCYCrr3n8tI/AAAAAAAAALQ/GnLWjRxupBU/s575/12.JPG)
 
-Finally, here is the final product. The switch has to be enabled for use of the DC to AC inverter. I mounted it with a 7/8&quot; hole behind my XM satellite receiver where 4WD switches would typically go.
+Finally, here is the final product. The switch has to be enabled for use of the DC to AC inverter. I mounted it with a 7/8" hole behind my XM satellite receiver where 4WD switches would typically go.
 
 ![](https://lh5.googleusercontent.com/-PDI0SeO9Lvc/UCYCw9zpTSI/AAAAAAAAALQ/yT87zSLFkkE/s1113/15.JPG)
 
@@ -73,4 +73,4 @@ Lastly, here is proof that it works! Via my wonderfully bliss Apple products. AC
 
 ![](https://lh5.googleusercontent.com/-BQ8huZEHGjQ/UCYCzLwi3bI/AAAAAAAAALQ/vkto-6l39xU/s1113/16.JPG)
 
-![](https://lh4.googleusercontent.com/-YOTCC9vgj_M/UCYCuKRT1cI/AAAAAAAAAJk/Q30vIwrIVgc/s871/17.PNG
+![](https://lh4.googleusercontent.com/-YOTCC9vgj_M/UCYCuKRT1cI/AAAAAAAAAJk/Q30vIwrIVgc/s871/17.PNG)
