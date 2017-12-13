@@ -11,7 +11,7 @@ tags:
 
 # Introduction
 
-The cowls on the 70's Toyota pickups holds water and rusts through eventually leaking into the interior and soaking the cab's floor board with water. The culprit is the degraded seal which needs to be removed and then replaced.
+The cowls on late 70's and early 80's Toyota pickups hold water and over the many years rusts through eventually leaking into the interior and soaking the cab's floor board with water. The culprit is the degraded seal which needs to be removed and then replaced.
 
 # Repair
 
