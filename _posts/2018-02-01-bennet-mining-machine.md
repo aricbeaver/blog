@@ -9,7 +9,7 @@ tags:
 ---
 
 # Preface
-More info coming soon! Here is a teaser for now.
+In an attempt to make some side money, I decided to build a crypto currency mining machine for mining Vertcoin (VTC) Lyra2REv2 ASIC-proof currency. The website [What To Mine](http://whattomine.com/){:target="_blank"} will give you a great idea about what currencies are the most profitable to mine in the current market.
 
 # Components, Cost, and Links
 The table below shows the bill of materials and total cost for this build. Building a mining machine is quite the investment! Luckily the video cards were purchased in November of 2017 before the prices tripled in January of 2018.
@@ -87,10 +87,7 @@ The table below shows the bill of materials and total cost for this build. Build
 	</table>
 </div>
 
-# Build
-Text
-
-## Pictures
+# Pictures
 Here are the pictures I took during the build process.
 <div>
 	<a rel="gallery-build" href="{{ site.baseurl}}/images/bennett/big/1.jpg" class="swipebox" title="Before unboxing components">
@@ -145,24 +142,51 @@ Here are the pictures I took during the build process.
 	<img src="{{ site.baseurl}}/images/bennett/small/17.jpg" alt="image"></a>
 </div>
 
+# Build Information
+
+## Fans
+There are seven 80mm and two 120mm fans (120mm not shown in the pictures). Five of the 80mm fans sit in the middle of the Rosewill case and the others exhaust out the rear. The two 120mm fans sit at the front of the case.
+
+## Computer
+The CPU and RAM are not critical to this mining machine because the video cards do the heavy lifting. A simple Intel Celeron with only 4GB of RAM is all that is needed. A 250GB SSD is used to host the Windows 10 operating system.
+
+## Video Cards
+Four GTX1080 video cards are used to do the intense block chain math for confirming transactions. That many video cards will not fit directly next to each other on a motherboard so they are remotely located using PCIe riser cards specifically for mining. Decoding a block chain doesn't take much network capability just local processing power. The PCIe riser cards convert the PCIe x16 slots on the video card down to a PCIe x1 slot on the motherboard.
+
+Power for the PCIe slot must be connected along with the main 2x4 8pin Molex main power input connector on the video card. Each GTX1080 pulls around 150W of power so sizing the power supply is critical. The PCIe slot power can be connected and daisy chained to the SATA power from the power supply. However, the main power input must be connected directly to the power supply via high current cabling.
+
+## Power Supply
+A 1000W power supply was chosen to power the 4 GTX1080s. If more power supplies are needed in the future this power supply will need to be upgraded as each GTX1080 pull around 150W adding up to total computer consumption of ~950W which includes the CPU/motherboard/RAM/etc.
+
 # Windows 10 Install
-Text
+Windows 10 was chosen because it has native support for Nvidia graphics cards and requires almost no configuration to get up and running.
 
 # BIOS Motherboard Settings
-Text
+There are a few tweaks that are required for the motherboard to support the riser cards with the GTX1080s. 'Angry Chicken' on YouTube did an awesome video that shows the tweaks required to get up and running. 
 
-# Vertcoin (VTC) Core Wallet
-Text
+<div class="intrinsic-container intrinsic-container-16x9">
+  <iframe src="https://www.youtube.com/watch?v=4cd1qoTAHmA" frameborder="0" allowfullscreen></iframe>
+</div>
 
-# Vertcoin (VTC) One Click Miner
-Text
+# VTC Core Wallet
+A wallet is required to store the currency you earn for mining and each currency has a specific wallet. Vertcoin (VTC) has their own called "Vertcoin Core Wallet" which can be downloaded from their website [here](https://vertcoin.org/#downloads){:target="_blank"}. 
+
+Each wallet has an alpha-numeric address which is used to receive money, for example mine is "Vh5NhXwndniGFrKi1hNDkguMCaGHTAsuyS". Feel free to send me some coin :). This address will be input into the software that mines to periodically transfer the payout earned for mining.
+
+# VTC One Click Miner
+Software is required to latch onto the mining network. Vertcoin (VTC) has their own called "Vertcoin One Click Miner" which can be downloaded from their github repository [here](https://github.com/vertcoin/One-Click-Miner/releases){:target="_blank"}.
+
+Click "Find P2Pool Nodes" and select the ones that offer the lowest latency and fee of 1% or less. It is recommended to add more than one pool in case the first pool goes down. Next, "Select All Pools" and click "Start". You should immediately see the "Miner Hashrate" start increasing. With my 4 GTX1080 setup I get around 200Mh/s which currently equates to about $15 USD a day - not including electricity costs.
+
+It will take some time for the earned mining credit to show up in the VTC Core Wallet so just be patient. 
 
 # EVGA Precision XOC Monitoring
-Text
+EVGA has a tool used to monitor the status of the GTX video cards: temperature, clock frequencies, overclocking controls, etc. It can be a useful indicator if the machine is mining or not as the "VTC One Click Miner" hashrate status lags out sometimes. The software can be downloaded from EVGA's website [here](https://www.evga.com/precisionxoc/){:target="_blank"}.
 
 # Ledger Nano S Hardware Wallet
-Text
+It is highly recommended to use a hardware wallet to store crypto currency. The [Ledger Nano S](https://www.ledgerwallet.com/products/ledger-nano-s){:target="_blank"} is a good choice and can be purchased for about $100 USD. There are three types of wallets in the order of least to most secure: 1) web software wallet, 2) local software wallet, and 3) hardware wallet. The software wallets are hosted either on your local machine or a company hosts it on the web for you. Web software wallets have been hacked many times in the past and are not safe to store currency. Local machine software wallets are safer but can still be stolen if your computer is hacked.
 
+Hardware wallets on the other hand offer security by requiring an external piece of hardware to be connected to transfer money. Transactions can only be sent when the hardware is connected to a computer and validated through a user pin on the hardware wallet.
 
-
-
+# Conclusion
+This was an awesome project to get myself familiarized with crypto currency since I basically didn't know anything before this project. I've been mining for 1 month and made about $400 USD in VTC which equates to about a 5-6 month ROI but of course is not guaranteed and subject to fluctuations in VTC price. Ask any questions you may have in the comments below! Thanks for reading.
