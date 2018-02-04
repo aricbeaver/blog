@@ -8,7 +8,7 @@ tags:
  - electronics
 ---
 
-Coming soon!
+More info coming soon! Here is a teaser for now.
 
 
 # Components, Cost, and Links
