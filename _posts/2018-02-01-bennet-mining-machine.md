@@ -8,5 +8,4 @@ tags:
  - electronics
 ---
 
-# Preface
-text
+Coming soon!
