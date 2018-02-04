@@ -139,4 +139,4 @@ Once the script has been generated, there is no need to open Inno Setup anymore 
 # Download
 All of the source code and required prerequisites can be downloaded from the link below.
 
-![Toggle Networks - Version 1.0.3]({{ site.baseurl}}/files/Toggle_Networks/toggle_networks_1.0.3.zip)
+[Toggle Networks - Version 1.0.3]({{ site.baseurl}}/files/Toggle_Networks/toggle_networks_1.0.3.zip)
