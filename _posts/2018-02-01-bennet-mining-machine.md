@@ -28,7 +28,7 @@ The table below shows the bill of materials and total cost for this build. Build
 	}
 
 	tr:nth-child(even) {
-	    background-color: #959ca5;
+	    background-color: #646464;
 	}
 	</style>
 
