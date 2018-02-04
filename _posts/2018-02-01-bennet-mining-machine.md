@@ -170,12 +170,6 @@ There are a few tweaks that are required for the motherboard to support the rise
 	</div>
 </blockquote>
 
-<blockquote>
-	<div class="intrinsic-container intrinsic-container-16x9">
-	  <iframe src="https://www.youtube.com/embed/yzQTu955YMg" frameborder="0" allowfullscreen></iframe>
-	</div>
-</blockquote>
-
 # VTC Core Wallet
 A wallet is required to store the currency you earn for mining and each currency has a specific wallet. Vertcoin (VTC) has their own called "Vertcoin Core Wallet" which can be downloaded from their website [here](https://vertcoin.org/#downloads){:target="_blank"}. 
 
