@@ -80,9 +80,19 @@ The table below shows the bill of materials and total cost for this build. Build
 	    <td>$30</td>
 	  </tr>
 	  <tr>
+	  	<td>Operating System</td>
+	    <td><a href="https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR12.TRC2.A0.H0.Xwindows+10+key.TRS0&_nkw=windows+10+key&_sacat=0" target="_blank">Windows 10</a></td>
+	    <td>$15</td>
+	  </tr>
+	  <tr>
+	  	<td>SSD Hard Drive</td>
+	    <td><a href="https://www.newegg.com/Product/Product.aspx?Item=N82E16820156172" target="_blank">Crucial MX500</a></td>
+	    <td>$90</td>
+	  </tr>
+	  <tr>
 	  	<td>Total</td>
 	    <td><a href=""></a></td>
-	    <td>$2722</td>
+	    <td>$2827</td>
 	  </tr>
 	</table>
 </div>
@@ -159,7 +169,7 @@ Power for the PCIe slot must be connected along with the main 2x4 8pin Molex mai
 A 1000W power supply was chosen to power the 4 GTX1080s. If more power supplies are needed in the future this power supply will need to be upgraded as each GTX1080 pull around 150W adding up to total computer consumption of ~950W which includes the CPU/motherboard/RAM/etc.
 
 # Windows 10 Install
-Windows 10 was chosen because it has native support for Nvidia graphics cards and requires almost no configuration to get up and running.
+Windows 10 was chosen because it has native support for Nvidia graphics cards and requires almost no configuration to get up and running. You can buy an arguably counterfeit Windows 10 key on eBay for $15.  
 
 # BIOS Motherboard Settings
 There are a few tweaks that are required for the motherboard to support the riser cards with the GTX1080s. 'Angry Chicken' on YouTube did an awesome video that shows the tweaks required to get up and running. 
