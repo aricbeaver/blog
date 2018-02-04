@@ -8,12 +8,11 @@ tags:
  - electronics
 ---
 
+# Preface
 More info coming soon! Here is a teaser for now.
-
 
 # Components, Cost, and Links
 The table below shows the bill of materials and total cost for this build. Building a mining machine is quite the investment! Luckily the video cards were purchased in November of 2017 before the prices tripled in January of 2018.
-
 
 <div>
 	<style>
@@ -87,3 +86,83 @@ The table below shows the bill of materials and total cost for this build. Build
 	  </tr>
 	</table>
 </div>
+
+# Build
+Text
+
+## Pictures
+Here are the pictures I took during the build process.
+<div>
+	<a rel="gallery-build" href="{{ site.baseurl}}/images/bennett/big/1.jpg" class="swipebox" title="Before unboxing components">
+	<img src="{{ site.baseurl}}/images/bennett/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-build" href="{{ site.baseurl}}/images/bennett/big/2.jpg" class="swipebox" title="Scattered fans before installation">
+	<img src="{{ site.baseurl}}/images/bennett/small/2.jpg" alt="image"></a>
+
+	<a rel="gallery-build" href="{{ site.baseurl}}/images/bennett/big/3.jpg" class="swipebox" title="Starting to install fans on middle fan bracket">
+	<img src="{{ site.baseurl}}/images/bennett/small/3.jpg" alt="image"></a>
+
+	<a rel="gallery-build" href="{{ site.baseurl}}/images/bennett/big/4.jpg" class="swipebox" title="Motherboard back IO panel">
+	<img src="{{ site.baseurl}}/images/bennett/small/4.jpg" alt="image"></a>
+
+	<a rel="gallery-build" href="{{ site.baseurl}}/images/bennett/big/5.jpg" class="swipebox" title="Nice clean wiring on middle fan bracket">
+	<img src="{{ site.baseurl}}/images/bennett/small/5.jpg" alt="image"></a>
+
+	<a rel="gallery-build" href="{{ site.baseurl}}/images/bennett/big/6.jpg" class="swipebox" title="Middle fan bracket installed">
+	<img src="{{ site.baseurl}}/images/bennett/small/6.jpg" alt="image"></a>
+
+	<a rel="gallery-build" href="{{ site.baseurl}}/images/bennett/big/7.jpg" class="swipebox" title="Rear exhaust fans installed">
+	<img src="{{ site.baseurl}}/images/bennett/small/7.jpg" alt="image"></a>
+
+	<a rel="gallery-build" href="{{ site.baseurl}}/images/bennett/big/8.jpg" class="swipebox" title="GTX 1080 unboxing">
+	<img src="{{ site.baseurl}}/images/bennett/small/8.jpg" alt="image"></a>
+
+	<a rel="gallery-build" href="{{ site.baseurl}}/images/bennett/big/9.jpg" class="swipebox" title="Intial placement of GTX1080">
+	<img src="{{ site.baseurl}}/images/bennett/small/9.jpg" alt="image"></a>
+
+	<a rel="gallery-build" href="{{ site.baseurl}}/images/bennett/big/10.jpg" class="swipebox" title="Two GTX1080 placed">
+	<img src="{{ site.baseurl}}/images/bennett/small/10.jpg" alt="image"></a>
+
+	<a rel="gallery-build" href="{{ site.baseurl}}/images/bennett/big/11.jpg" class="swipebox" title="Power supply installed">
+	<img src="{{ site.baseurl}}/images/bennett/small/11.jpg" alt="image"></a>
+
+	<a rel="gallery-build" href="{{ site.baseurl}}/images/bennett/big/12.jpg" class="swipebox" title="CPU and memory installed">
+	<img src="{{ site.baseurl}}/images/bennett/small/12.jpg" alt="image"></a>
+
+	<a rel="gallery-build" href="{{ site.baseurl}}/images/bennett/big/13.jpg" class="swipebox" title="First riser card wired and installed">
+	<img src="{{ site.baseurl}}/images/bennett/small/13.jpg" alt="image"></a>
+
+	<a rel="gallery-build" href="{{ site.baseurl}}/images/bennett/big/14.jpg" class="swipebox" title="All wiring installed, quite a few of them!">
+	<img src="{{ site.baseurl}}/images/bennett/small/14.jpg" alt="image"></a>
+
+	<a rel="gallery-build" href="{{ site.baseurl}}/images/bennett/big/15.jpg" class="swipebox" title="SSD drive for Windows 10 OS">
+	<img src="{{ site.baseurl}}/images/bennett/small/15.jpg" alt="image"></a>
+
+	<a rel="gallery-build" href="{{ site.baseurl}}/images/bennett/big/16.jpg" class="swipebox" title="SSD drive for Windows 10 OS">
+	<img src="{{ site.baseurl}}/images/bennett/small/16.jpg" alt="image"></a>
+
+	<a rel="gallery-build" href="{{ site.baseurl}}/images/bennett/big/17.jpg" class="swipebox" title="All four GTX1080s installed">
+	<img src="{{ site.baseurl}}/images/bennett/small/17.jpg" alt="image"></a>
+</div>
+
+# Windows 10 Install
+Text
+
+# BIOS Motherboard Settings
+Text
+
+# Vertcoin (VTC) Core Wallet
+Text
+
+# Vertcoin (VTC) One Click Miner
+Text
+
+# EVGA Precision XOC Monitoring
+Text
+
+# Ledger Nano S Hardware Wallet
+Text
+
+
+
+
