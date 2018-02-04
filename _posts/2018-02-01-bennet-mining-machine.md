@@ -14,7 +14,7 @@ More info coming soon! Here is a teaser for now.
 # Components, Cost, and Links
 The table below shows the bill of materials and total cost for this build. Building a mining machine is quite the investment! Luckily the video cards were purchased in November of 2017 before the prices tripled in January of 2018.
 
-<blockquote>
+
 	<style>
 	table {
 	    border-collapse: collapse;
@@ -84,4 +84,3 @@ The table below shows the bill of materials and total cost for this build. Build
 	    <td>$2722</td>
 	  </tr>
 	</table>
-</blockquote>
