@@ -19,7 +19,7 @@ The table below shows the bill of materials and total cost for this build. Build
 	<style>
 	table {
 	    border-collapse: collapse;
-	    table-layout: fixed;
+	    word-break: break-all;
 	    width: 100%;
 	}
 
