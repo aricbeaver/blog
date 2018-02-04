@@ -100,7 +100,7 @@ Open Inno Setup, File > New, and walk through the setup wizard dialogs. An ISS s
 ; NOTE: The value of AppId uniquely identifies this application.
 ; Do not use the same AppId value in installers for other applications.
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
-AppId={{F54DD77C-3DE2-480C-944B-D2EAD7C74653}
+AppId={ {F54DD77C-3DE2-480C-944B-D2EAD7C74653}
 AppName={#MyAppName}
 AppVersion={#MyAppVersion}
 ;AppVerName={#MyAppName} {#MyAppVersion}
