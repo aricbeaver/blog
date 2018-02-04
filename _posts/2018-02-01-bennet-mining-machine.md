@@ -164,9 +164,17 @@ Windows 10 was chosen because it has native support for Nvidia graphics cards an
 # BIOS Motherboard Settings
 There are a few tweaks that are required for the motherboard to support the riser cards with the GTX1080s. 'Angry Chicken' on YouTube did an awesome video that shows the tweaks required to get up and running. 
 
-<div class="intrinsic-container intrinsic-container-16x9">
-  <iframe src="https://www.youtube.com/watch?v=4cd1qoTAHmA" frameborder="0" allowfullscreen></iframe>
-</div>
+<blockquote>
+	<div class="intrinsic-container intrinsic-container-16x9">
+	  <iframe src="https://www.youtube.com/embed/4cd1qoTAHmA" frameborder="0" allowfullscreen></iframe>
+	</div>
+</blockquote>
+
+<blockquote>
+	<div class="intrinsic-container intrinsic-container-16x9">
+	  <iframe src="https://www.youtube.com/embed/yzQTu955YMg" frameborder="0" allowfullscreen></iframe>
+	</div>
+</blockquote>
 
 # VTC Core Wallet
 A wallet is required to store the currency you earn for mining and each currency has a specific wallet. Vertcoin (VTC) has their own called "Vertcoin Core Wallet" which can be downloaded from their website [here](https://vertcoin.org/#downloads){:target="_blank"}. 
@@ -184,7 +192,7 @@ It will take some time for the earned mining credit to show up in the VTC Core W
 EVGA has a tool used to monitor the status of the GTX video cards: temperature, clock frequencies, overclocking controls, etc. It can be a useful indicator if the machine is mining or not as the "VTC One Click Miner" hashrate status lags out sometimes. The software can be downloaded from EVGA's website [here](https://www.evga.com/precisionxoc/){:target="_blank"}.
 
 # Ledger Nano S Hardware Wallet
-It is highly recommended to use a hardware wallet to store crypto currency. The [Ledger Nano S](https://www.ledgerwallet.com/products/ledger-nano-s){:target="_blank"} is a good choice and can be purchased for about $100 USD. There are three types of wallets in the order of least to most secure: 1) web software wallet, 2) local software wallet, and 3) hardware wallet. The software wallets are hosted either on your local machine or a company hosts it on the web for you. Web software wallets have been hacked many times in the past and are not safe to store currency. Local machine software wallets are safer but can still be stolen if your computer is hacked.
+It is highly recommended to use a hardware wallet to store crypto currency. The [Ledger Nano S](https://www.ledgerwallet.com/products/ledger-nano-s){:target="_blank"} is a good choice and can be purchased for about $100 USD. There are three types of wallets in the order of least to most secure: 1) web software wallet, 2) local software wallet, and 3) hardware wallet. The software wallets are hosted either on your local machine or a company hosts it on the web for you. Web software wallets have been hacked many times in the past and are not safe to store currency. Local software wallets are safer but can still be stolen if your computer is hacked.
 
 Hardware wallets on the other hand offer security by requiring an external piece of hardware to be connected to transfer money. Transactions can only be sent when the hardware is connected to a computer and validated through a user pin on the hardware wallet.
 
