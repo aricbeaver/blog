@@ -28,7 +28,7 @@ Inno Setup is used to create an installer for the executable created with Bat to
 # The Batch Code
 The built in Windows function `netsh wlan` is the primary function used to discover the wireless networks. Notifu.exe must be in the same directory has this batch file to work properly. View the comments in the code snippet below for a description of each code block.
 
-```Batchfile
+``` Batchfile
 @echo off
 
 REM Setup networks to toggle between
