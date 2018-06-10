@@ -127,6 +127,10 @@ A wood ring spacer was made to fit inside the empty space between the thin fiber
 	<img src="{{ site.baseurl }}/images/fan/small/29.jpg" alt="image"></a>
 </div>
 
+## MORE INSTALLATION DETAILS COMING SOON!!
+I have yet to cut a hole in the roof to install, seal, and wire the roof fan. More details to come when I get too hot one of these summer days.
+
+<!--
 ## Cutting Hole in Roof
 Description
 
@@ -153,7 +157,7 @@ Description
 
 # Conclusions and Thoughts
 Description 
-
+-->
 
 
 
