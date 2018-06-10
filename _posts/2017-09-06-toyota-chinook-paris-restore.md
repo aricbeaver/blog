@@ -2095,7 +2095,7 @@ The heater is installed on the front side of the rear drivers side closet; reces
 	<a rel="gallery-heater" href="{{ site.baseurl}}/images/chinook/heater/big/2.jpg" class="swipebox" title="Heater installation with supporting wood frame">
 	<img src="{{ site.baseurl}}/images/chinook/heater/small/2.jpg" alt="image"></a>
 
-	<a rel="gallery-heater" href="{{ site.baseurl}}/images/chinook/heater/big/3.jpg" class="sw	ipebox" title="Heater installation compelete from rear">
+	<a rel="gallery-heater" href="{{ site.baseurl}}/images/chinook/heater/big/3.jpg" class="swipebox" title="Heater installation compelete from rear">
 	<img src="{{ site.baseurl}}/images/chinook/heater/small/3.jpg" alt="image"></a>
 </blockquote>
 
