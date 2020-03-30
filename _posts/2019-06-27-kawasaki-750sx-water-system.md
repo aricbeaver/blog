@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding the Water Cooling System on a Kawasaki 750sx Standup Jetski"
-date: 2019-10-17 00:00:00
+date: 2019-06-27 00:00:00
 description: The water cooling system flow and overview for a Kawasaki 750sx standup jetski.
 comments: true
 tags: 
