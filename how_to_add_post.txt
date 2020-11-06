@@ -1,3 +1,5 @@
+0) Install jekyll
+    https://jekyllrb.com/docs/installation/ubuntu/
 1) Create new post in blog/_posts/<name_of_post>.md
 2) Remove old jekyll _site/ and tag/ directories
 	"rm -R _site"
