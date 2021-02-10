@@ -23,8 +23,8 @@ The custom manifold will likely fit Husqvarna models SM/TC/TE with displacement 
 8000A0031 Union 450
 
 # Purchase
-[Intake Manifold from eBay](https://ebay.us/kPb8Aa){:target="_blank"}
-[Fuel Inlet O-rings from eBay](https://ebay.us/dVrR2d){:target="_blank"}
+[Intake Manifold from eBay](https://www.ebay.com/itm/184523408508){:target="_blank"}
+[Fuel Inlet O-rings from eBay](https://www.ebay.com/itm/183640045479){:target="_blank"}
 
 
 # Video of Removal and Installation
