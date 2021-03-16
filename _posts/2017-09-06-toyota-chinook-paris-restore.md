@@ -13,7 +13,7 @@ tags:
 
 # Introduction
 
-Welcome to the restoration of a 1977 Toyota Chinook motorhome! The project took me about 1.5 years to complete and is now my full-time living situation. 
+Welcome to the restoration of a 1977 Toyota Chinook motorhome! The project took me about 1.5 years to complete and this blog post has all the information you will ever need to know about a Toyota Chinook. I hope everyone finds this information enjoyable or useful for your restoration.
 
 The chassis is a long bed 1977 Toyota Pickup (also know as Hilux) with a fiberglass shell attached. The truck has a classic carbureted 20R engine. These were manufactured by a out of business company called Chinook in Washington State that also made other variations of camper conversions such as the Omega, Concourse, and Newport. I purchased two Chinooks for $500 each and used one for parts and the other for the restoration. The roof pops up and has about six feet and 2 inches of clearance from head to toe; at 6'4" I am still comfortable. 
 
@@ -2522,19 +2522,6 @@ The leaf springs were quite worn out so they were rebuilt by a local Portland co
 	<a rel="gallery-leaf_spring" href="{{ site.baseurl}}/images/chinook/leaf_spring/big/2.jpg" class="swipebox" title="Leaf spring rebuild">
 	<img src="{{ site.baseurl}}/images/chinook/leaf_spring/small/2.jpg" alt="image"></a>
 </blockquote>
-
-# Moving In
-
-Well... perfect timing to my new life! I now live in Paris and have for about 2 months, as of writing this post. The things you see on the couch are the only items I took with me during this little adventure: clothes, laptop, blankets, sheets, pillows, and thats about it! Still working out a few kinks with the propane and electrical system as well as an unexpected water leak but all is well! 
-
-<blockquote>
-	<a rel="gallery-move_in" href="{{ site.baseurl}}/images/chinook/move_in/big/1.jpg" class="swipebox" title="The only items I took from my entire house when moving in">
-	<img src="{{ site.baseurl}}/images/chinook/move_in/small/1.jpg" alt="image"></a>
-
-	<a rel="gallery-move_in" href="{{ site.baseurl}}/images/chinook/move_in/big/2.jpg" class="swipebox" title="The only items I took from my entire house when moving in">
-	<img src="{{ site.baseurl}}/images/chinook/move_in/small/2.jpg" alt="image"></a>
-</blockquote>
-
 
 # Comments
 
