@@ -28,7 +28,7 @@ The custom manifold will likely fit Husqvarna models SM/TC/TE with displacement 
 [Intake Manifold from Facebook Marketplace](https://www.facebook.com/marketplace/item/4458260110854897/){:target="_blank"}
 
 ## Option 2 - PayPal
-International buyers or buyers that prefer to not use Facebook Marketplace can use PayPal. Domestic shipping is free and international shipping varies from $15 to $30 depending on your location. Please contact me at [aric.beaver@gmail.com](mailto:aric.beaver@gmail.com){:target="_blank"} and I will send you a PayPal invoice.
+International buyers or buyers that prefer to not use Facebook Marketplace can use PayPal. Domestic shipping is free and international shipping varies from $15 to $30 depending on your location. Please contact me at [aric.beaver@gmail.com](mailto:aric.beaver@gmail.com){:target="_blank"} with your **PayPal email address and full shipping address** and I will send you a PayPal invoice
 
 # Video of Removal and Installation
 
