@@ -11,6 +11,107 @@ tags:
  - mechanical
 ---
 
+# Paris is For Sale
+
+I have had many wonderful adventures in Paris over the years. But... it is time to move on. Paris is for sale. Please contact me at <a href="mailto:aric.beaver@gmail.com?Subject=Paris is For Sale" target="_top">aric.beaver@gmail.com</a> if you have interest.
+
+![Paris is For Sale]({{site.baseurl}}/images/chinook/for_sale/big/0.png)
+
+Here are the most recent photos taken earlier this year.	
+
+<blockquote>
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/1.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/1.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/2.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/2.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/3.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/3.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/4.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/4.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/5.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/5.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/6.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/6.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/7.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/7.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/8.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/8.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/9.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/9.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/10.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/10.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/11.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/11.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/12.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/12.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/13.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/13.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/14.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/14.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/15.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/15.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/16.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/16.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/17.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/17.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/18.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/18.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/19.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/19.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/20.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/20.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/21.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/21.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/22.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/22.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/23.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/23.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/24.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/24.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/25.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/25.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/26.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/26.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/27.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/27.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/28.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/28.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/29.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/29.jpg" alt="image"></a>
+
+	<a rel="gallery-intro" href="{{ site.baseurl}}/images/chinook/for_sale/big/30.jpg" class="swipebox" title="asdfasdf">
+	<img src="{{ site.baseurl}}/images/chinook/for_sale/small/30.jpg" alt="image"></a>
+
+</blockquote>
+
 # Introduction
 
 Welcome to the restoration of a 1977 Toyota Chinook motorhome! The project took me about 1.5 years to complete and this blog post has all the information you will ever need to know about a Toyota Chinook. I hope everyone finds this information enjoyable or useful for your restoration.
